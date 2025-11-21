@@ -1,0 +1,26 @@
+efhmnqsvwxy
+;lees letters xyqhsnwefmv
+y   s   x   h   n   f   v   m   q   e
+e q m w s y f x h n v
+x s w v n y f w s q v v n q
+;zoek letters xyqhsnwefmv
+e#m   x   y   h   s   w   n   q   f   e
+s#m   x   h   n   n   x   h   e   h   s
+s#h m n q w f y e x v s
+f#m w f h q m s n f v w v n f
+;lees woorden xyqhsnwefmv
+we   vee   hem   eef   mes   eveneens
+hem hees neven mee neem snee fee veen en
+wees mes eveneens heen hen eef even
+;zoek woorden xyqhsnwefmv
+eef#effe   meen   me   eef   eens   ene
+nemen#nemen   fee   ene   nee   hens
+vee#neen eef even effen mensen nee vee
+vee#meenemen neven en ex ex wennen vee
+;type letters xyqhsnwefmv
+$e   m   s   h   w   y   n   q   v   x
+$m q f w h y n x e s v
+$w y v w q f q s
+;type woorden xyqhsnwefmv
+$mees
+$eens mee we

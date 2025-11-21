@@ -1,0 +1,102 @@
+abdefiklmruv
+;lees letters idurefmvabkl
+k   a   d   i   v   f   m   u   b   e
+k   e   a   u   r   f   v   i   d   m
+l   a   b   v   d   m   i   k   r   f
+d   a   v   b   f   u   k   m   i   r
+a   f   m   v   l   e   i   r   b   k
+v m k f i b r a d e u l
+u k m f d e a b i l r v
+i u k f v l a r b d m e
+f l m k r b v a i d e u
+m r k e l v a u i b f d
+m e r e i a m l m d a a e d
+r b l d b k k m e e v b a k
+r a u i k v e f d m r a v u
+f k k m d d f i b a e m k r
+r v b k l i r r v l a m m b
+;zoek letters idurefmvabkl
+v#v   a   d   e   r   i   m   f   l   k
+e#e   r   b   m   k   f   v   a   d   l
+v#v   r   m   e   a   d   u   l   b   i
+b#b   a   f   k   m   e   i   l   u   d
+e#e   i   d   l   r   a   v   f   k   b
+i#i   u   l   u   k   b   e   m   l   e
+v#v   f   k   f   b   a   u   b   l   d
+r#r   b   k   a   a   v   d   i   l   l
+k#k   d   b   l   v   m   l   u   k   a
+b#b   i   i   k   e   v   l   f   k   f
+v#u a v d i l m e b r f k
+v#u e v l b d i m k a f r
+m#i l m k d f u e v a r b
+l#a r l d e v i m k b f u
+v#l e v k m f u d i b r a
+l#v f i l k i f l a r f k r k
+k#u v r i f f d k v v l l u k
+d#i e u e e e i d f b u l b f
+a#a b b i d m r a r d d i i u
+r#f r e b b a v r d e i d r l
+;lees woorden idurefmvabkl
+raaf   bul   drummer   ram   draad
+aal   maar   breuk   kliek   darm   adem
+bril   liever   km   kleur   vuurbal
+eef   beuk   breuk   beleid   fee   leef
+raai   mik   kliek   muf   bever   ferm
+elf val melk meerde kleed braille vuil
+vermaak ideaal bier kruik verliefde klim
+bleek elke brem bakblik adem lever eer
+dak lekkerder braille meer maaide bakker
+ei vrede aar erker deurbel lire aula
+beleid raar dief duif idee drum dakraam
+deed aar lade baar ei medium erker raak
+lafaard vuur dal vel mal aard mede kleed
+muf ruiker madam kef duur verkeer fik
+km verblik klei kil kriek kikker vier
+;zoek woorden idurefmvabkl
+der#bakmeel   duim   adder   der   kaai
+bad#leek   leerde   bami   bad   ladder
+marmer#vervulbaar   erf   marmer   bal
+die#bureau   vreemd   bevel   die   reuk
+rik#vuurbal   liever   lief   rik   aak
+rib#darm   bevaar   bal   rib   lier
+buk#aambeeld   bereid   buk   lekke
+kameel#kruik   vaal   kameel   liever
+lui#maal   beker   leefbaar   lui   vale
+vermaak#klam   kalk   vermaak   baard
+vulde#eb larve fel verklik vulde vuur
+kaak#eed krakeel kaak raaf lef klef leek
+ik#verbaal aard ik de dak liefde ruiker
+idem#die rek badkamer liever idem kiek
+id#ba verklik id barak brul vlam duurder
+uur#ruim mam uur lak bel fabel via lila
+la#bereid ruim la fraaie iel luim reuk
+dal#lafbek kelder duim allemaal dal buik
+rivier#maalde leuke kamer reuma rivier
+fraaie#krik balk veelal ieder fraaie
+;type letters idurefmvabkl
+$e   a   d   b   m   u   v   k   i   r
+$f   l   i   b   m   v   r   a   k   e
+$a   r   v   k   l   u   f   m   i   e
+$u   i   l   f   a   r   d   b   e   v
+$v   i   a   f   d   r   u   b   l   m
+$m b i l a f k u e r d v
+$d b i m e v l f r u k a
+$m f u l e k i a v d b r
+$f r l a b u i k m v d e
+$b a d v l i k u r e f m
+$l r e i k i m a
+$v v k f e a k f
+$b r e a a f v d
+$d b a k a v m m
+$f r d i v a m k
+;type woorden idurefmvabkl
+$meevaller
+$duik
+$krul
+$madam
+$verbruik
+$ludiek madam au
+$deur vuil rakker
+$bakkebaard lekke duf
+$lafaard kar mei
+$meer kaf breker

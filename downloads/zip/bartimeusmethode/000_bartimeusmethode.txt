@@ -1,0 +1,2614 @@
+;=== abkl ===
+abkl
+;lees letters abkl
+l   k   a   b
+a   l   b   k
+a   l   b   k
+l   k   a   b
+k   l   a   b
+a k b l
+k a b l
+k b a l
+a l b k
+b a l k
+a b a l l a b b l l a a k l
+b l a b a k k b k a a a k k
+a b k l k l a a l a b b b b
+a l b k b a l a a b k k a a
+l b l b l b k l b b l k l l
+;zoek letters abkl
+a#k   l   b   a
+b#a   l   k   b
+a#b   l   k   a
+a#b   l   k   a
+a#k   b   l   a
+a#k   b   a   l   k   a   a   k   a   l
+b#l   k   a   l   l   a   b   k   a   k
+l#a   l   a   a   a   k   l   k   b   b
+k#a   k   l   l   b   l   k   a   l   k
+k#b   a   l   k   l   a   k   b   l   b
+b#a k l b
+b#l a k b
+b#l k a b
+b#k a l b
+a#k l b a
+b#b k a k b k b a k b k b a l
+b#b k b a b l l a l k a l k a
+k#k l l b k b a b k b b l k l
+l#l l b l k k b b k k l b a l
+b#b a a l l a a b b k l l k l
+;lees woorden abkl
+baal   kaak   bal   bak   al   aak   aal
+al   lak   aal   bak   klak   la   kaak
+kaak   klak   bak   bal   baal   lal
+kaal   lak   bal   balk   klak   al   ba
+kaak   ba   balk   kalk   baal   al   la
+lal bak ba klak kalk la baal kaal balk
+lal bal ba aal baal kaal aak al bak kalk
+al bak la kalk kaal lak klak lal bal aak
+aak lak aal baal ba al bal kaak klak
+lak balk baal la aal bak kaak ba bal
+al la lak lal lal lal kaak baal ba lal
+lak kaal la aal la balk aal kaal lak lak
+klak bal aak la kalk balk kaal aal kalk
+kaal balk kalk lal bal balk baal bal la
+aak lal balk bak ba bak ba ba baal bal
+;zoek woorden abkl
+aak#ba   aal   balk   kaak   lak   aak
+baal#bak   ba   balk   kaal   aal   baal
+bal#aal   balk   baal   al   bak   bal
+balk#aak   bal   baal   klak   la   balk
+kaak#kalk   balk   kaal   kaak   lak
+lal#aak   kalk   klak   kaak   bal   lal
+kalk#lak   baal   kaak   ba   bak   kalk
+bak#kaal   kaak   kalk   ba   balk   bak
+aak#bal   balk   aal   aak   aak   aak
+kalk#lal   al   al   ba   la   kalk   al
+kaak#la aak bal aal lal al kaak baal ba
+aak#al kaal kaak ba lak bal aak bak la
+bak#bal bak al aal kaak kalk balk klak
+bal#bak lal ba al klak baal bal aak balk
+lak#kaak ba balk lal la al lak kaal baal
+balk#lal balk al lal balk la kalk klak
+ba#klak aak lak klak kalk baal ba ba lal
+lal#klak lal balk la kalk lal baal kaak
+kalk#klak kalk lak baal ba klak la bak
+bal#balk aal al al ba bak bal baal bal
+;type letters abkl
+$a   k   l   b
+$b   a   k   l
+$k   b   a   l
+$b   k   a   l
+$b   l   a   k
+$b k a l
+$b l k a
+$k a b l
+$k a b l
+$b a k l
+$l a a a k l l k
+$b k l b b l k l
+$a l l l k b l l
+$b a l b b b b l
+$l k a b l l b a
+;type woorden abkl
+$ba
+$bal
+$lal
+$balk
+$aal
+$aal ba kaak
+$bak aal kalk
+$lak la balk
+$klak bak baal
+$lal baal aak
+;=== cgop ===
+cgop
+;lees letters cgop
+p   c   g   o
+c   o   g   p
+p   g   c   o
+p   g   c   o
+p   g   c   o
+o c p g
+o c g p
+p c g o
+g p c o
+g p o c
+c o p o p c p c c o c p o o
+p c g o o p o c g p p g c g
+g g g g o c c o o o p o o c
+o o g c o g o p o c c c g o
+c p g p g o c c p p c o c g
+;zoek letters cgop
+c#o   c   g   p
+g#p   g   c   o
+g#c   g   o   p
+c#g   c   p   o
+c#o   c   g   p
+p#o   o   o   g   o   p   c   c   g   p
+o#g   c   g   o   o   o   g   c   c   o
+p#g   c   p   o   g   p   p   o   p   p
+g#p   p   c   p   g   g   c   c   o   c
+o#c   p   o   c   c   o   p   g   c   g
+g#p g o c
+g#c g p o
+g#c g p o
+c#o c p g
+p#c p g o
+p#c o c p p g o p c c o p p o
+c#c g g p c g g g g c o o g g
+g#g c p o g o g c o g c p o p
+o#o p g o o o c o p g p p c o
+p#p g p o p p g g p o g p c g
+;lees woorden cgop
+oog   po   op   pop
+op   po   oog   pop
+op   oog   pop   po
+op   po   pop   oog
+op   pop   oog   po
+oog pop op po
+oog op po pop
+oog pop op po
+oog pop po op
+pop op po oog
+op pop pop oog pop oog op op op oog
+oog po oog op oog pop po op oog po
+po op pop op pop oog op op pop po
+oog pop oog pop oog po op pop po po
+pop op po po op oog op oog op po
+;zoek woorden cgop
+po#po   pop   oog   op
+pop#pop   oog   op   po
+pop#pop   po   op   oog
+po#po   pop   oog   op
+po#po   pop   op   oog
+pop#po   pop   pop   op   oog   oog   op
+po#po   oog   po   op   pop   oog   po
+oog#po   op   oog   po   po   op   po
+pop#po   pop   pop   oog   oog   po   po
+op#op   po   op   pop   pop   pop   oog
+oog#oog pop po op
+op#op oog po pop
+oog#oog op po pop
+oog#oog pop po op
+pop#pop po oog op
+op#op pop po oog po op po po op op
+pop#pop po po op po oog oog op op pop
+po#po oog po op pop pop op op oog po
+op#op pop op op po oog pop po pop op
+pop#pop po oog op op oog po po po op
+;type letters cgop
+$p   g   o   c
+$p   o   g   c
+$p   o   g   c
+$p   g   o   c
+$o   g   c   p
+$g c p o
+$g p c o
+$c p g o
+$c p g o
+$c p o g
+$p g c p c p o g
+$g g c c g o c o
+$p g c o p p c c
+$p c p p g p g p
+$g p p c c c g g
+;type woorden cgop
+$pop
+$pop
+$op
+$pop
+$op
+$po pop oog
+$op po pop
+$oog po pop
+$pop po oog
+$po oog op
+;=== abklcgop ===
+abcgklop
+;lees letters abklcgop
+o   k   g   p   c   l   b   a
+b   o   l   k   p   g   a   c
+a   o   k   g   c   p   l   b
+c   l   k   g   a   o   p   b
+g   a   b   p   l   c   o   k
+b a o k g c l p
+c o b k l g a p
+b k p o g c l a
+o g a p k b l c
+b p o l c g k a
+b g o p p l l l g k a l g a
+g l l l o b k g b c a g p g
+l c p c p k p b o g p o k p
+p b p o o o a p o l c l o k
+k k o g c a o g g p c c g k
+;zoek letters abklcgop
+c#a   c   o   l   b   k   g   p
+l#k   l   p   b   o   g   c   a
+l#b   l   p   a   k   o   g   c
+p#k   p   g   c   a   o   b   l
+c#o   c   g   l   k   a   p   b
+g#l   l   l   g   g   a   a   g   o   l
+l#l   b   o   l   l   c   b   l   l   g
+p#k   l   a   c   p   b   o   b   p   p
+l#b   g   k   o   l   p   k   o   c   a
+l#a   o   k   o   l   b   a   c   l   k
+p#a p c g l b o k
+c#a c o p b l g k
+o#g o b a p c k l
+c#p c k l b o g a
+k#g k a c b p o l
+k#o g b b p b p c p k a k g c
+c#l l o g o p o g c c b c p k
+o#k k b k a c c g o l a o c b
+a#p a p o p k l o l o b a o p
+k#p a b l k o b g g g b k l g
+;lees woorden abklcgop
+opklap   papa   galg   kol   kalk   kook
+boog   gaap   polka   pap   oppak   kalk
+bol   opklop   kol   bal   klaag   paal
+bol   oplap   bob   gaap   bok   klok
+bob   kaap   lokaal   galop   oog   papa
+polka pap pop lak aal la pak oog kalk
+bob klap oog logo balg op oplap ook balk
+al bak cacao kaak log laag bob klap opga
+ga kaak lap opa koop ba loop gaap kopbal
+kalk balg paal gal al kok aak opkoop
+pak kalk aal kop cola laag oploop bob
+opkoop op gok logo opga look klaag kap
+oppak bak papa op op gap log po log
+pap gal opa gok klop pop cacao look pak
+aal lap lokaal gal la la klop gal bok
+;zoek woorden abklcgop
+aal#balg   klak   klok   gap   bol   aal
+pal#papa   lak   cacao   klak   pal
+kol#cacao   plak   bak   ba   kaap   kol
+bak#pap   logo   lal   ook   gala   bak
+ook#lak   gok   baal   ba   bok   ook
+oplap#al   logo   bob   bal   al   oplap
+balk#kaak   aak   lol   al   galg   balk
+kok#lap   klap   bol   gal   kolk   kok
+oog#bob   kopbal   boog   pal   oog
+plak#al   kopbal   klop   boog   plak
+lak#pappa klak klop boog gaap lak polka
+kap#goal gaap cacao kok kolk kap oploop
+blok#kalk gal lol logo opga blok kopbal
+opklap#al plak kook la balg opklap aal
+klop#baal kol bob kopbal bal klop plaag
+kook#cola plak plaag kaap pak kook lap
+klop#gal cola klop pa bok cola kook klak
+pak#pak kaak kaak aak log kap pop oploop
+bok#bok balg pook kop kok aak loog kok
+oplap#oplap plak plaag kaak oplap kalk
+;type letters abklcgop
+$b   p   g   o   k   a   l   c
+$a   o   l   c   g   b   k   p
+$l   c   o   g   b   a   k   p
+$b   g   p   o   k   c   l   a
+$a   c   k   o   g   p   b   l
+$o l a p c b g k
+$l p c a g k b o
+$l k o g c b a p
+$c k b p l g o a
+$l a o c k g b p
+$o a g b p a k o
+$b l o b k k c o
+$c o p c b b l c
+$o o c b o a l o
+$b b g c g a k c
+;type woorden abklcgop
+$balk
+$logo
+$lol
+$loog
+$loog
+$polka lol cola
+$aal gaap look
+$kap la kopbal
+$aap oplap ook
+$loop al pappa
+;=== efmv ===
+efmv
+;lees letters efmv
+f   v   m   e
+v   m   e   f
+v   m   f   e
+e   m   v   f
+f   m   e   v
+m f v e
+e f v m
+m f e v
+m e f v
+v e m f
+f f e e v f e f f f m e f v
+f m v e e f m v f f f m f m
+e m f m e e e e e v m e m v
+m v e f e e f f v e v m m f
+f v v v e v m m v m e e v v
+;zoek letters efmv
+v#e   f   v   m
+e#m   f   e   v
+m#e   f   m   v
+v#f   e   v   m
+m#f   e   m   v
+v#e   e   m   v   f   f   f   v   m   v
+f#v   e   v   f   f   f   m   e   f   m
+m#e   e   f   m   m   e   v   m   e   f
+f#m   v   f   f   v   e   v   v   v   m
+v#e   m   m   v   e   e   e   e   f   v
+v#e f v m
+m#v f m e
+m#e f m v
+m#f e m v
+m#f e m v
+f#f f v v f f e f f e e m e m
+m#v m m m f v e e f v f v f m
+m#e m m f v e e m f v v v v v
+v#e v e e e f e f e v v m v v
+e#e e m v m m e e e v m f v v
+;lees woorden efmv
+me   eef   effe   mee   vee   fee
+effe   mee   me   fee   eef   vee
+mee   eef   fee   effe   me   vee
+effe   eef   fee   mee   me   vee
+me   effe   mee   eef   vee   fee
+mee eef me fee vee effe
+fee effe eef mee vee me
+effe me fee mee eef vee
+me vee effe eef fee mee
+me fee eef mee effe vee
+eef effe me vee effe vee me vee fee eef
+effe eef eef vee mee effe effe vee eef
+effe me fee vee mee mee mee mee eef eef
+me eef mee fee mee mee fee effe mee vee
+mee mee eef mee mee mee eef me fee me
+;zoek woorden efmv
+vee#vee   mee   fee   effe   me   eef
+me#me   eef   fee   effe   vee   mee
+effe#effe   fee   eef   mee   me   vee
+vee#vee   mee   me   effe   eef   fee
+fee#fee   eef   vee   effe   mee   me
+eef#eef   mee   eef   vee   vee   vee
+mee#mee   vee   mee   vee   eef   effe
+effe#effe   vee   effe   fee   eef   me
+vee#vee   mee   vee   me   mee   effe
+fee#fee   mee   fee   eef   mee   me
+effe#effe eef vee fee me mee
+mee#mee eef effe fee vee me
+eef#eef mee fee me vee effe
+fee#fee mee vee me eef effe
+mee#mee me vee eef fee effe
+fee#fee eef effe mee mee fee vee effe
+eef#eef effe eef eef vee eef vee effe
+mee#effe me me fee eef eef mee mee me me
+fee#fee effe eef fee eef me vee me vee
+eef#eef vee effe eef mee effe vee fee me
+;type letters efmv
+$v   e   f   m
+$f   m   e   v
+$m   f   e   v
+$v   f   e   m
+$f   e   m   v
+$e v m f
+$f v e m
+$f v e m
+$v m f e
+$f m v e
+$f e f v m e m v
+$m m m f v e e v
+$v v v f e v v f
+$e f e v e e f v
+$e v m f v v e v
+;type woorden efmv
+$vee
+$me
+$vee
+$fee
+$vee
+$effe fee me
+$eef vee mee
+$mee fee vee
+$me mee vee
+$effe mee me
+;=== efmvabkl ===
+abefklmv
+;lees letters efmvabkl
+k   b   a   m   f   l   e   v
+f   a   l   m   b   k   v   e
+m   v   b   a   k   l   f   e
+b   k   a   l   v   e   f   m
+f   l   v   b   e   k   a   m
+k l v f m b a e
+k f b m v e a l
+m e v k f l a b
+m l v a b f e k
+m a f v k b l e
+e e a e k v b e a l l v k k
+m k f m a b e l f e k v v a
+v f f l b v v v v v v m k v
+b v k f f a b a l l f f e a
+k k k k m f e e f m k l m v
+;zoek letters efmvabkl
+k#k   b   m   v   a   e   l   f
+k#k   b   v   f   l   m   a   e
+k#k   m   f   b   v   a   l   e
+l#l   k   a   f   b   v   m   e
+v#v   k   m   e   l   b   a   f
+a#l   l   m   k   b   k   v   a   b   v
+a#l   k   a   b   f   b   v   a   l   k
+v#b   f   a   v   f   b   v   v   e   b
+m#f   k   e   e   v   k   b   m   m   f
+f#b   v   b   k   b   e   l   f   v   b
+m#m v k e a l b f
+l#l v b k e m f a
+k#k a b f e v l m
+e#e b v m k f a l
+e#e b k m a f v l
+v#m a v a k e e v k m k k v v
+m#a a v e f l b b e m b k m l
+f#k v m b v l v e m f v k f v
+e#e m m m k k e m a f m k e e
+l#f f f l e b k a k f e k l a
+;lees woorden efmvabkl
+kalk   kam   elk   leem   meeval   afval
+blaf   baal   bek   balk   mee   klak
+kalf   bleef   melk   label   la   bevel
+vee   blaam   maf   kam   blaf   bleef
+lam   bak   bleek   mama   melk   valk
+bakmeel lam lel al afvalbak lal kef vele
+keel elke kek klem beval felle bakmeel
+vlak beveel klam elke beek aal bakmeel
+klam alle km melkvee bal lek bakmeel
+kaak beval vla vaal maf meeval elke leef
+bek keek alle kabel vale beval kef vlak
+label vel lal leef elk al mama kek kabel
+vel kef klak vee klem veelal baal mal
+lek bel kam klef la klem kaal bevel kek
+eef elf elk keek lek mak leek label aal
+;zoek woorden efmvabkl
+kaal#kaal   melk   klak   eef   lal
+beveel#beveel   maak   meel   vee   fel
+mamma#mamma   meeval   leek   mama   lek
+kaal#kaal   kleffe   kam   mee   lekke
+vla#vla   lam   effe   lef   afvalbak
+vel#vel   klam   veelal   klam   klak
+elf#val   beek   vlek   laf   elf   mal
+laf#kef   elk   bak   me   laf   lekke
+melkvee#melkvee   aak   kalm   af   lama
+beval#beval   maak   lama   kalm   val
+lel#keek mamma vale aak eef mama lel val
+lak#mam laffe kameel eef kek lak fakkel
+eef#elke kelk keel kef ma fakkel eef aak
+vee#mee kaal klak lef kameel vee fakkel
+lak#fel effe kleffe valk kalm lak fakkel
+lamel#mee veel leef fee bleek lamel alle
+vlam#afval mek effe kaak klef vlam lal
+fabel#kameel felle km maf ma fabel klak
+lal#vlek keel melk kek mek ma lal elke
+vel#bleef bakmeel kaak eb vel allemaal
+;type letters efmvabkl
+$a   b   e   k   l   m   f   v
+$b   l   e   v   k   m   a   f
+$k   v   l   f   e   b   a   m
+$b   l   a   e   m   k   v   f
+$v   b   k   m   e   l   a   f
+$a k b v e l m f
+$v k a m e b f l
+$m f e b l v a k
+$a k l e v f m b
+$v l m a k e f b
+$f l b f k e l k
+$m f l k v k m b
+$f l k f m e b e
+$f m b f l a l b
+$f b a f a e f f
+;type woorden efmvabkl
+$melkvee
+$elf
+$kameel
+$lak
+$mak
+$mama label mam
+$bevel vaak kabel
+$vale af meel
+$elk kaal bleef
+$leef lekke lava
+;=== efmvabklcgop ===
+abcefgklmopv
+;lees letters efmvabklcgop
+a   b   c   v   g   e   l   m   f   p
+v   a   o   c   f   g   b   k   m   l
+o   b   l   k   g   f   c   a   e   p
+e   a   f   c   l   g   o   p   m   v
+e   p   o   m   g   k   b   c   f   a
+g a e v l f b o c m k p
+c b l v f e p g m o k a
+g v a m b c f o e k p l
+p g a e l k f m b v o c
+k b a f v o c l e g m p
+m a e l c a l p p e g m f o
+p l g b a p c e k k f f a l
+e o k e p o c p e o o c o v
+m m b l b e b e b a k l g o
+a g o l p p l l c a l c e v
+;zoek letters efmvabklcgop
+f#o   c   m   p   l   a   f   g   e   v
+a#m   v   l   g   k   f   a   c   o   b
+c#v   b   g   o   p   k   c   a   f   e
+a#f   e   g   o   v   l   a   p   m   k
+v#b   l   k   o   c   m   v   e   g   p
+b#a   f   b   c   g   g   b   f   v   e
+c#f   a   e   p   e   v   c   f   l   o
+v#c   g   v   m   b   f   v   f   p   b
+o#v   f   l   a   g   e   o   e   v   p
+b#o   k   o   k   m   p   b   e   l   b
+k#o m a v e l p k g b c f
+m#e v b f l p g m a k c o
+l#a m g f v o k l c b e p
+a#e v b f k l m a p c o g
+c#m b e p a f l c v g o k
+f#k o f o e v v l g c e c l c
+e#c v e o e o k m e b o c b m
+o#b a o f b k a l l f a b v e
+c#p p c o c b a k o g v c k o
+b#c m b g b e b c b v k l g l
+;lees woorden efmvabklcgop
+pof   bal   plakboek   elk   gom   kapel
+lel   veelal   me   melk   omgaf   voel
+vlak   ook   plaag   leeg   lege   boel
+collega   oplap   gap   cake   legaal
+kool   gok   koe   lokaal   look   vloog
+mop bloemkool bagage oppak vaag loom fok
+geef oogklep bloem gemak valk bok bek
+galg koe elke opveeg maak koel maag vlag
+geklaag beveel klaag pof eb koek map
+vaal gaaf blaf vele cafe koe vel klomp
+al melkvee opgave volle opvolg begaf mep
+foef cafe omgaf mam vele lomp afkap balg
+bek op pomp lam geval oom gal mek boef
+la gevoel kef pel leemlaag mamma opkoop
+laf afgeef cafe opgaf klaag leegloop laf
+;zoek woorden efmvabklcgop
+bevel#vee   kaal   bevel   legaal   balk
+lamp#lam   goal   lamp   koop   felle
+papa#leek   oploop   papa   cola   kamp
+bepaal#bepaal   meepak   kook   oppak
+gele#opklop   vol   gele   blaam   flap
+valk#maak   opgaaf   valk   lama   opga
+vel#pap   vloog   vel   lamel   laf
+pleeg#pleeg   gevoel   collega   melk
+ook#boeg   lekkage   ook   al   leegloop
+of#keep   blaam   of   poel   lekkage
+palmboom#plof koele palmboom pel bevel
+gap#meel kloof opgaaf gap blaf egaal gal
+maag#mama omkom lege maag leef boel oma
+vlaag#logo ga galop vlaag legaal koe pek
+golf#eb lek appel golf vloog keel kaak
+afvalbak#opgeef afgaf afvalbak logo lege
+voel#leg vak logo kom voel veelal po al
+volle#volle gevel op komaf balk omleg
+vel#vel kaf geloop golf gevel geklaag
+pomp#pomp kef opvolg collega lef ovaal
+;type letters efmvabklcgop
+$f   m   g   l   b   v   o   p   c   a
+$f   g   l   m   k   e   v   o   b   p
+$o   f   m   l   k   p   c   a   b   e
+$p   l   b   m   e   g   v   a   o   c
+$o   v   e   a   p   b   c   f   l   k
+$e o l b a v m f g c p k
+$f a k b o g c l p e m v
+$v o k l b e m a f p c g
+$f e l g a c m v o p b k
+$o m k p a f c g b v l e
+$l m f l e g k c
+$l e m o k m m b
+$v f o o o e b l
+$f p m o m m o a
+$p g k g k a m f
+;type woorden efmvabklcgop
+$koel
+$kopbal
+$kabel
+$boef
+$vel
+$vaag ome kook
+$bloemkool bagage klep
+$vale boog leep
+$kleffe foef pappa
+$plakboek gevoel boom
+;=== idur ===
+diru
+;lees letters idur
+u   d   r   i
+r   d   i   u
+r   i   d   u
+u   i   r   d
+r   i   u   d
+d i u r
+r i d u
+i r u d
+d r i u
+i u d r
+i r d r i r r u i u d d u d
+r d r i r i u r u r d i d d
+u d i d u r i i i u r i u i
+i d d d u u d d d i d d i r
+r d u u d d r u r r r d d u
+;zoek letters idur
+d#d   r   u   i
+u#u   i   d   r
+i#i   r   d   u
+u#u   r   d   i
+d#d   r   u   i
+d#i   d   u   d   r   i   r   i   d   i
+i#d   d   d   i   r   i   u   d   i   d
+d#u   d   u   d   d   u   d   r   d   r
+r#u   i   i   r   u   u   i   i   u   i
+d#r   r   r   d   r   u   u   i   r   d
+u#u i d r
+r#r d i u
+u#u i r d
+i#i r u d
+u#u r i d
+i#d u u i r u i i i r u d d i
+d#i i d d u r r d u i u i i i
+u#r d i u r d i i u i i i i i
+r#u i r r i u d u u d d u d r
+r#d d u r d i d d u i i d d r
+;lees woorden idur
+duur   ui   rui   uur   id
+ui   rui   duur   id   uur
+rui   ui   uur   id   duur
+ui   id   uur   rui   duur
+uur   rui   ui   duur   id
+ui id duur uur rui
+duur id rui ui uur
+duur rui uur ui id
+duur rui ui uur id
+id uur duur rui ui
+rui duur uur duur id ui ui ui rui uur
+uur uur rui uur uur rui duur rui id id
+uur rui uur rui duur rui ui id ui uur
+uur uur id duur rui rui rui uur uur id
+uur rui ui ui uur rui id ui id ui
+;zoek woorden idur
+ui#rui   duur   uur   id   ui
+uur#duur   ui   id   rui   uur
+duur#rui   ui   uur   id   duur
+id#duur   ui   uur   rui   id
+rui#duur   ui   uur   id   rui
+uur#rui   rui   duur   ui   rui   uur
+rui#rui   ui   id   uur   rui   ui   rui
+duur#id   rui   duur   duur   rui   duur
+ui#uur   rui   id   rui   ui   uur   ui
+id#duur   rui   ui   rui   id   id   id
+duur#uur id ui rui duur
+rui#duur ui uur id rui
+rui#uur ui duur id rui
+rui#id uur duur ui rui
+ui#rui id duur uur ui
+duur#uur rui ui duur id duur rui rui id
+uur#rui duur id uur ui uur id id duur
+rui#ui uur id rui rui id uur uur id uur
+duur#id ui rui duur ui rui uur ui id ui
+uur#uur duur rui uur duur uur rui id rui
+;type letters idur
+$i   r   d   u
+$d   r   u   i
+$d   i   u   r
+$d   u   i   r
+$r   u   d   i
+$d u r i
+$d i u r
+$d r u i
+$d r i u
+$i u d r
+$d i d u d r u r
+$u i d i u d u d
+$d i d d d u d d
+$u r i d i r i u
+$d r i r u i u u
+;type woorden idur
+$uur
+$rui
+$uur
+$id
+$uur
+$id duur uur
+$id uur duur
+$uur id duur
+$ui id uur
+$rui duur uur
+;=== idurefmv ===
+defimruv
+;lees letters idurefmv
+i   f   d   r   m   u   e   v
+r   u   d   e   m   v   i   f
+v   u   i   e   r   f   m   d
+v   u   d   r   f   e   m   i
+u   m   v   f   i   d   e   r
+v f m r e i d u
+r d u m v i f e
+u d r e v m i f
+r u e v m f i d
+u v f i d e m r
+i f r i d f u m v f m r d v
+u r f v i e u e e f r f e v
+e e u i f m d u m f e m i r
+f f m u u i i v i m e v e v
+m m r r i u v f r v f i i r
+;zoek letters idurefmv
+d#i   m   d   r   f   u   e   v
+u#d   v   u   m   f   e   i   r
+e#m   d   e   f   i   u   v   r
+r#e   f   r   v   d   u   i   m
+v#f   e   v   i   m   r   u   d
+f#d   u   f   r   v   f   i   i   i   m
+u#r   d   u   r   f   m   f   u   f   r
+d#e   v   d   r   m   e   f   d   f   f
+f#f   f   f   u   i   i   v   e   d   u
+f#v   r   f   d   i   m   v   r   i   f
+i#m r i f e d u v
+d#f m d e i u v r
+r#i v r u e d m f
+m#e d m u i v f r
+d#f i d r v e u m
+e#m f m v i f r e u e i m u i
+r#i i r e f r r r e m m f v u
+d#d m f r e u r d d f r i u d
+i#e u u d d i e i r i d v i u
+m#f d d d r d r m u r r f v i
+;lees woorden idurefmv
+medium   ruim   eer   idee   meid   deur
+ermee   dim   duf   druif   emmer   vier
+verduur   riem   die   me   mum   vereer
+erf   eerder   meerde   deur   muf   de
+ruim   reed   eef   vierde   vier   vee
+eed derde deed druif ree deur id medium
+vreemd emmer die ieder dief ree vrede de
+idem duurde rede ver ferm ferme eer ui
+vreemde druif ei duurde rem ver effe mee
+meer vee dier eed rem eer vuur vierde
+me effe ree duurder vee dim duurder er
+red vee mee iedere ferm rivier ferme mum
+ruim medium eef dief eer dim verf vreemd
+idee verduur red vreemde drummer eed fee
+de ermee rui dier fee idee rem ermee
+;zoek woorden idurefmv
+idem#de   uur   idem   id   rivier
+dim#verre   iedere   dim   drum   ferm
+mee#mee   ferm   er   ver   drum   de
+die#der   idee   die   duurde   duurder
+id#id   ermee   mee   eer   fier   ui
+effe#ruim   iedere   effe   rum   vee
+iedere#ree   iedere   verder   ferme
+meerde#emmer   meerde   mier   vierde
+mie#verre   drum   mie   mee   vreemde
+ruim#rui   reed   ruim   rum   ieder
+dim#dim eef rem veer ruim ermee duur die
+ruim#ermee ruim erf ree ui duf verduur
+eer#fee eer riem emmer druif die verre
+vee#vee erf der vierde rum mee mier fier
+er#er eed mum effe drie die mede dier
+ei#ei drum emmer druif meer ruim duf eed
+mede#mede deur eed durf idee die duif er
+rede#rede meer dim id der reed erf me
+ver#erf ver ree vreemd meid dief mede
+vreemde#vreemde rivier duim drie vee erf
+;type letters idurefmv
+$v   e   r   m   d   f   i   u
+$d   u   i   m   f   v   r   e
+$v   m   u   d   i   f   e   r
+$v   i   u   m   r   e   f   d
+$f   i   v   d   e   r   m   u
+$e f r u i v m d
+$r f m v e u i d
+$e v u m i r d f
+$d r u e v f m i
+$e v u i m d r f
+$u u m f f f e m
+$f u v i i f r u
+$v i v m r v m d
+$u r m m r r r m
+$e d m f m f m f
+;type woorden idurefmv
+$die
+$durf
+$durf
+$duif
+$drummer
+$mei vrede deed
+$rivier red idee
+$vierde emmer reed
+$druif vuur vreemd
+$ieder effe duim
+;=== idurefmvabkl ===
+abdefiklmruv
+;lees letters idurefmvabkl
+k   a   d   i   v   f   m   u   b   e
+k   e   a   u   r   f   v   i   d   m
+l   a   b   v   d   m   i   k   r   f
+d   a   v   b   f   u   k   m   i   r
+a   f   m   v   l   e   i   r   b   k
+v m k f i b r a d e u l
+u k m f d e a b i l r v
+i u k f v l a r b d m e
+f l m k r b v a i d e u
+m r k e l v a u i b f d
+m e r e i a m l m d a a e d
+r b l d b k k m e e v b a k
+r a u i k v e f d m r a v u
+f k k m d d f i b a e m k r
+r v b k l i r r v l a m m b
+;zoek letters idurefmvabkl
+v#v   a   d   e   r   i   m   f   l   k
+e#e   r   b   m   k   f   v   a   d   l
+v#v   r   m   e   a   d   u   l   b   i
+b#b   a   f   k   m   e   i   l   u   d
+e#e   i   d   l   r   a   v   f   k   b
+i#i   u   l   u   k   b   e   m   l   e
+v#v   f   k   f   b   a   u   b   l   d
+r#r   b   k   a   a   v   d   i   l   l
+k#k   d   b   l   v   m   l   u   k   a
+b#b   i   i   k   e   v   l   f   k   f
+v#u a v d i l m e b r f k
+v#u e v l b d i m k a f r
+m#i l m k d f u e v a r b
+l#a r l d e v i m k b f u
+v#l e v k m f u d i b r a
+l#v f i l k i f l a r f k r k
+k#u v r i f f d k v v l l u k
+d#i e u e e e i d f b u l b f
+a#a b b i d m r a r d d i i u
+r#f r e b b a v r d e i d r l
+;lees woorden idurefmvabkl
+raaf   bul   drummer   ram   draad
+aal   maar   breuk   kliek   darm   adem
+bril   liever   km   kleur   vuurbal
+eef   beuk   breuk   beleid   fee   leef
+raai   mik   kliek   muf   bever   ferm
+elf val melk meerde kleed braille vuil
+vermaak ideaal bier kruik verliefde klim
+bleek elke brem bakblik adem lever eer
+dak lekkerder braille meer maaide bakker
+ei vrede aar erker deurbel lire aula
+beleid raar dief duif idee drum dakraam
+deed aar lade baar ei medium erker raak
+lafaard vuur dal vel mal aard mede kleed
+muf ruiker madam kef duur verkeer fik
+km verblik klei kil kriek kikker vier
+;zoek woorden idurefmvabkl
+der#bakmeel   duim   adder   der   kaai
+bad#leek   leerde   bami   bad   ladder
+marmer#vervulbaar   erf   marmer   bal
+die#bureau   vreemd   bevel   die   reuk
+rik#vuurbal   liever   lief   rik   aak
+rib#darm   bevaar   bal   rib   lier
+buk#aambeeld   bereid   buk   lekke
+kameel#kruik   vaal   kameel   liever
+lui#maal   beker   leefbaar   lui   vale
+vermaak#klam   kalk   vermaak   baard
+vulde#eb larve fel verklik vulde vuur
+kaak#eed krakeel kaak raaf lef klef leek
+ik#verbaal aard ik de dak liefde ruiker
+idem#die rek badkamer liever idem kiek
+id#ba verklik id barak brul vlam duurder
+uur#ruim mam uur lak bel fabel via lila
+la#bereid ruim la fraaie iel luim reuk
+dal#lafbek kelder duim allemaal dal buik
+rivier#maalde leuke kamer reuma rivier
+fraaie#krik balk veelal ieder fraaie
+;type letters idurefmvabkl
+$e   a   d   b   m   u   v   k   i   r
+$f   l   i   b   m   v   r   a   k   e
+$a   r   v   k   l   u   f   m   i   e
+$u   i   l   f   a   r   d   b   e   v
+$v   i   a   f   d   r   u   b   l   m
+$m b i l a f k u e r d v
+$d b i m e v l f r u k a
+$m f u l e k i a v d b r
+$f r l a b u i k m v d e
+$b a d v l i k u r e f m
+$l r e i k i m a
+$v v k f e a k f
+$b r e a a f v d
+$d b a k a v m m
+$f r d i v a m k
+;type woorden idurefmvabkl
+$meevaller
+$duik
+$krul
+$madam
+$verbruik
+$ludiek madam au
+$deur vuil rakker
+$bakkebaard lekke duf
+$lafaard kar mei
+$meer kaf breker
+;=== idurefmvabklcgop ===
+abcdefgiklmopruv
+;lees letters idurefmvabklcgop
+b   u   v   d   k   i   o   c   e   f
+u   o   v   i   p   e   l   k   b   r
+a   v   d   g   u   o   c   b   k   m
+d   v   r   k   p   o   c   b   i   m
+a   l   v   g   m   d   r   e   p   f
+r m b a f o e c i d g k u l
+k b c u i p o l g e a m d v
+a v p o f i b m r k u l g d
+m p l u b g c r e f o k a d
+l p k a f d m v o i g b u r
+l r m l i a o e o b v e f g
+b k d g p m f v u m c u k f
+i o i g r k l e b o a g e b
+r u a c b i i g k c a o a u
+b m m c c e m k d f f b u m
+;zoek letters idurefmvabklcgop
+a#r   m   p   v   b   f   c   i   u   a
+l#o   v   k   d   c   i   b   p   a   l
+m#f   c   r   o   v   g   d   a   l   m
+k#f   u   l   i   v   b   m   o   c   k
+m#o   l   b   i   v   u   c   g   e   m
+k#g   b   i   b   r   f   b   r   m   k
+r#r   v   l   a   b   r   c   a   a   r
+v#b   l   k   l   o   l   a   d   a   v
+f#p   c   p   g   r   o   a   d   b   f
+r#f   c   e   o   b   d   a   i   k   r
+r#i m g e k c d p v f o a r l
+v#a e c i u l b p f m g r v k
+f#c v a l e p i u o b g k f d
+c#v u f e g l p m a o r d c i
+i#e a v m c b g u d p k o i r
+o#g b k r i r f i u d l i o k
+a#p d l m c o c v c b c a a g
+v#b m i m g p u v k c f c v l
+c#m g l a c o b k o b k k c e
+d#e r v k k c i g d m p a d c
+;lees woorden idurefmvabklcgop
+propvol   kiel   vaal   goal   aar   bob
+cafe   bek   voordeel   memo   kil   lek
+lelie   bleef   lamel   omkeek   kramp
+labiel   kolk   aarde   loof   verkool
+eef   overig   kraag   diepe   vaderlief
+logo overdag verbloem oploop koorleider
+balg loer bleef veger durf bord verlam
+kuil durf opa geplaagd ruik mei vergif
+fabel gebod kuip cup cola balg duurde
+barkeeper gum garage vroom kop leger mam
+bleef dooi mier goor kookboek la dagblad
+liggeld kreupel grappig oormerk karige
+kalk logo kameel voorproef daal gier
+collega deed bevel duimbreed verdraai
+rumoer keer klap meerde verpak vreemde
+;zoek woorden idurefmvabklcgop
+volgorde#volgorde   diep   eb   verklaar
+allemaal#allemaal   begaf   bad   pul
+boog#opga   boog   oproep   luid   kreuk
+armoede#armoede   klaar   gap   omruil
+poolkap#poolkap   blaam   cavia   kalf
+bevoel#bevoel   verdik   verover   beek
+modder#dief   modder   lal   vlak   pup
+dek#geleerde   dek   breek   klok   om
+podia#podia   beroer   graag   lepel
+drempel#palmboom   olielamp   drempel
+kade#opa afvalbak lik video voorleg kade
+laffe#blik laffe gebod mor republiek
+grip#vermaal vreemd geur polo broei grip
+drug#pluk camera grip dakraam meer drug
+broodbeleg#broodbeleg palm bumper oog
+kerel#kleur kerel domkop cd bloemkool
+voer#loofboom voer republiek vak voerlui
+kreeg#modder aal bloemblad vla pak kreeg
+aar#opgevoerd armoe gram voeg roek aar
+mopper#bak mopper aardappel leer kalm
+;type letters idurefmvabklcgop
+$i   c   o   a   r   l   g   f   d   k
+$v   g   d   a   i   o   p   f   c   k
+$g   l   m   r   c   f   e   v   k   b
+$f   i   l   u   g   e   r   m   o   k
+$o   p   i   d   a   u   v   e   g   c
+$o d f a b k r u v e g m c l
+$o v k p a g m b f i e u r c
+$a u o b l g m f c i k d v r
+$k d f p o b u a v r m c i g
+$a c p f g k b l d r v e m u
+$o g f b o o o c
+$f c l d v p d f
+$a d v f d k g g
+$l m e b c m k e
+$g c i c v d m l
+;type woorden idurefmvabklcgop
+$loog
+$rappe
+$lak
+$romig
+$prop
+$rumoer kreuk akkoord
+$kade mei codeer
+$gedeeld gek vork
+$guur kip drukproef
+$akelig dove meevoer
+;=== hsnw ===
+hnsw
+;lees letters hsnw
+w   s   h   n
+h   n   w   s
+h   n   s   w
+w   h   s   n
+h   s   n   w
+h n s w
+w h s n
+w s h n
+h s n w
+s n h w
+n n h s w w s w s w h n n n
+h h h w s s w w n w h w w w
+h s w h n w w n n h n h n n
+n w w s w h h n n n w h s s
+h s s w h s w w n w w h s n
+;zoek letters hsnw
+w#w   s   h   n
+h#h   w   s   n
+w#w   n   h   s
+w#w   n   h   s
+w#w   s   h   n
+h#n   s   n   n   n   h   h   h   n   n
+w#h   h   w   h   h   w   n   s   n   h
+w#s   n   n   s   n   w   w   s   s   h
+w#n   h   h   n   w   w   h   s   h   s
+n#w   n   w   w   h   n   h   s   w   n
+s#s n h w
+n#n h w s
+s#s w h n
+s#s h n w
+s#s w h n
+w#s n w s n s w n w s w w h s
+s#h w w s s h s h n s w s h s
+h#w w s h w n n s n h s h s h
+n#h h n h h w s h n w h n w n
+w#s h n s s s s h n h n w n s
+;lees woorden hsnw
+;zoek woorden hsnw
+;type letters hsnw
+$n   s   h   w
+$n   w   s   h
+$n   w   h   s
+$n   s   w   h
+$n   w   s   h
+$n w h s
+$w s n h
+$w n s h
+$n s h w
+$n h s w
+$s h h w n n w n
+$h n s h s n h s
+$n w w n s w s n
+$n w s s h w n h
+$s h s s h n n n
+;type woorden hsnw
+;=== hsnwidur ===
+dhinrsuw
+;lees letters hsnwidur
+i   n   r   d   h   u   w   s
+n   w   r   s   i   h   u   d
+s   r   d   w   u   i   h   n
+s   i   h   u   n   d   w   r
+r   w   u   d   n   s   h   i
+u w n d i r h s
+d n s h r i w u
+n h u d r w i s
+h n i u d r w s
+r n d s i w h u
+r h i w s n h s h s r w w w
+s i n s w r h w r r i i w r
+w s w w i s h i d w h h n h
+d r i d i n s d n r d d s s
+h i i r d i n r h w s s h n
+;zoek letters hsnwidur
+u#w   r   h   i   s   n   d   u
+r#w   u   s   i   h   d   n   r
+r#s   n   w   d   h   u   i   r
+i#r   d   h   n   u   w   s   i
+u#r   n   h   i   s   d   w   u
+h#h   d   d   d   h   d   n   i   r   s
+r#u   n   r   u   r   s   n   h   d   w
+d#u   s   u   i   d   i   n   h   u   d
+w#u   s   u   n   w   u   s   r   u   u
+h#u   h   d   r   h   h   h   u   r   h
+i#n h r d s u w i
+u#n h w r s i d u
+u#r s n w i d h u
+d#s h w r u i n d
+d#i w h n s r u d
+u#s u w r h i n u h w n n d d
+w#w w s d w n s s r s r w d s
+w#h w u i n s i n d w s n d u
+i#r i d h r d h d d i h d u h
+i#i i n h u i n r w u n d u u
+;lees woorden hsnwidur
+ris   duw   induw   sis   uw   is   win
+hun   nis   sis   ris   sinds   is   nu
+is   iris   ruis   dus   nis   ui   nu
+sis   dun   nu   iris   induw   nis   ui
+uw   druis   ui   wis   ris   rui   in
+iris urn nu duin inwin induw sinds wis
+induw hun iris ris nis dus id rui is sus
+duur nu inwin sus wind uur dus huid hun
+duw iris wind wis uur duur huid dus dis
+sis druis duw duur iris induw huur sus
+id sis nis wis sis id sus sis duur huur
+sus iris nu ruis ris wis wind druis urn
+ruw nis urn iris induw is duin duw druis
+nu rui sus hun huid druis duw huur huis
+iris ruw uur dus dis nu huur inwin inwin
+;zoek woorden hsnwidur
+huis#druis   urn   huid   huis   in
+is#rui   ris   huid   dus   is   hun
+ruw#druis   win   duw   dus   ruw   id
+urn#duur   ui   induw   win   urn   sus
+dis#duw   wis   huur   duin   dis   uur
+nis#wis   wis   ruis   iris   nis   huid
+in#in   is   duur   win   dus   rui   ui
+huid#dis   uw   wind   sus   huid   dus
+druis#sus   duur   uur   druis   huis
+urn#uw   sis   huid   uur   urn   nis
+urn#dis hun win urn rui druis iris nis
+duw#sis huur win duw dus sus ruw ui huis
+is#sinds ruw id is dis nis duin induw
+sis#huur dis induw sis wind nis wis ruw
+win#dis huis uur win induw iris druis nu
+nu#sinds induw huid nu ris in sis huis
+is#ruis ruis wis is dun duin id sis nu
+id#wind huis induw id huis ui huur huis
+duur#urn in huur duur sus uw inwin druis
+dis#ris uw druis dis wind druis in duw
+;type letters hsnwidur
+$i   d   n   u   s   h   r   w
+$n   i   s   h   r   w   u   d
+$d   s   w   u   r   h   i   n
+$u   w   r   d   s   h   i   n
+$d   n   i   w   r   s   h   u
+$w u h n s d i r
+$n w d h r u i s
+$w i n s h u r d
+$n s h r d w u i
+$n w r i d u h s
+$s i d d r u s i
+$i w i h h r i r
+$w s h w s r n n
+$h i i d d u n n
+$d r s r n d w n
+;type woorden hsnwidur
+$uw
+$sus
+$iris
+$dun
+$sis
+$inwin hun sis
+$is induw ui
+$ruis id ruw
+$uw hun nu
+$ui duw rui
+;=== hsnwidurefmv ===
+defhimnrsuvw
+;lees letters hsnwidurefmv
+f   r   s   u   i   w   n   h   d   e
+f   s   w   d   h   e   m   v   u   i
+d   m   h   f   w   n   i   u   r   e
+h   i   m   e   f   d   n   s   u   v
+w   i   s   m   h   n   v   d   f   u
+r h i d f v s n m w e u
+v e s r d i m n w u f h
+w f u m d e r h s v n i
+m s u r i h v w d n f e
+n h w d r m i u s e f v
+f v e s h u d f h u w m i n
+m e h f u d h m h d e d h d
+i s e u d u w n h w v r e v
+s s h i n u i m d h v h i w
+d e i d r f v s i s m u i u
+;zoek letters hsnwidurefmv
+r#n   r   i   d   m   u   f   e   h   w
+f#v   f   d   e   w   i   s   h   r   m
+v#h   v   m   d   u   f   w   r   s   i
+f#i   f   n   d   e   u   r   h   m   v
+r#i   r   f   s   w   v   e   u   m   h
+s#v   s   w   m   f   s   r   h   s   e
+r#i   r   n   h   f   i   f   f   i   w
+s#e   s   h   w   f   r   h   u   u   m
+h#h   h   u   m   f   m   d   s   v   n
+m#w   m   s   d   e   h   m   e   i   d
+s#m d v e s n u i w h f r
+s#r e w h s i n d u v m f
+m#s u w v m e i f h d n r
+i#m u h w i n v r d f s e
+s#v r w d s e m u h f n i
+n#m n v v u e i f w e n h u i
+n#w n h n r i n f i u i i s e
+n#e n s u r h s e i d r r r s
+n#h n n f e r v r d w f v n d
+n#d n w h f w m r u s v w e f
+;lees woorden hsnwidurefmv
+derde   vuur   dieven   sfeer   riemen
+redden   effen   wind   huif   sfeer
+die   ridders   messen   mieren   vers
+hei   wind   verwen   winnende   red
+heimwee   duurde   frees   verduur   mei
+nemen sus medium medemens heer mieren
+nieuwe nier ruis wier ineen eren heen ui
+men eed verweer rivieren deur ene hun
+werf deur heus riem versier verre dienen
+dieven sneeuw verneem durf nemen frisse
+meevieren neef nies sirene inwinnen ui
+mus ren rui dunne hen mees huwen des rem
+verwen veer ui uur duurder miniem veren
+frisse visie vers vreemde de huwen iris
+hierheen id vinden wis deun verduur eer
+;zoek woorden hsnwidurefmv
+missie#fee   mei   missie   rende   eed
+heus#ruw   neen   heus   muur   versier
+urn#hierheen   in   urn   dis   vernis
+dus#snuif   sfeer   dus   minus   nu
+minderheden#nee   minderheden   verwens
+eenheden#vier   eenheden   reus   vis
+hees#druiven   hees   huisdeuren   rees
+hun#ren   hun   eind   die   erin   reed
+meen#suf   dieven   meen   meen   idee
+min#verwen   vreemd   min   verre   mies
+winnende#eren idem winnende dunne frees
+minus#deuren minus rivieren reis mees we
+wens#frees wens ridders verdun idem verf
+immers#mende reis immers weide hemden
+suf#vissen werden suf medemens dreun
+muis#visum muis vissers ruim vernis vies
+reus#me vers reus dier nier duurder mee
+urn#ieder urn hees eenden frisse nieuw
+veerhuis#me veerhuis mende vin fuif ruis
+verwens#ferme huif verwens hees inwin
+;type letters hsnwidurefmv
+$d   s   i   f   v   r   u   e   m   n
+$v   h   e   d   w   s   u   r   f   m
+$f   s   d   v   n   w   m   h   e   u
+$h   d   v   m   r   f   u   i   w   s
+$w   r   u   f   i   e   v   d   s   h
+$f i m d r n w v h s u e
+$s v m d e n u i w f h r
+$f w n s d v i e r u m h
+$d s u h w e f v r m n i
+$r m d w n i h u e f v s
+$f w s r i i h i
+$s m u i m h e e
+$h f e f w i m s
+$v f m s e e v r
+$v e h u s h s s
+;type woorden hsnwidurefmv
+$deed
+$wind
+$we
+$verhef
+$serie
+$meermin ris vriend
+$wuif deunen rum
+$vernis erin hierin
+$hinder induw dun
+$meneer minus druiven
+;=== hsnwidurefmvabkl ===
+abdefhiklmnrsuvw
+;lees letters hsnwidurefmvabkl
+d   m   f   l   u   r   e   k   w   v
+b   u   f   l   k   v   h   d   w   s
+d   w   v   u   e   l   s   h   r   i
+u   l   h   d   k   m   n   a   v   f
+l   i   e   f   u   k   w   v   m   s
+n k i s w h b m d r l e v u
+d b u m n l s k a w r h v e
+d r n i b h v e f l m w a s
+u h l d e w f m i r n b a k
+e r v s u a l m i h n f w k
+s i u h w e m n l h e k d h
+n r f d v k w h i u e b k s
+h r n e h a b h r i w m b u
+d e k a a e s f s l v e h i
+w e r h h r m e d b u i l f
+;zoek letters hsnwidurefmvabkl
+k#d   v   a   r   l   f   u   m   w   k
+v#m   h   r   d   b   i   a   e   w   v
+i#f   v   k   m   u   e   h   l   a   i
+s#k   e   u   a   b   m   w   n   r   s
+e#w   n   k   s   r   v   i   m   u   e
+b#h   l   u   h   b   u   d   m   m   b
+a#d   e   i   f   s   v   r   f   b   a
+d#e   w   n   i   m   l   n   b   k   d
+l#m   k   h   h   i   w   k   s   l   l
+e#b   m   b   a   b   r   f   d   h   e
+d#k h r b a m s e l f n w u d
+u#s b k e m i f h d v l n w u
+n#m l k u b f w e i v a d h n
+w#s k h l e d n i b f r a m w
+l#u d k n i e h w f s v m b l
+n#h i b f f e u r a s r f n n
+m#m u b k m s d v v m m r e m
+n#d e b n a m w l m w k u k n
+m#h m a r k w n w f a n i i m
+e#i v e v f l u a n r f n u e
+;lees woorden hsnwidurefmvabkl
+brandweer   huik   iel   inbreker   wars
+afslaan   halfuur   rivier   huilende
+sik   meemaken   bal   vin   kies   kien
+fuif   vulde   knalde   verf   balen
+kurk   aanrennen   beleefd   aldus
+herleef eenheden kaal sauna redden der
+kennis lurk lessen baal verneem kauw
+smal breek lief kwel mensheid uur midden
+verbrak was samenwerk harsen idem knalde
+bladeren klem sis snel nu dienen dader
+slee dek draal werden waar nis afslaan
+dansles sinds aardewerk missie luimen
+dweilde illusie harder bevel walm sukkel
+kruim beslis vla bevel min arbeiden
+kerkmuur verven blaffen bui lava beleid
+;zoek woorden hsnwidurefmvabkl
+busreis#marmer   busreis   einde   duf
+id#bus   bever   heel   id   kaneel
+luis#arken   luis   weeskind   afweren
+nadenken#klief   nadenken   inmiddels
+na#aanbellen   kriek   rede   na   mini
+duin#mars   kleur   deel   duin   vernis
+bidden#brik   bidden   dalen   raas
+verklank#rivier   verklank   lid   laars
+meen#misluk   meen   sufferd   invul
+huismus#deelnemers   huismus   eieren
+herleef#effen anders alfa herleef beuk
+meeleven#elf lava kenbaar meeleven kruik
+vakman#uil vakman leesniveau badkamer
+vaarwel#bliksem vaarwel linkerarm kerel
+urn#kinderen urn mank blanke uur land
+huid#waarnemer huid linie na kien lawine
+drummer#verweer drummer finale landheer
+advies#kalm labiel vaderland advies iel
+snaar#fiks ruimen ruiker snaar versuf
+luilak#duinen sul afhuren luilak bluf
+;type letters hsnwidurefmvabkl
+$e   h   n   s   k   i   l   d   f   m
+$w   v   r   l   k   n   s   u   h   b
+$k   d   h   u   v   a   e   f   n   b
+$k   n   b   m   r   l   v   h   s   f
+$b   a   n   e   s   h   l   v   w   d
+$n v r e s w l i u b m a h f
+$h w m i e n f s a b l r d k
+$r s i e f d b h a m n l u w
+$m h a s k r b d v e l i w f
+$w d f r e h m b s u k i l n
+$u d s i v a u k
+$k u w a s m r i
+$i b a b n n v d
+$m d i l i m l d
+$h a b h d n i d
+;type woorden hsnwidurefmvabkl
+$luiden
+$suiker
+$meerde
+$funk
+$aandienen
+$linie rubber ramen
+$ankers waarnam buks
+$lakens waaier leeswerk
+$dame versuf maand
+$aardewerk surf had
+;=== hsnwidurefmvabklcgop ===
+abcdefghiklmnoprsuvw
+;lees letters hsnwidurefmvabklcgop
+u   l   m   c   h   r   p   k   i   b
+a   n   o   p   d   c   f   w   m   r
+a   p   r   b   l   c   v   s   u   g
+r   l   g   u   k   p   w   n   b   e
+c   s   h   e   m   i   v   l   g   f
+w k a u d o e b i h v r l f
+i u n k v c w m d a h b e s
+f m b r u g l w e c k v a d
+v d s f c l i o w p a m h n
+i d m p w k a g l s o e c f
+f s f e c v l l f w e g d h
+p d v l h e k s h v c p g h
+b r c h l h v b d u m g h f
+r e n d v a e i m h i l w p
+b e h m s v i f n o s s n a
+;zoek letters hsnwidurefmvabklcgop
+l#u   f   a   h   r   n   l   s   k   m
+s#i   e   c   u   r   f   s   p   o   g
+r#n   u   h   o   m   l   r   a   v   c
+h#s   b   m   c   r   g   h   p   e   u
+u#h   a   k   d   m   w   u   o   b   v
+u#b   b   a   s   r   b   u   i   o   m
+k#d   s   g   d   i   p   k   k   o   s
+d#a   b   c   e   f   d   d   c   c   h
+c#p   i   l   m   k   v   c   o   k   o
+m#n   p   u   a   d   c   m   a   v   w
+a#a l n d u i k e p f r b m c
+k#k d m l p c o b f e n a i v
+r#r f h d l k w v g m s n e a
+a#a k h f o w b l m p i u n r
+d#d i f c m e h u w k b g o a
+m#m k v a a b r a u n f l n r
+e#e h h p s i e d v r b f o w
+o#o i s u d n r m n k s v f w
+h#h r l a i u d f h u a s c r
+m#m v c o e i i k a k h n e r
+;lees woorden hsnwidurefmvabklcgop
+viool   ineens   wegsloeg   crisis
+vergis   overuur   inkomen   pin   krul
+pakweg   blad   krul   papier   bergbeek
+odeur   vernam   smeerlap   kachel
+herlees   half   verliep   filmdoek
+scheep bermen vliegen deurcodes buig
+eis flap oproep opensla maakwerk rui
+akkoord verkoos effen breuken voornam
+smeren verniel heldere waak boerenkaas
+populair oliekraan drukproeven speelfilm
+kapper maan aanhouding spanning bewaak
+polo heengaan lis bemanning vlieg opera
+buil lokaas aanvullen spiegelbeeld
+lage graan peren weekblad inworp kaal
+flop dolder bed afscherm siroop vieren
+;zoek woorden hsnwidurefmvabklcgop
+lans#nors   proefles   beurs   lans
+lachen#afkeren   lonen   dagen   lachen
+gaf#afvuren   gebrom   geblaf   gaf
+bang#alsmede   aflopen   ingangen   bang
+sneeuwpop#boeken   speen   sneeuwpop
+weer#plens   onderop   ananas   weer
+mag#drempel   mag   oog   wraak   hernam
+markies#losloop   onaardig   markies
+verkwik#aanwas   ingegrepen   verkwik
+onnodig#ook   roeping   misgun   onnodig
+linksaf#wegvlieg werkgelegenheid linksaf
+her#domkop her lekkerder barak voerbak
+bruikleen#spreekuur aanloop bruikleen
+rul#legden rul schoor mauwen slag broer
+omkeer#waarnaar omkeer spar wesp vink
+verbluf#flop losraak omhullen verbluf
+inclusief#draaien fabrieken inclusief
+spreeuwen#ui driehoek duurder spreeuwen
+groeien#vakman mening afkeuren groeien
+smoes#buksen smoes beuk virus vaan
+;type letters hsnwidurefmvabklcgop
+$b   e   v   d   p   r   f   s   h   u
+$o   i   w   d   b   g   p   k   h   e
+$l   h   r   e   b   n   a   i   s   w
+$l   f   v   a   p   w   u   r   h   n
+$v   e   k   b   r   s   d   m   w   f
+$d r n k m w a p e s c g l f
+$d b v r h n e s m w p c l o
+$c e h p r w a n o b g u m i
+$l a m o n r u e d c p i s h
+$a f e c d b m i h o u n r w
+$h w o e n d k a
+$v g f g e v e u
+$f w g h g m c e
+$h b d n w a c o
+$p h b d a v i h
+;type woorden hsnwidurefmvabklcgop
+$meiden
+$melkpoeder
+$afliggen
+$hop
+$pep
+$vraag misbruik adres
+$boosheid komende wankel
+$naderde overwin omkleden
+$speelfilm bink schroei
+$opdrinken fokken doolde
+;=== xyq ===
+qxy
+;lees letters xyq
+y   q   x
+q   y   x
+q   x   y
+y   q   x
+x   y   q
+q x y
+q x y
+y x q
+x q y
+q y x
+y q q y y q x x y x y q q y
+y q x x q q y y q x x y q q
+x x y x q q x x q x y y q x
+q q y x y y x x y q q x y y
+x q y q q y y q x x y y q y
+;zoek letters xyq
+q#q   y   x
+q#q   x   y
+y#y   q   x
+y#y   q   x
+x#x   q   y
+q#x   y   y   y   y   q   q   y   y   y
+y#y   q   y   x   q   y   y   q   q   y
+x#x   y   y   q   y   x   y   y   x   x
+q#x   x   q   x   y   q   q   q   q   q
+y#y   q   y   y   q   q   x   q   y   y
+q#x y q
+y#x q y
+y#q x y
+q#y x q
+y#x q y
+y#y x q q x q y y y x x x x x
+x#x y y q y y x q x y q q y q
+x#q y q q x x y y x q y q y y
+y#y q x y y q x q y x x x y q
+y#y q y y y q y q y y x x y y
+;lees woorden xyq
+;zoek woorden xyq
+;type letters xyq
+$y   q   x
+$x   y   q
+$x   q   y
+$x   q   y
+$y   q   x
+$x q y
+$q x y
+$y q x
+$y x q
+$q x y
+$y y q y y x y x
+$q x y y q x q y
+$x q x x y q x q
+$q y y x y y x q
+$x y y q x x x x
+;type woorden xyq
+;=== xyqhsnw ===
+hnqswxy
+;lees letters xyqhsnw
+n   h   s   q   y   w   x
+w   s   y   n   h   x   q
+h   s   n   w   q   y   x
+q   h   n   s   w   x   y
+s   h   y   w   n   x   q
+n h y x q w s
+w h n s y x q
+y x h s q w n
+h s x n w q y
+s y x n q h w
+x s h s s y q q n q s y s s
+w h q s h w s s h s w y y q
+y s w q n y y y y n x x y h
+q s h w x h n n w w y w q s
+s q n w h x n w h x s n y x
+;zoek letters xyqhsnw
+h#w   s   h   y   n   q   x
+q#n   y   q   w   s   x   h
+w#x   q   w   s   n   h   y
+s#w   y   s   n   x   h   q
+y#x   s   y   w   q   h   n
+h#x   h   s   q   h   y   h   x   y   n
+q#y   q   h   w   x   q   q   q   q   y
+s#s   x   x   x   y   x   s   h   y   s
+s#s   n   x   y   y   q   s   n   x   h
+y#n   q   y   s   s   q   y   n   w   n
+y#h s y w x n q
+w#x h w s q y n
+y#h w y s q x n
+w#x n w h q s y
+s#x h s w y n q
+s#h h x y s x n h s h q h q q
+h#y s y n q q h x h n y h x n
+q#w w q q y s y s q w y h w q
+x#n w q y x y h w x y h h h w
+n#n q x h y y q n n q y h n w
+;lees woorden xyqhsnw
+;zoek woorden xyqhsnw
+;type letters xyqhsnw
+$h   s   y   w   n   q   x
+$x   w   n   q   y   h   s
+$h   q   n   x   s   y   w
+$w   s   n   h   y   q   x
+$s   n   q   w   x   h   y
+$w q s n h y x
+$h x q y n w s
+$s x w h q n y
+$q w y x h s n
+$n s x y q w h
+$w s h h y w s s
+$w n s n s y s x
+$s s n s w s x w
+$x s q s w w s s
+$q h w n w y y y
+;type woorden xyqhsnw
+;=== xyqhsnwidur ===
+dhinqrsuwxy
+;lees letters xyqhsnwidur
+w   d   i   x   r   y   h   q   u   s
+r   s   y   x   i   u   h   w   d   q
+s   u   i   y   h   r   n   q   d   x
+y   q   d   n   h   w   s   i   u   r
+i   d   h   n   w   r   q   x   u   s
+h u r i x n s q w d y
+u q d n y x h i w s r
+w d n h s q r x i u y
+w s n q r h d x u i y
+x r q u y i w s d n h
+s q q i y i n u n n r d y s
+y q s w x r y u h s h d s r
+x y h i n i x y x s q n w q
+r x q d x h x s d s y q d w
+y r u x y n h x s w w i r i
+;zoek letters xyqhsnwidur
+u#h   x   s   r   q   u   d   y   i   n
+r#y   i   s   w   q   r   u   n   d   h
+u#r   n   x   s   y   u   d   w   i   h
+n#h   y   i   r   s   n   w   u   x   d
+d#x   s   n   w   i   d   u   r   q   h
+q#i   x   y   s   h   q   n   x   i   w
+d#d   d   s   r   r   d   q   u   d   u
+y#i   u   s   u   x   y   y   w   n   x
+x#i   d   r   y   u   x   s   s   n   h
+h#w   u   r   x   u   h   h   y   q   n
+w#q y w s d i u r h x n
+n#s x n d h y r i w q u
+w#u r w q i s x y n h d
+s#i u s q x h d y n r w
+y#s n y x i q d u w r h
+u#x s h x r h q h n q n h u n
+y#q w q w w u y w s d w i y s
+s#i w u h r d s y q n h u s q
+w#s w x q d x r x x h w d w d
+u#y w h y i h w x u y r i u h
+;lees woorden xyqhsnwidur
+rui   druis   sinds   dun   duur   nu
+uur   sus   druis   uw   wis   sis   hun
+ris   huid   dus   druis   huis   dun
+ruis   nu   urn   huur   iris   in   hun
+dun   ui   induw   uur   dus   ruw   sus
+nis ruw is hun ui sinds dun win dis sus
+dus induw dis uw uur wind nu sus huis in
+win duur huur nis ris huis ruis huid nu
+duur huur sinds induw in uw is dis rui
+in sinds dis huis induw urn dun hun sus
+ris huis sus wind is dis dus huid urn
+uur hun sis hun huid in nu huur dis
+hun dus ruis nis nis ruis duur ui urn
+sinds wind nu ui uur wind sus huis ruw
+dus ui iris nu duur huis induw sis nis
+;zoek woorden xyqhsnwidur
+wind#ruw   nu   wind   rui   hun   ris
+iris#uur   duur   iris   is   rui   wind
+sis#nu   huis   sis   huur   duw   sinds
+wis#hun   huur   wis   uw   sus   inwin
+id#duur   ris   id   sus   induw   ruis
+wis#ruw   is   wis   sus   duin   id
+wind#ui   win   wind   nu   rui   rui
+uur#dun   huid   uur   is   inwin   huid
+uur#huid   ruis   uur   sus   wind   is
+sus#nu   win   sus   huis   ui   dun
+dun#dis duw dun dus id uw duur huis uur
+ruw#hun ruw druis uur ruis duw dus inwin
+wis#nis dis wis wind nu uur ris duw dus
+iris#druis hun dus inwin ruis iris dun
+sis#ui rui sis huis uw is uur urn sinds
+nu#dun nu ruis inwin urn nis sinds sis
+nis#urn wis nis ui sus huis ui uw wind
+iris#wis iris iris dus rui huid dun dun
+induw#dun induw duw huur wis ruw in dun
+in#ruis dus in sis win id dun huid iris
+;type letters xyqhsnwidur
+$w   s   r   q   y   h   n   i   u   x
+$u   n   q   s   d   w   x   r   y   h
+$q   w   x   n   d   u   s   y   r   i
+$n   i   s   q   r   w   d   y   x   u
+$n   r   s   q   d   h   y   i   x   w
+$n s h q d y u r w i x
+$u r h y q w d x i s n
+$x s q n r h w u i d y
+$s n y u i d r h w x q
+$x q w d r i n h y s u
+$q s u q n s s d
+$r r s r r y i y
+$x s s h y s i w
+$q d h i h d w x
+$h q q x n y n n
+;type woorden xyqhsnwidur
+$wis
+$uw
+$ris
+$hun
+$wind
+$dun duw sinds
+$ui urn uur
+$nis induw urn
+$huis wis ui
+$wis ris sus
+;=== xyqhsnwidurefmv ===
+defhimnqrsuvwxy
+;lees letters xyqhsnwidurefmv
+r   x   h   w   y   s   f   q   e   m
+r   q   s   y   n   f   h   e   w   d
+h   n   i   q   u   s   m   r   y   x
+e   h   i   q   s   n   r   w   u   f
+v   n   s   u   h   i   d   e   y   q
+m u q f r d h n y s v w x e
+w i v x q r d s y f e u h m
+r y e d n u i m v f s w q x
+u s v n d f q r e y h w x m
+h i m s d e f n y v r w x q
+f x u d q i m i y d r x m i
+w e i u w q i e m r q e e e
+v i n r r m y v u f u w d x
+s d y u q m v q v d d n s v
+h i w u y e h w i i h r y d
+;zoek letters xyqhsnwidurefmv
+h#d   v   r   h   y   n   e   f   u   x
+r#i   x   e   r   q   n   h   v   s   m
+e#v   h   m   e   w   f   u   y   r   d
+h#x   s   n   h   f   q   w   m   u   e
+s#x   u   r   s   e   h   f   v   d   w
+e#q   s   d   e   v   q   d   r   q   h
+i#s   d   q   i   x   m   q   v   v   v
+q#w   f   r   q   y   u   r   q   f   u
+i#n   y   v   i   y   d   r   e   u   i
+q#d   n   d   q   q   s   h   x   i   h
+q#h v f e m u s r w y x d q n
+m#d i n v u e w x y s h f m q
+d#e x y u h s w f v q n i d r
+h#d f y s e i v q n w x r h u
+i#h n x f s r q v y m u d i w
+y#s d w v i v u e d i r f y n
+v#d q m y q d d y d f m m v h
+m#e r n h f y i n i h y x m q
+e#x s m n d u w u i d n y e y
+u#d x e w f n x m s r f f u s
+;lees woorden xyqhsnwidurefmv
+sinds   verhuis   nieuws   vin   drummen
+vissers   dus   den   vierde   deed
+verhuis   duin   ren   een   herrie   me
+eveneens   vernis   fee   weer   vee
+druiven   reis   diverse   huif   vuur
+wennen eend deuren vin versus min vis
+effen wie neer huif vissers wind nieuw
+deun wis rees wier mee mixer drummer
+inruim urn en nieuwe meerderheid nieuws
+des ermee nummer nies eieren wis deden
+wind ermee smeren ruimen me einde wens
+mei weeshuis sirene effen ieder drie
+vin ieder deur suf wees drummer vin veen
+verhef meiden einde weduwe huur vreemde
+eend verhef neer meerde eer muis vieren
+;zoek woorden xyqhsnwidurefmv
+effen#wie   snee   sis   effen   sus
+nis#vinvis   sneeuwen   nis   virus
+sufferd#eerder   fris   sufferd   wier
+vernis#hierin   dun   vernis   ieder
+vrede#mei   uur   fier   vrede   wie
+mei#ridders   hens   drie   mei   heen
+iris#mini   huid   herwin   iris   veren
+herwin#ferme   ruis   herwin   rivieren
+duurde#huisdieren   duurde   vrede
+vuur#huisdeuren   ris   der   vuur   her
+dim#een herwin einde mensheid ree dim
+meerderheid#dennen meerderheid veerhuis
+mes#druif iris even verf missie rum mes
+snee#ferm sis eeuw vinvis verhef snee
+weduwe#rivier eed wees neusde de weduwe
+muis#eed hem menu wens sein fier muis
+mie#miniem huiver effe eveneens mes mie
+induw#wie druis minimum meid ieder induw
+fris#missie der smeer mede dies mee fris
+duwen#meermin vinvis meeuw duwen herder
+;type letters xyqhsnwidurefmv
+$e   m   s   h   q   x   n   f   i   u
+$d   y   w   v   n   i   e   s   f   x
+$w   i   h   x   m   e   r   v   f   y
+$i   y   h   e   s   d   u   f   n   w
+$i   d   y   x   e   f   u   r   n   v
+$d e m i r n w y v s x u q h
+$m u x f e n y r v q h i d s
+$r x f s w m u y n i h v q d
+$h r d x s v i q e w u f m n
+$v r u f d s i m n x y e h q
+$m y h q n i e m
+$m y v i e y u n
+$v d d d h h m e
+$u h r u y i v y
+$u e h r d d h i
+;type woorden xyqhsnwidurefmv
+$dreun
+$fusie
+$ferme
+$duurde
+$dieven
+$verdien verse eerder
+$rui meerderheid mus
+$verwees vissers verder
+$rum miniem wuif
+$minimum een eind
+;=== xyqhsnwidurefmvabkl ===
+abdefhiklmnqrsuvwxy
+;lees letters xyqhsnwidurefmvabkl
+i   m   u   y   v   b   k   e   r   w
+s   b   k   m   r   d   v   i   e   u
+n   k   y   x   d   a   m   b   v   h
+k   w   n   r   m   e   f   x   y   v
+e   l   q   f   b   x   n   m   y   s
+n x w v s i y r k m h q l b
+b l s a x h y f n r v m q d
+a d f m x h w y n u r b v s
+q l w e d s k h x a m i f r
+w m q x u d h a i f k b n l
+i a e q d b l b u l b f h q
+w y h f k q d i x k e f b x
+y f w i u e q f n v u k r y
+l k n l d n l k b r v a b y
+b h s u i l b q u w y m h y
+;zoek letters xyqhsnwidurefmvabkl
+k#y   u   l   v   k   d   a   n   x   w
+y#a   m   r   n   y   f   h   u   v   x
+u#n   m   s   h   y   u   x   i   r   q
+h#m   x   y   d   f   h   k   u   l   e
+s#r   u   m   d   h   s   n   v   k   w
+r#d   v   s   q   l   r   u   d   a   y
+i#a   y   e   m   d   i   d   v   x   e
+x#r   f   w   l   h   x   n   x   y   v
+e#n   s   x   s   b   e   q   n   q   k
+a#b   h   r   q   l   a   x   r   n   n
+r#q s i u h k r d x b m a e l
+q#i m a h u k q s d y w l f v
+e#i x u r a y e f n b v d q l
+f#v y b h k l f r m n u x s d
+d#n l i k u r d w x h s y v a
+u#h y w m h e u u b m x b d q
+k#x n d m w b k m x s r u b v
+d#q f e s w a d w k v d m y x
+x#s l m v w m x x a s w k w w
+d#v r k h u x d y v w k k s f
+;lees woorden xyqhsnwidurefmvabkl
+haven   daad   inkeer   makelaar   duw
+sik   dassen   afbraken   krans   beide
+aanduwen   man   klauw   win   leeswerk
+delfde   namens   flanellen   verleer
+verblik   maximum   eb   wilde   bewaar
+maar leider landheer breuken ren einde
+die as lariks lever ruil druiven warmen
+wil huisraad afbreken rekenwerk induw
+ham rik deksel lieve lui nee daar iemand
+fuif vieren rivier bal afkeer duur blies
+knar miniem vals aandelen huismus verdik
+rum meel kelk arbeiden eens mum wild
+baken lande vlak elk verbrak ludiek
+landman aanvullen leuker braaf kennis
+arbeider ene huismus dank afkeren afdek
+;zoek woorden xyqhsnwidurefmvabkl
+maximaal#maximaal   vandaal   armband
+wars#snaar   nemen   bruikleen   wars
+dieven#dieven   mensheid   dansles
+hinkel#draaibaar   rauw   vele   hinkel
+leer#luid   kwark   verdenk   leer
+brassen#inwin   drank   meeval   brassen
+braille#reeks   luisde   mis   braille
+bakker#huid   varken   andere   bakker
+wild#mineraal   aandeel   linksaf   wild
+verbras#mauwde   barak   firma   verbras
+bakkebaard#bleven navel smeul bakkebaard
+keuken#leefbaar vulkaan sleuf keuken
+merken#kraan slavin eeuw mams merken
+waren#waan sluik meubilair binken waren
+brief#huisbaas melden wendbaar brief
+nuk#leeswerk evenals verdien waarna nuk
+ren#likken ren smeerkaas kun redden sluw
+reken#buk reken masker vele benieuwd vak
+reed#reuk kleuren buien verdwenen reed
+nam#basis sirene brandblusser arken nam
+;type letters xyqhsnwidurefmvabkl
+$h   u   m   k   x   w   q   f   l   y
+$w   v   y   l   q   h   u   i   k   m
+$r   q   x   a   m   n   y   h   f   l
+$e   w   f   h   u   y   s   b   a   l
+$a   u   n   e   d   k   m   r   l   y
+$k n i x l d r m e a w s b h
+$m e y q f u k a v b n i s l
+$e h w y q i l r u n d s v a
+$b f h r n k a l e m u v q x
+$w b e s m l x h n u y r f q
+$h b f q x f f r
+$k h x m x f s l
+$a q v h f x r x
+$m q u f n d a y
+$e q s q k b q q
+;type woorden xyqhsnwidurefmvabkl
+$keek
+$verdenk
+$afkeren
+$iedere
+$kliek
+$een mende muis
+$badlaken elfde andere
+$versmal vieren kaakbeen
+$verval alle ruisen
+$rauw afdek dreun
+;=== xyqhsnwidurefmvabklcgop ===
+abcdefghiklmnopqrsuvwxy
+;lees letters xyqhsnwidurefmvabklcgop
+i   u   a   y   o   q   w   x   f   s
+n   a   c   w   u   f   x   b   d   s
+c   e   r   k   m   y   v   q   w   u
+m   i   b   y   v   w   o   d   k   g
+n   i   c   e   k   u   g   r   m   d
+p d w c b f m u r k o x e n
+o n e u d x y l q s f h r a
+a h c d o u i k p w x q v y
+p a u g w h n i s y d c l f
+w f o n i v g b y a k x u p
+e f h g p n k a k b r b v k
+m h i v q a c i n r g s q o
+r r r m l g h f y i i y f e
+w k f e e y r l g s b p p x
+o b v f l y p v y w q n w o
+;zoek letters xyqhsnwidurefmvabklcgop
+a#i   a   n   v   y   b   f   x   o   k
+f#p   f   x   h   w   o   y   d   r   u
+l#i   l   w   o   x   n   d   v   p   g
+m#e   m   f   p   l   s   u   q   k   b
+y#l   y   f   c   x   q   h   n   b   v
+c#a   c   n   f   u   p   o   h   u   r
+x#c   x   o   o   h   r   u   m   x   m
+q#u   q   c   h   y   w   c   x   i   w
+n#o   n   b   d   x   q   n   u   v   p
+d#r   d   m   f   o   o   a   c   o   a
+g#g q y d n c e l a m f x r o
+k#k d u i q n b m y x h s f p
+c#c v w s k p e h f o a l r b
+n#n g u b v c q l p d w x f h
+c#c h y f i b p q g w l r u m
+k#k c x f q b m n i p b x s o
+w#w h w p x f s a y d n a l r
+m#m h e m e h y a s g b k d i
+v#v l a i v m h i a v h s c e
+b#b u c q b x n o q i v a d a
+;lees woorden xyqhsnwidurefmvabklcgop
+lira   lonen   oom   gifslang   roman
+lach   scheermes   bloem   lel   bleven
+vlas   mooi   raad   blanke   praal
+rivier   besef   avonden   knippen
+voordeel   berm   woensdag   binken
+duwbak club schoolgaan doorslaan kreupel
+valkuil laden afdak nummer veranker las
+kwelder omwerken beginnen schaar grappig
+kruip kluis orde luis overhaal inwerken
+wegga kroeg wars ophalen huismerk nieuwe
+bedrag gala galg drankfles oplos sloeg
+bepaling waaier modderbad massaal korf
+lampenkap lik geheel sporen bepaal spaan
+aap konden visboer module aaide delfde
+geld aflopen relax lauw dis waan logos
+;zoek woorden xyqhsnwidurefmvabklcgop
+roe#roe   daarvan   ga   laveer   cacao
+ananas#opgang   ananas   sein   hing
+daarom#builen   daarom   aaide   inruim
+doneer#cavia   doneer   aanbellen   kalm
+dokwerker#dokwerker   hard   bad   vuren
+boekwerk#boekwerk   moreel   eigenaar
+weerklank#weerklank   marsen   frees
+normaal#normaal   kraag   grondig
+groepen#groepen   alcohol   afknappen
+bal#bal   moederliefde   werkgroep   ach
+opa#heb opa monnik sokken planning mus
+weekdier#weekdier soep opvraag halmen
+al#hing al langs lafbek papa waarna werp
+helm#helm verkleur roeibaan geleerd
+indoen#wie indoen nor slaken leraren
+welke#welke vorming samenwerk badhuis
+raden#kwam raden pleegbroer kneus schip
+lelie#uil lelie weleer kassa vergok kink
+ellende#info ellende vliegwiel ei wegkom
+aardbeien#aardbeien royale deelbaar pep
+;type letters xyqhsnwidurefmvabklcgop
+$u   w   e   x   d   b   l   q   n   m
+$c   a   i   v   q   m   l   o   u   n
+$l   c   r   a   o   v   i   d   s   q
+$y   d   b   p   q   f   l   h   e   m
+$i   o   s   b   w   d   f   k   e   r
+$q i e v m c l a h g s d n p
+$c a x k h l w m f u s o q r
+$p f i b x s l a o c k w r u
+$o l a m n v h u e r i q c p
+$s w o d k n g p e i m x r c
+$l r m k c v s s
+$f y n o e m y o
+$o m v k m a f y
+$i q p m v l p s
+$b m d d a g r i
+;type woorden xyqhsnwidurefmvabklcgop
+$noem
+$droegen
+$scheve
+$hiel
+$afkappen
+$willen vroegen oorlel
+$harder woelig landhuis
+$vierde afmaken overga
+$koek woelige huisdeuren
+$wenkbrauw wagon basis
+;=== jtz ===
+jtz
+;lees letters jtz
+j   t   z
+t   j   z
+z   j   t
+j   z   t
+j   t   z
+z j t
+t j z
+t z j
+z t j
+z j t
+t z z z z t t j t j t t j t
+z j t j j j j z z j z j j j
+j z j j t t z t z t z j z j
+t j j z j z z z t z j z t j
+j t j j z t j j j j j j j z
+;zoek letters jtz
+z#z   t   j
+j#j   t   z
+t#t   j   z
+t#t   z   j
+z#z   t   j
+z#z   t   z   t   j   j   t   j   z   z
+t#t   t   t   z   z   j   z   j   j   z
+t#t   t   t   j   z   z   t   j   t   z
+z#z   j   z   j   t   j   z   j   t   t
+j#j   j   j   t   j   z   t   z   j   t
+z#z t j
+z#z t j
+t#t j z
+t#t z j
+j#j t z
+z#t j j t z t j z j t z t z j
+t#j t j t t z t z j j z j z t
+j#j t t t j t j t z j j j t z
+t#j j z t t j j j z j j z j j
+z#j z t z z j z z z t t j z t
+;lees woorden jtz
+;zoek woorden jtz
+;type letters jtz
+$t   j   z
+$t   j   z
+$z   j   t
+$j   z   t
+$t   z   j
+$t j z
+$j z t
+$z t j
+$t j z
+$j z t
+$j j z z j t t j
+$t t z z j z t t
+$z j t z t z z t
+$j z t t t t z z
+$t j z t z t j z
+;type woorden jtz
+;=== jtzxyq ===
+jqtxyz
+;lees letters jtzxyq
+x   y   t   z   q   j
+y   q   x   z   t   j
+j   t   x   z   q   y
+z   j   x   y   q   t
+x   q   t   y   j   z
+q y z x j t
+z x y j t q
+y z j t q x
+q y z j x t
+t j y q x z
+t q x j z y q t x j t q y x
+j y j j j q y y z z j j q t
+x q x j y t y q j z t t z x
+j j t q z x q j y x t z q y
+j z z x z t y z z t y x t t
+;zoek letters jtzxyq
+j#j   q   x   t   y   z
+y#y   q   x   j   t   z
+j#j   t   z   q   x   y
+z#z   x   j   y   t   q
+y#y   j   x   t   q   z
+q#z   q   z   z   t   j   q   x   y   t
+x#j   x   j   x   t   j   q   t   t   x
+y#j   y   q   y   t   y   y   t   x   x
+q#x   q   x   q   j   z   t   z   t   y
+t#j   t   j   j   q   j   y   x   q   j
+z#z j t y q x
+q#q j z y t x
+j#j y q x z t
+q#q y z t j x
+t#t y x z j q
+q#z q y q z x t j j q x j z j
+q#y y j q z j q y q q q t z q
+y#q y t q z y z z y y t x z y
+x#t x x q t t q j x x z y t y
+q#q t j q q x y x z q z j z z
+;lees woorden jtzxyq
+;zoek woorden jtzxyq
+;type letters jtzxyq
+$z   j   t   y   q   x
+$x   y   q   t   z   j
+$z   j   t   x   q   y
+$t   z   y   x   q   j
+$q   x   z   j   t   y
+$y z x t q j
+$q y t x j z
+$z x y j t q
+$y q x j z t
+$y t q z j x
+$q t y t y x j y
+$z x q z y q j j
+$t q q x z y z z
+$j t q y t x q y
+$q y y q q z t j
+;type woorden jtzxyq
+;=== jtzxyqhsnw ===
+hjnqstwxyz
+;lees letters jtzxyqhsnw
+y   n   x   j   w   h   t   z   s   q
+t   z   q   h   x   w   y   j   s   n
+j   n   z   t   h   x   w   q   s   y
+t   w   h   x   j   s   n   y   z   q
+t   w   n   q   s   z   y   h   j   x
+j h z x n t s q y w
+j t n y q w s x h z
+x q w h j y t s z n
+x j n t h s w y z q
+s t n w q j x y h z
+w s z n y y w w s y j s x z
+y s y q s w t s j z w y n q
+x h j y n z s j x y j w y y
+q h x s j j t h h y q j q w
+q q w h t x h j w h h y z n
+;zoek letters jtzxyqhsnw
+q#z   x   y   t   w   j   h   s   n   q
+z#h   y   x   t   n   w   j   q   s   z
+q#y   x   w   s   j   z   h   t   n   q
+h#z   j   x   t   q   s   w   n   y   h
+z#j   h   t   y   w   n   s   x   q   z
+x#t   q   j   n   t   q   z   w   s   x
+w#x   t   q   z   q   y   t   z   j   w
+t#h   w   y   q   s   w   t   h   h   t
+j#n   z   q   j   z   t   j   w   h   j
+h#j   n   j   y   h   j   j   z   n   h
+x#q s y w t h z n j x
+h#j z t x q n w s y h
+s#y x h w n j z q t s
+y#h q n z x t j w s y
+h#s z q w y j n t x h
+w#x t z y x q w q t w j y x s
+z#t x t s s y n s q z s x q z
+q#j y j j t z s w w q y z n n
+x#y y x s y s w s x x x w z j
+t#n y q x s z t q h t z q s z
+;lees woorden jtzxyqhsnw
+;zoek woorden jtzxyqhsnw
+;type letters jtzxyqhsnw
+$j   h   t   z   q   x   n   w   s   y
+$h   y   j   z   w   x   q   s   t   n
+$h   j   q   y   t   x   w   z   n   s
+$s   y   w   x   n   j   t   h   z   q
+$n   z   y   s   q   t   h   x   j   w
+$s q t n y h j x w z
+$j q y s x t h w z n
+$y j w s h t n q z x
+$z h n y x j s t w q
+$t s w q j h z x n y
+$w q q q s j q t
+$s j z z z x n s
+$j z q x t x z t
+$t x j n s y q q
+$t x q x z q n n
+;type woorden jtzxyqhsnw
+;=== jtzxyqhsnwidur ===
+dhijnqrstuwxyz
+;lees letters jtzxyqhsnwidur
+u   z   t   j   s   d   x   q   y   i
+h   j   y   q   r   s   t   z   u   i
+w   d   x   q   i   j   t   z   s   y
+d   x   s   j   y   t   h   i   r   w
+t   z   j   u   q   n   x   s   h   w
+n j x t r u s h y q z d w i
+x y j q r w n z s t d u h i
+t d y z w h r u n j q s i x
+t r d n h i x z j q y w u s
+x j y i u n h q d s r w z t
+r n i q n s j z s n w y n h
+z n r u u z t w t s s w h n
+h u u r t w j y z h y q h s
+q h n d y n y w t w t y j s
+w i s d s t x y z n d t r h
+;zoek letters jtzxyqhsnwidur
+h#u   y   i   q   x   j   n   z   h   d
+z#x   i   u   j   d   w   y   h   z   t
+d#z   i   n   q   r   x   h   y   d   u
+w#d   x   s   z   t   q   j   u   w   i
+i#j   d   t   n   x   u   q   r   i   y
+y#y   s   r   t   j   s   d   r   y   r
+h#j   x   d   y   t   i   s   s   h   s
+n#i   r   w   n   z   j   x   t   n   t
+n#w   x   h   z   z   x   t   t   n   q
+i#q   r   y   h   z   s   d   w   i   r
+z#w n r t d u i s h j y q x z
+h#j z r n s u d t q y w i x h
+d#x h j z q s n w y t i u r d
+i#h w z q d n u y j x t r s i
+z#d i h s u n x t w r y j q z
+w#z w r r x n s t j h h i y w
+u#j u r q n w t z h w h y u u
+r#w w q t u r i t z y y h t r
+t#u n n n z n u n i x z d j t
+z#h q t y q u n h h d j j y z
+;lees woorden jtzxyqhsnwidur
+ui   druis   tuit   ruw   zwijn   twist
+trui   wij   stuurhut   sist   sis   wit
+inwin   stuit   tuinhuis   rij   uitzit
+wijd   winst   stunt   snuit   rusthuis
+rijst   stunt   uit   instituut   ui
+ruit tuur urn dut ui zus sijs thuis quiz
+duur dij tin ijs sis zuur ui stunt huid
+sist ruit juni stuit tui wijd dus twist
+strijd zit id snuit nut wij tuurt tijd
+induw tint tui ruit zuur id stuit jury
+sijs thuis stunt rijst hij winst wijs
+tint dit dun tui rust uitdun inzit wist
+uur stuurt hut stuurt tuurt dis uitzit
+snijd huis jij zijn dj inwin nut tint
+huis stuit uitrust uitwis nut hij tuurt
+;zoek woorden jtzxyqhsnwidur
+zwijn#zwijn   is   wind   uur   stunt
+uitwis#uitwis   trix   tuur   dut   huur
+ris#ris   dis   stuurt   wist   huid
+dj#uw   jij   tuinhuis   dj   tijd   nis
+trui#trui   ris   zus   tuurt   hij
+sust#nut   zit   sint   sust   sus   rit
+dj#uit   wijd   uitwis   dj   jury   jut
+quiz#zit   inwin   dus   quiz   uur   in
+tui#hut   tijd   nu   tui   jut   zuur
+dj#rust   wijs   zin   dj   induw   sist
+stuit#dun wind rit uw stuit ris tut sus
+rits#induw rijst tuin huid rits is ruit
+duw#sist tuurt zus jij duw wist zijn hit
+wij#ris wist trui induw wij indut juni
+sijs#jury hij stunt sus sijs wist is hun
+rij#rij uitwis duin quiz zit tint jij
+sijs#wit hij wijd id sijs hut ruis ui
+induw#trix juni duwt induw inwin snuit
+zij#duw uur ruis duwt zij tuin tuit uur
+wijs#wijs dis rijdt jury huis huur rits
+;type letters jtzxyqhsnwidur
+$w   q   h   j   s   z   i   d   y   x
+$r   h   t   j   z   i   u   x   n   s
+$w   r   z   i   s   d   x   j   u   h
+$i   h   t   j   u   n   d   r   z   x
+$i   q   r   j   t   u   d   x   z   y
+$q n d r h x z i t w y s j u
+$i r h w u j z x t n s d q y
+$i t d x j y w q n u z h s r
+$x h q n w z s j y u i t d r
+$y q h s i z x t u d w n r j
+$w j t j t h q q
+$t s z u n u h s
+$t d r s r s s w
+$t j d x y x n d
+$z y n u n u w j
+;type woorden jtzxyqhsnwidur
+$wijd
+$induw
+$rui
+$stuurhut
+$uitdun
+$ui wijd dut
+$sist sinds induw
+$induw wit ris
+$is rit rijst
+$zuur wijd stuit
+;=== jtzxyqhsnwidurefmv ===
+defhijmnqrstuvwxyz
+;lees letters jtzxyqhsnwidurefmv
+q   m   t   j   i   x   s   z   u   e
+n   m   x   w   y   f   j   h   s   q
+u   y   i   x   f   e   m   v   q   z
+v   t   r   x   e   w   y   j   n   z
+y   v   x   e   t   u   q   r   j   s
+t y x n f j i m e w z h r u
+n u w z t s e v y d j m h q
+x j v s h n m q w i f r t e
+z d h u q f x s m w e r t j
+f x j q r n y h s e v i t m
+v s s r u q q t z m e f x s
+i n n x s r e n m t q j q t
+t m y w d s q q z h i t x u
+w q j m f z f t h i f t t q
+h v i q m s j t n s x z s y
+;zoek letters jtzxyqhsnwidurefmv
+s#m   j   z   d   t   s   x   v   h   e
+d#x   t   r   q   n   d   y   e   s   v
+h#u   f   z   d   t   h   w   j   q   s
+d#u   y   s   t   h   d   w   i   e   n
+q#d   v   t   x   n   q   s   i   r   f
+d#j   j   e   z   h   d   m   m   t   u
+z#y   z   y   q   t   z   u   h   u   t
+d#n   j   i   q   q   d   m   d   q   f
+e#h   h   v   s   h   e   j   j   q   f
+j#y   d   h   n   s   j   t   h   y   f
+v#v x d j r w f h t y s i n u
+w#w e t i q m y r v x j z f d
+m#m f y h u e x i d s w n z v
+n#n x d i m t s w e f v h y r
+n#n t w x q y m z i u s v d j
+n#n m u t h x y n i r u w n j
+z#z v r w t u u m h v x u i u
+r#r j f v e z z q z z u f d q
+s#s z m s n d d r f h z j r v
+j#j x j f x t t z d w d x f i
+;lees woorden jtzxyqhsnwidurefmv
+nest   verwees   dreun   verven   effe
+vriendinnetje   duw   dieven   triest
+tuinfeest   niet   vies   rits   hierin
+stuif   hen   internet   effe   ze   uit
+terneer   verzuim   trui   eens   zitten
+rem meneer drummer frees feesten enter
+frees iedere zwerf zuur steentijd deun
+meneer frietjes ris verdiensten zeedier
+rum werf nemen niets fuseren strijd surf
+uit smeren etsen wij tenminste instem
+stem zes mees mei mende verhit hut een
+witte uw versus witheet uiteenzet vuren
+meenemen wei eieren mieren tent evenmin
+uitdien mens treuren mist wederzijds
+heen reis uitrust trui snuit duurt net
+;zoek woorden jtzxyqhsnwidurefmv
+trix#termiet   terreur   het   trix
+reist#ets   vieren   tint   reist   tuin
+heen#nieten   winst   een   heen   twee
+wie#tv   fijn   verweer   wie   mest
+sterf#dit   witvis   neuzen   sterf
+te#zee   vriend   smeer   te   reden
+drie#stuw   reden   drum   drie   mus
+miniem#meest   duif   tem   miniem
+vee#ruis   verf   tref   vee   id
+duren#fiets   zusters   wijzen   duren
+vreemd#eentje reed uurtje vreemd jut
+tussen#twee wijn muizen tussen uitdiende
+missie#uitwis zwemvest zwemmen missie
+zeer#uiterst te zeer eet fusie wens tuur
+uitvis#mede weeshuis dutje uitvis minder
+verte#nis eed verte minus extreem smet
+frieten#verhef zwermen wijsjes frieten
+nut#justitie mieren feesten nut zwerm
+vieren#turf ruit vieren verste wist quiz
+frees#men reuzen frees je fietst ferme
+;type letters jtzxyqhsnwidurefmv
+$n   j   d   x   s   v   y   z   i   m
+$h   x   q   u   i   v   e   r   w   y
+$t   h   e   w   r   j   i   s   u   v
+$j   t   s   r   q   e   h   y   d   i
+$x   i   d   s   u   w   r   y   v   j
+$x q v w r d m u i z s t j n
+$e j v y t m r x u i h f s q
+$j v i h q r d z n s t y m x
+$h z j q t e w v m n r s y d
+$i r q w u s y v t z x e f d
+$f f f i z t z h
+$z j v y f j f w
+$x z h r q f y d
+$y q r y e u d u
+$q s z r y w j e
+;type woorden jtzxyqhsnwidurefmv
+$meester
+$fietser
+$enerzijds
+$zei
+$versuf
+$ruwe uitdien steun
+$wei tuurt fier
+$zwemmen instrument zie
+$eerste wezen ver
+$hieruit ren runderen
+;=== jtzxyqhsnwidurefmvabkl ===
+abdefhijklmnqrstuvwxyz
+;lees letters jtzxyqhsnwidurefmvabkl
+a   q   m   r   n   s   e   d   x   v
+t   v   w   a   e   l   f   r   m   u
+q   k   n   i   e   u   m   z   s   d
+b   a   v   i   z   r   t   h   y   m
+n   d   b   h   k   i   t   s   z   f
+s x q m j d a t f z y l h n
+t s d m r z x w e j f a n h
+z b x u l s d m w j y t k i
+y t q e z j m u b i w d f k
+u z d w a r x j h l f y i q
+u q s m x q a x n v s l q r
+u d a f q z x f v n u t e v
+j z u d x f w b d r r s s u
+q t e w e k f q t u m j b d
+k h l q k b k x l x m b m t
+;zoek letters jtzxyqhsnwidurefmvabkl
+e#l   t   a   x   e   q   r   m   j   d
+q#w   j   v   b   q   h   k   r   a   z
+j#f   d   x   z   j   n   t   b   q   h
+e#x   s   t   w   e   u   j   a   q   i
+v#a   x   y   t   v   d   l   j   i   u
+q#h   n   m   u   q   y   w   z   v   j
+r#v   e   r   z   r   n   a   f   m   s
+y#b   r   a   j   y   d   n   t   e   r
+k#r   y   w   h   k   r   z   y   i   b
+e#s   v   j   u   e   e   v   s   s   z
+z#r x e v z l d i u j f t s a
+n#r v u k n q t d h b e s z m
+e#f l a d e r n y q j z m w u
+t#s f q n t e m k a y b r x i
+n#a j l q n y b w v d m u h e
+s#t k y n s f i y n a m l t i
+j#a u z n j q a l r t j w h b
+z#a a r s z z x u j e q d f t
+y#a z x h y j i z w y w u z q
+h#a n e q h b v f v v e e i i
+;lees woorden jtzxyqhsnwidurefmvabkl
+mentaal   vreedzaam   witvis   bit
+kat   sjaal   zei   zee   kaaiman   hek
+stuwmeer   draaideuren   huisdieren
+materie   duren   krediet   waarde   ei
+kwijt   kantine   heisa   alsmaar
+verbras balk harde kabeljauw vrij sla
+havens eveneens blanke afbrand verft kas
+tafel daden ei blanken brilletje telex
+leidinkje bieden snavels heks had eitje
+aai bestuur zet afsturen fiets wees risk
+vermaan indruk zusters inwinnen zestal
+stadsdeel zekerheden abuis vakantie teer
+stelsel misbaar straks duiken betreden
+vies buitenhuis artsen matrassen lal
+verkeerde rest kern sandaal mik versier
+;zoek woorden jtzxyqhsnwidurefmvabkl
+tevens#lijm   tevens   ijs   wei   her
+vreselijk#vreselijk   raak   veelal
+term#file   eventueel   lekkere   term
+nier#waarvandaan   sluimer   blaf   nier
+levert#kers   kreun   leen   levert
+taart#zus   winterweer   knel   taart
+kalm#vent   kalm   zulk   teniet   wrede
+zeldzaam#zeldzaam   verdwenen   snaar
+kwijt#mama   kwijt   aaide   fik   huur
+bekendst#bekendst   kameraad   afmeten
+weerzin#verbreek waak kardinaal weerzin
+werkte#reken werkte aflezen snuif bakt
+verband#betekenis uitneem strijd verband
+reed#beleven reed matras masker uitdun
+luisteren#mies luisteren hem meubels lam
+verhef#sint verhef verleden muf haalt
+leeslust#liever vijf alfabet leeslust
+abuis#vermaan abuis vla herlees quark
+nasmaak#afkeer elf restaurant nasmaak
+breedte#kelken breedte ermee vlies buis
+;type letters jtzxyqhsnwidurefmvabkl
+$d   z   s   x   b   e   m   k   a   r
+$a   u   h   t   s   m   x   i   d   l
+$f   n   t   d   k   l   z   m   j   q
+$e   a   b   f   u   w   z   n   y   j
+$u   s   m   z   e   r   x   l   v   b
+$q n t s k b j u d m l x v r
+$l v x j d b m w i f u r e k
+$m b q s l k z a e u d n w y
+$t x y e u l i d q m v z b s
+$k x r y e b t m n z v a u l
+$x k z v t a d d
+$h i i s u v r t
+$q b r d b f l d
+$y h f e q e s j
+$z f a a u r f i
+;type woorden jtzxyqhsnwidurefmvabkl
+$bier
+$verwater
+$kleintjes
+$wijd
+$knikkeren
+$draaideur vin zwemt
+$kasteel uitlezen tezamen
+$verjaar melkvee kademuur
+$hiervan hink zelden
+$beslist aanhebben wederzijds
+;=== jtzxyqhsnwidurefmvabklcgop ===
+abcdefghijklmnopqrstuvwxyz
+;lees letters jtzxyqhsnwidurefmvabklcgop
+r   t   u   f   i   n   e   q   s   m
+l   u   q   t   n   v   a   p   f   s
+r   b   u   w   c   o   p   e   t   y
+f   v   b   u   w   z   k   o   n   l
+d   c   o   n   u   x   h   i   j   g
+t m x r l a b v h q k d o w
+m x k d g z o y i n s q b e
+o e w t y b p k q j n u g h
+z h w c s x q g j t v i o y
+r m v z q o x i p g c f b j
+l d z d f a l q z y x c h i
+v t n i x e g a a q h w l v
+q h d a j c b z m u z t h e
+b u e j g y m r e a g b m i
+s v v n k r r o u o b d t h
+;zoek letters jtzxyqhsnwidurefmvabklcgop
+e#u   n   v   r   e   o   s   c   f   p
+k#i   l   h   y   k   w   a   q   t   f
+s#z   x   h   u   s   m   p   v   e   d
+x#a   t   p   v   x   l   m   i   q   h
+h#u   c   d   s   h   q   j   n   x   m
+s#z   d   m   n   s   l   m   z   x   b
+h#a   e   c   g   h   s   y   a   m   m
+g#d   j   j   i   g   b   g   x   b   l
+e#q   u   y   c   e   q   f   r   l   j
+y#p   o   w   w   y   m   n   o   o   q
+o#c r o j p l e i y f v z s k
+c#r k c n e u t p s y v q b x
+f#t w f g x k u e m b r q n v
+v#x y v k z l n g j e o a u q
+c#b g c r v u p w z h d s n j
+u#z p u v i m b q x q c i y v
+b#m l b j k h i a f m m s l y
+p#u d p p n z u q q v b k w u
+q#n z q p c o r v l v c s o k
+w#r u w f f j j x e n n w i l
+;lees woorden jtzxyqhsnwidurefmvabklcgop
+zwaai   eekhoorntjes   loopjongen   dam
+uitstaan   kortenhoef   trouwt   wis
+particulier   verborg   honden   ingezet
+aanleren   werf   koopsom   neusde
+lepelaar   antwoorden   mat   speeltuin
+lesgeven deugd wakker menselijk mensa
+nagaan kwart wasdag stinkdier geboorte
+web waterwerk vlas naar inclusief buur
+kantine politicus joker brieven kroket
+meningsverschil teksttraining huilen
+messen nar stoofpeer uitknip zeevogel
+werd relax maait telewerk wilde deelt
+laat adres overtuiging ludiek wegenkaart
+kolonie begroting tweede dolk voetbrug
+kortenhoef gekruid mango wip overlast
+;zoek woorden jtzxyqhsnwidurefmvabklcgop
+koppeling#moeite   inflatie   koppeling
+wipneus#wipneus   morgen   vertelt   yup
+beweging#recent   voordat   beweging
+dagen#stemband   poppetje   dagen
+drukt#zwak   drukt   zij   japon   zwom
+waardering#ober   versleep   waardering
+tegenzin#uitgebreid   proeven   tegenzin
+ontplooi#lost   uitvoerbaar   ontplooi
+jaarkaart#beuk   matrassen   jaarkaart
+breker#spreek   boerenkar   breker
+bij#kwelder vroom apostel mep smoes bij
+musicus#musicus neus centrale zwerk
+regenval#regenval vulpen voorgaan woelig
+snikheet#snikheet raceauto zweep tiptop
+stofnest#ofwel stofnest zweeg zegt giro
+grappige#grappige vakblad uitdoen krot
+verzorgt#deukje slurven spaak verzorgt
+boten#zeearm deuren aansluiting boten
+dreigt#driedaags voornaam damp dreigt
+aankomen#stroop stol ontsteek aankomen
+;type letters jtzxyqhsnwidurefmvabklcgop
+$w   k   h   v   z   f   t   i   e   m
+$l   a   n   j   r   y   w   q   o   z
+$x   q   v   j   i   z   y   o   a   c
+$v   t   k   g   p   m   s   l   y   j
+$p   d   f   j   l   u   x   q   g   z
+$p f n e r v u m i k j g x l
+$w m t g i h a q n c u k b j
+$v r x d h u s f j w k b c m
+$o p c s k d r g m t u j x b
+$n d t w p l z f m v r o e k
+$k k x t n e k i
+$c b k b f a r e
+$f i n t n h o c
+$p h l r w w n p
+$i t n j d r a z
+;type woorden jtzxyqhsnwidurefmvabklcgop
+$vertaald
+$uitspraak
+$vergroot
+$neus
+$bovenarmen
+$drugshond afvuren kraal
+$hobo dertig demo
+$plasma dakje woonwagen
+$verstar huppelen leer
+$hadden bijzonderheid uitkomst

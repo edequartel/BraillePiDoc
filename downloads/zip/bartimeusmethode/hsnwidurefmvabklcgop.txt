@@ -1,0 +1,102 @@
+abcdefghiklmnoprsuvw
+;lees letters hsnwidurefmvabklcgop
+u   l   m   c   h   r   p   k   i   b
+a   n   o   p   d   c   f   w   m   r
+a   p   r   b   l   c   v   s   u   g
+r   l   g   u   k   p   w   n   b   e
+c   s   h   e   m   i   v   l   g   f
+w k a u d o e b i h v r l f
+i u n k v c w m d a h b e s
+f m b r u g l w e c k v a d
+v d s f c l i o w p a m h n
+i d m p w k a g l s o e c f
+f s f e c v l l f w e g d h
+p d v l h e k s h v c p g h
+b r c h l h v b d u m g h f
+r e n d v a e i m h i l w p
+b e h m s v i f n o s s n a
+;zoek letters hsnwidurefmvabklcgop
+l#u   f   a   h   r   n   l   s   k   m
+s#i   e   c   u   r   f   s   p   o   g
+r#n   u   h   o   m   l   r   a   v   c
+h#s   b   m   c   r   g   h   p   e   u
+u#h   a   k   d   m   w   u   o   b   v
+u#b   b   a   s   r   b   u   i   o   m
+k#d   s   g   d   i   p   k   k   o   s
+d#a   b   c   e   f   d   d   c   c   h
+c#p   i   l   m   k   v   c   o   k   o
+m#n   p   u   a   d   c   m   a   v   w
+a#a l n d u i k e p f r b m c
+k#k d m l p c o b f e n a i v
+r#r f h d l k w v g m s n e a
+a#a k h f o w b l m p i u n r
+d#d i f c m e h u w k b g o a
+m#m k v a a b r a u n f l n r
+e#e h h p s i e d v r b f o w
+o#o i s u d n r m n k s v f w
+h#h r l a i u d f h u a s c r
+m#m v c o e i i k a k h n e r
+;lees woorden hsnwidurefmvabklcgop
+viool   ineens   wegsloeg   crisis
+vergis   overuur   inkomen   pin   krul
+pakweg   blad   krul   papier   bergbeek
+odeur   vernam   smeerlap   kachel
+herlees   half   verliep   filmdoek
+scheep bermen vliegen deurcodes buig
+eis flap oproep opensla maakwerk rui
+akkoord verkoos effen breuken voornam
+smeren verniel heldere waak boerenkaas
+populair oliekraan drukproeven speelfilm
+kapper maan aanhouding spanning bewaak
+polo heengaan lis bemanning vlieg opera
+buil lokaas aanvullen spiegelbeeld
+lage graan peren weekblad inworp kaal
+flop dolder bed afscherm siroop vieren
+;zoek woorden hsnwidurefmvabklcgop
+lans#nors   proefles   beurs   lans
+lachen#afkeren   lonen   dagen   lachen
+gaf#afvuren   gebrom   geblaf   gaf
+bang#alsmede   aflopen   ingangen   bang
+sneeuwpop#boeken   speen   sneeuwpop
+weer#plens   onderop   ananas   weer
+mag#drempel   mag   oog   wraak   hernam
+markies#losloop   onaardig   markies
+verkwik#aanwas   ingegrepen   verkwik
+onnodig#ook   roeping   misgun   onnodig
+linksaf#wegvlieg werkgelegenheid linksaf
+her#domkop her lekkerder barak voerbak
+bruikleen#spreekuur aanloop bruikleen
+rul#legden rul schoor mauwen slag broer
+omkeer#waarnaar omkeer spar wesp vink
+verbluf#flop losraak omhullen verbluf
+inclusief#draaien fabrieken inclusief
+spreeuwen#ui driehoek duurder spreeuwen
+groeien#vakman mening afkeuren groeien
+smoes#buksen smoes beuk virus vaan
+;type letters hsnwidurefmvabklcgop
+$b   e   v   d   p   r   f   s   h   u
+$o   i   w   d   b   g   p   k   h   e
+$l   h   r   e   b   n   a   i   s   w
+$l   f   v   a   p   w   u   r   h   n
+$v   e   k   b   r   s   d   m   w   f
+$d r n k m w a p e s c g l f
+$d b v r h n e s m w p c l o
+$c e h p r w a n o b g u m i
+$l a m o n r u e d c p i s h
+$a f e c d b m i h o u n r w
+$h w o e n d k a
+$v g f g e v e u
+$f w g h g m c e
+$h b d n w a c o
+$p h b d a v i h
+;type woorden hsnwidurefmvabklcgop
+$meiden
+$melkpoeder
+$afliggen
+$hop
+$pep
+$vraag misbruik adres
+$boosheid komende wankel
+$naderde overwin omkleden
+$speelfilm bink schroei
+$opdrinken fokken doolde

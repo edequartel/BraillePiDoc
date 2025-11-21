@@ -1,0 +1,40 @@
+c g o p
+p c o g
+o p c g
+o p g c
+p o g c
+g o c c g
+c g p p g
+p g p c g
+p g p o o
+p g o o o
+g#oog op pop op op
+p#pop oog oog op pop
+p#pop po op op oog
+p#pop op po pop po
+p#pop oog pop pop pop
+p#pop oog pop pop oog
+p#pop pop pop po op
+p#po po oog oog oog
+p#po po op oog op
+o#po op op oog po
+oog op po pop
+op oog pop po
+oog pop po op
+oog op pop po
+oog op pop po
+oog po oog oog po
+oog op op oog pop
+oog op op po po
+oog po op oog po
+pop po op pop po
+pop#pop po op op op
+pop#pop po po op po
+po#po op po op pop
+po#po oog pop po po
+po#po oog pop po pop
+po#po oog oog oog po
+op#op oog oog oog pop
+op#op oog oog po pop
+op#op pop op po oog
+oog#oog oog op oog pop

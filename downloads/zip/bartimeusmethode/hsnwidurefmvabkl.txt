@@ -1,0 +1,102 @@
+abdefhiklmnrsuvw
+;lees letters hsnwidurefmvabkl
+d   m   f   l   u   r   e   k   w   v
+b   u   f   l   k   v   h   d   w   s
+d   w   v   u   e   l   s   h   r   i
+u   l   h   d   k   m   n   a   v   f
+l   i   e   f   u   k   w   v   m   s
+n k i s w h b m d r l e v u
+d b u m n l s k a w r h v e
+d r n i b h v e f l m w a s
+u h l d e w f m i r n b a k
+e r v s u a l m i h n f w k
+s i u h w e m n l h e k d h
+n r f d v k w h i u e b k s
+h r n e h a b h r i w m b u
+d e k a a e s f s l v e h i
+w e r h h r m e d b u i l f
+;zoek letters hsnwidurefmvabkl
+k#d   v   a   r   l   f   u   m   w   k
+v#m   h   r   d   b   i   a   e   w   v
+i#f   v   k   m   u   e   h   l   a   i
+s#k   e   u   a   b   m   w   n   r   s
+e#w   n   k   s   r   v   i   m   u   e
+b#h   l   u   h   b   u   d   m   m   b
+a#d   e   i   f   s   v   r   f   b   a
+d#e   w   n   i   m   l   n   b   k   d
+l#m   k   h   h   i   w   k   s   l   l
+e#b   m   b   a   b   r   f   d   h   e
+d#k h r b a m s e l f n w u d
+u#s b k e m i f h d v l n w u
+n#m l k u b f w e i v a d h n
+w#s k h l e d n i b f r a m w
+l#u d k n i e h w f s v m b l
+n#h i b f f e u r a s r f n n
+m#m u b k m s d v v m m r e m
+n#d e b n a m w l m w k u k n
+m#h m a r k w n w f a n i i m
+e#i v e v f l u a n r f n u e
+;lees woorden hsnwidurefmvabkl
+brandweer   huik   iel   inbreker   wars
+afslaan   halfuur   rivier   huilende
+sik   meemaken   bal   vin   kies   kien
+fuif   vulde   knalde   verf   balen
+kurk   aanrennen   beleefd   aldus
+herleef eenheden kaal sauna redden der
+kennis lurk lessen baal verneem kauw
+smal breek lief kwel mensheid uur midden
+verbrak was samenwerk harsen idem knalde
+bladeren klem sis snel nu dienen dader
+slee dek draal werden waar nis afslaan
+dansles sinds aardewerk missie luimen
+dweilde illusie harder bevel walm sukkel
+kruim beslis vla bevel min arbeiden
+kerkmuur verven blaffen bui lava beleid
+;zoek woorden hsnwidurefmvabkl
+busreis#marmer   busreis   einde   duf
+id#bus   bever   heel   id   kaneel
+luis#arken   luis   weeskind   afweren
+nadenken#klief   nadenken   inmiddels
+na#aanbellen   kriek   rede   na   mini
+duin#mars   kleur   deel   duin   vernis
+bidden#brik   bidden   dalen   raas
+verklank#rivier   verklank   lid   laars
+meen#misluk   meen   sufferd   invul
+huismus#deelnemers   huismus   eieren
+herleef#effen anders alfa herleef beuk
+meeleven#elf lava kenbaar meeleven kruik
+vakman#uil vakman leesniveau badkamer
+vaarwel#bliksem vaarwel linkerarm kerel
+urn#kinderen urn mank blanke uur land
+huid#waarnemer huid linie na kien lawine
+drummer#verweer drummer finale landheer
+advies#kalm labiel vaderland advies iel
+snaar#fiks ruimen ruiker snaar versuf
+luilak#duinen sul afhuren luilak bluf
+;type letters hsnwidurefmvabkl
+$e   h   n   s   k   i   l   d   f   m
+$w   v   r   l   k   n   s   u   h   b
+$k   d   h   u   v   a   e   f   n   b
+$k   n   b   m   r   l   v   h   s   f
+$b   a   n   e   s   h   l   v   w   d
+$n v r e s w l i u b m a h f
+$h w m i e n f s a b l r d k
+$r s i e f d b h a m n l u w
+$m h a s k r b d v e l i w f
+$w d f r e h m b s u k i l n
+$u d s i v a u k
+$k u w a s m r i
+$i b a b n n v d
+$m d i l i m l d
+$h a b h d n i d
+;type woorden hsnwidurefmvabkl
+$luiden
+$suiker
+$meerde
+$funk
+$aandienen
+$linie rubber ramen
+$ankers waarnam buks
+$lakens waaier leeswerk
+$dame versuf maand
+$aardewerk surf had

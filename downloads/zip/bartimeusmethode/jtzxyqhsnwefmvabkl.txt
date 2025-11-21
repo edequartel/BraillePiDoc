@@ -1,0 +1,26 @@
+abefhjklmnqstvwxyz
+;lees letters jtzxyqhsnwefmvabkl
+y   a   v   h   b   k   z   e   l   t
+x t w e f k n j l q m s a y
+v x q j w z z x l a l f l h
+;zoek letters jtzxyqhsnwefmvabkl
+x#v   e   x   k   s   m   q   f   t   h
+v#y   k   v   f   e   x   e   l   e   z
+h#e l h s y b f n t v w z q k
+q#v n n v s v x y q v w j y f
+;lees woorden jtzxyqhsnwefmvabkl
+wals   maakt   wekken   been   zwaan
+samenval lessen lekke mensa zwel teel
+afmeten zeeman mest afmeten kwak klem
+;zoek woorden jtzxyqhsnwefmvabkl
+valt#allen   slank   valt   set   vette
+bellen#en   feest   bellen   kennen   we
+leemte#zwaan leemte teel lel aas telkens
+messen#kalk messen maf blanke zweem melk
+;type letters jtzxyqhsnwefmvabkl
+$l   q   v   f   t   j   s   e   n   y
+$x n q z l j w s k a m h y b
+$s q n n y w m x
+;type woorden jtzxyqhsnwefmvabkl
+$elk
+$kalf mamma zwel

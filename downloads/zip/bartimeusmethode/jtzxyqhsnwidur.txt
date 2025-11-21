@@ -1,0 +1,102 @@
+dhijnqrstuwxyz
+;lees letters jtzxyqhsnwidur
+u   z   t   j   s   d   x   q   y   i
+h   j   y   q   r   s   t   z   u   i
+w   d   x   q   i   j   t   z   s   y
+d   x   s   j   y   t   h   i   r   w
+t   z   j   u   q   n   x   s   h   w
+n j x t r u s h y q z d w i
+x y j q r w n z s t d u h i
+t d y z w h r u n j q s i x
+t r d n h i x z j q y w u s
+x j y i u n h q d s r w z t
+r n i q n s j z s n w y n h
+z n r u u z t w t s s w h n
+h u u r t w j y z h y q h s
+q h n d y n y w t w t y j s
+w i s d s t x y z n d t r h
+;zoek letters jtzxyqhsnwidur
+h#u   y   i   q   x   j   n   z   h   d
+z#x   i   u   j   d   w   y   h   z   t
+d#z   i   n   q   r   x   h   y   d   u
+w#d   x   s   z   t   q   j   u   w   i
+i#j   d   t   n   x   u   q   r   i   y
+y#y   s   r   t   j   s   d   r   y   r
+h#j   x   d   y   t   i   s   s   h   s
+n#i   r   w   n   z   j   x   t   n   t
+n#w   x   h   z   z   x   t   t   n   q
+i#q   r   y   h   z   s   d   w   i   r
+z#w n r t d u i s h j y q x z
+h#j z r n s u d t q y w i x h
+d#x h j z q s n w y t i u r d
+i#h w z q d n u y j x t r s i
+z#d i h s u n x t w r y j q z
+w#z w r r x n s t j h h i y w
+u#j u r q n w t z h w h y u u
+r#w w q t u r i t z y y h t r
+t#u n n n z n u n i x z d j t
+z#h q t y q u n h h d j j y z
+;lees woorden jtzxyqhsnwidur
+ui   druis   tuit   ruw   zwijn   twist
+trui   wij   stuurhut   sist   sis   wit
+inwin   stuit   tuinhuis   rij   uitzit
+wijd   winst   stunt   snuit   rusthuis
+rijst   stunt   uit   instituut   ui
+ruit tuur urn dut ui zus sijs thuis quiz
+duur dij tin ijs sis zuur ui stunt huid
+sist ruit juni stuit tui wijd dus twist
+strijd zit id snuit nut wij tuurt tijd
+induw tint tui ruit zuur id stuit jury
+sijs thuis stunt rijst hij winst wijs
+tint dit dun tui rust uitdun inzit wist
+uur stuurt hut stuurt tuurt dis uitzit
+snijd huis jij zijn dj inwin nut tint
+huis stuit uitrust uitwis nut hij tuurt
+;zoek woorden jtzxyqhsnwidur
+zwijn#zwijn   is   wind   uur   stunt
+uitwis#uitwis   trix   tuur   dut   huur
+ris#ris   dis   stuurt   wist   huid
+dj#uw   jij   tuinhuis   dj   tijd   nis
+trui#trui   ris   zus   tuurt   hij
+sust#nut   zit   sint   sust   sus   rit
+dj#uit   wijd   uitwis   dj   jury   jut
+quiz#zit   inwin   dus   quiz   uur   in
+tui#hut   tijd   nu   tui   jut   zuur
+dj#rust   wijs   zin   dj   induw   sist
+stuit#dun wind rit uw stuit ris tut sus
+rits#induw rijst tuin huid rits is ruit
+duw#sist tuurt zus jij duw wist zijn hit
+wij#ris wist trui induw wij indut juni
+sijs#jury hij stunt sus sijs wist is hun
+rij#rij uitwis duin quiz zit tint jij
+sijs#wit hij wijd id sijs hut ruis ui
+induw#trix juni duwt induw inwin snuit
+zij#duw uur ruis duwt zij tuin tuit uur
+wijs#wijs dis rijdt jury huis huur rits
+;type letters jtzxyqhsnwidur
+$w   q   h   j   s   z   i   d   y   x
+$r   h   t   j   z   i   u   x   n   s
+$w   r   z   i   s   d   x   j   u   h
+$i   h   t   j   u   n   d   r   z   x
+$i   q   r   j   t   u   d   x   z   y
+$q n d r h x z i t w y s j u
+$i r h w u j z x t n s d q y
+$i t d x j y w q n u z h s r
+$x h q n w z s j y u i t d r
+$y q h s i z x t u d w n r j
+$w j t j t h q q
+$t s z u n u h s
+$t d r s r s s w
+$t j d x y x n d
+$z y n u n u w j
+;type woorden jtzxyqhsnwidur
+$wijd
+$induw
+$rui
+$stuurhut
+$uitdun
+$ui wijd dut
+$sist sinds induw
+$induw wit ris
+$is rit rijst
+$zuur wijd stuit

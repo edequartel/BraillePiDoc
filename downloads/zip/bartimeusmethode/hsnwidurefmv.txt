@@ -1,0 +1,102 @@
+defhimnrsuvw
+;lees letters hsnwidurefmv
+f   r   s   u   i   w   n   h   d   e
+f   s   w   d   h   e   m   v   u   i
+d   m   h   f   w   n   i   u   r   e
+h   i   m   e   f   d   n   s   u   v
+w   i   s   m   h   n   v   d   f   u
+r h i d f v s n m w e u
+v e s r d i m n w u f h
+w f u m d e r h s v n i
+m s u r i h v w d n f e
+n h w d r m i u s e f v
+f v e s h u d f h u w m i n
+m e h f u d h m h d e d h d
+i s e u d u w n h w v r e v
+s s h i n u i m d h v h i w
+d e i d r f v s i s m u i u
+;zoek letters hsnwidurefmv
+r#n   r   i   d   m   u   f   e   h   w
+f#v   f   d   e   w   i   s   h   r   m
+v#h   v   m   d   u   f   w   r   s   i
+f#i   f   n   d   e   u   r   h   m   v
+r#i   r   f   s   w   v   e   u   m   h
+s#v   s   w   m   f   s   r   h   s   e
+r#i   r   n   h   f   i   f   f   i   w
+s#e   s   h   w   f   r   h   u   u   m
+h#h   h   u   m   f   m   d   s   v   n
+m#w   m   s   d   e   h   m   e   i   d
+s#m d v e s n u i w h f r
+s#r e w h s i n d u v m f
+m#s u w v m e i f h d n r
+i#m u h w i n v r d f s e
+s#v r w d s e m u h f n i
+n#m n v v u e i f w e n h u i
+n#w n h n r i n f i u i i s e
+n#e n s u r h s e i d r r r s
+n#h n n f e r v r d w f v n d
+n#d n w h f w m r u s v w e f
+;lees woorden hsnwidurefmv
+derde   vuur   dieven   sfeer   riemen
+redden   effen   wind   huif   sfeer
+die   ridders   messen   mieren   vers
+hei   wind   verwen   winnende   red
+heimwee   duurde   frees   verduur   mei
+nemen sus medium medemens heer mieren
+nieuwe nier ruis wier ineen eren heen ui
+men eed verweer rivieren deur ene hun
+werf deur heus riem versier verre dienen
+dieven sneeuw verneem durf nemen frisse
+meevieren neef nies sirene inwinnen ui
+mus ren rui dunne hen mees huwen des rem
+verwen veer ui uur duurder miniem veren
+frisse visie vers vreemde de huwen iris
+hierheen id vinden wis deun verduur eer
+;zoek woorden hsnwidurefmv
+missie#fee   mei   missie   rende   eed
+heus#ruw   neen   heus   muur   versier
+urn#hierheen   in   urn   dis   vernis
+dus#snuif   sfeer   dus   minus   nu
+minderheden#nee   minderheden   verwens
+eenheden#vier   eenheden   reus   vis
+hees#druiven   hees   huisdeuren   rees
+hun#ren   hun   eind   die   erin   reed
+meen#suf   dieven   meen   meen   idee
+min#verwen   vreemd   min   verre   mies
+winnende#eren idem winnende dunne frees
+minus#deuren minus rivieren reis mees we
+wens#frees wens ridders verdun idem verf
+immers#mende reis immers weide hemden
+suf#vissen werden suf medemens dreun
+muis#visum muis vissers ruim vernis vies
+reus#me vers reus dier nier duurder mee
+urn#ieder urn hees eenden frisse nieuw
+veerhuis#me veerhuis mende vin fuif ruis
+verwens#ferme huif verwens hees inwin
+;type letters hsnwidurefmv
+$d   s   i   f   v   r   u   e   m   n
+$v   h   e   d   w   s   u   r   f   m
+$f   s   d   v   n   w   m   h   e   u
+$h   d   v   m   r   f   u   i   w   s
+$w   r   u   f   i   e   v   d   s   h
+$f i m d r n w v h s u e
+$s v m d e n u i w f h r
+$f w n s d v i e r u m h
+$d s u h w e f v r m n i
+$r m d w n i h u e f v s
+$f w s r i i h i
+$s m u i m h e e
+$h f e f w i m s
+$v f m s e e v r
+$v e h u s h s s
+;type woorden hsnwidurefmv
+$deed
+$wind
+$we
+$verhef
+$serie
+$meermin ris vriend
+$wuif deunen rum
+$vernis erin hierin
+$hinder induw dun
+$meneer minus druiven

@@ -1,0 +1,102 @@
+abcdefghijklmnopqrstuvwxyz
+;lees letters jtzxyqhsnwidurefmvabklcgop
+r   t   u   f   i   n   e   q   s   m
+l   u   q   t   n   v   a   p   f   s
+r   b   u   w   c   o   p   e   t   y
+f   v   b   u   w   z   k   o   n   l
+d   c   o   n   u   x   h   i   j   g
+t m x r l a b v h q k d o w
+m x k d g z o y i n s q b e
+o e w t y b p k q j n u g h
+z h w c s x q g j t v i o y
+r m v z q o x i p g c f b j
+l d z d f a l q z y x c h i
+v t n i x e g a a q h w l v
+q h d a j c b z m u z t h e
+b u e j g y m r e a g b m i
+s v v n k r r o u o b d t h
+;zoek letters jtzxyqhsnwidurefmvabklcgop
+e#u   n   v   r   e   o   s   c   f   p
+k#i   l   h   y   k   w   a   q   t   f
+s#z   x   h   u   s   m   p   v   e   d
+x#a   t   p   v   x   l   m   i   q   h
+h#u   c   d   s   h   q   j   n   x   m
+s#z   d   m   n   s   l   m   z   x   b
+h#a   e   c   g   h   s   y   a   m   m
+g#d   j   j   i   g   b   g   x   b   l
+e#q   u   y   c   e   q   f   r   l   j
+y#p   o   w   w   y   m   n   o   o   q
+o#c r o j p l e i y f v z s k
+c#r k c n e u t p s y v q b x
+f#t w f g x k u e m b r q n v
+v#x y v k z l n g j e o a u q
+c#b g c r v u p w z h d s n j
+u#z p u v i m b q x q c i y v
+b#m l b j k h i a f m m s l y
+p#u d p p n z u q q v b k w u
+q#n z q p c o r v l v c s o k
+w#r u w f f j j x e n n w i l
+;lees woorden jtzxyqhsnwidurefmvabklcgop
+zwaai   eekhoorntjes   loopjongen   dam
+uitstaan   kortenhoef   trouwt   wis
+particulier   verborg   honden   ingezet
+aanleren   werf   koopsom   neusde
+lepelaar   antwoorden   mat   speeltuin
+lesgeven deugd wakker menselijk mensa
+nagaan kwart wasdag stinkdier geboorte
+web waterwerk vlas naar inclusief buur
+kantine politicus joker brieven kroket
+meningsverschil teksttraining huilen
+messen nar stoofpeer uitknip zeevogel
+werd relax maait telewerk wilde deelt
+laat adres overtuiging ludiek wegenkaart
+kolonie begroting tweede dolk voetbrug
+kortenhoef gekruid mango wip overlast
+;zoek woorden jtzxyqhsnwidurefmvabklcgop
+koppeling#moeite   inflatie   koppeling
+wipneus#wipneus   morgen   vertelt   yup
+beweging#recent   voordat   beweging
+dagen#stemband   poppetje   dagen
+drukt#zwak   drukt   zij   japon   zwom
+waardering#ober   versleep   waardering
+tegenzin#uitgebreid   proeven   tegenzin
+ontplooi#lost   uitvoerbaar   ontplooi
+jaarkaart#beuk   matrassen   jaarkaart
+breker#spreek   boerenkar   breker
+bij#kwelder vroom apostel mep smoes bij
+musicus#musicus neus centrale zwerk
+regenval#regenval vulpen voorgaan woelig
+snikheet#snikheet raceauto zweep tiptop
+stofnest#ofwel stofnest zweeg zegt giro
+grappige#grappige vakblad uitdoen krot
+verzorgt#deukje slurven spaak verzorgt
+boten#zeearm deuren aansluiting boten
+dreigt#driedaags voornaam damp dreigt
+aankomen#stroop stol ontsteek aankomen
+;type letters jtzxyqhsnwidurefmvabklcgop
+$w   k   h   v   z   f   t   i   e   m
+$l   a   n   j   r   y   w   q   o   z
+$x   q   v   j   i   z   y   o   a   c
+$v   t   k   g   p   m   s   l   y   j
+$p   d   f   j   l   u   x   q   g   z
+$p f n e r v u m i k j g x l
+$w m t g i h a q n c u k b j
+$v r x d h u s f j w k b c m
+$o p c s k d r g m t u j x b
+$n d t w p l z f m v r o e k
+$k k x t n e k i
+$c b k b f a r e
+$f i n t n h o c
+$p h l r w w n p
+$i t n j d r a z
+;type woorden jtzxyqhsnwidurefmvabklcgop
+$vertaald
+$uitspraak
+$vergroot
+$neus
+$bovenarmen
+$drugshond afvuren kraal
+$hobo dertig demo
+$plasma dakje woonwagen
+$verstar huppelen leer
+$hadden bijzonderheid uitkomst

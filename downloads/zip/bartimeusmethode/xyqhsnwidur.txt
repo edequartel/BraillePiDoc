@@ -1,0 +1,102 @@
+dhinqrsuwxy
+;lees letters xyqhsnwidur
+w   d   i   x   r   y   h   q   u   s
+r   s   y   x   i   u   h   w   d   q
+s   u   i   y   h   r   n   q   d   x
+y   q   d   n   h   w   s   i   u   r
+i   d   h   n   w   r   q   x   u   s
+h u r i x n s q w d y
+u q d n y x h i w s r
+w d n h s q r x i u y
+w s n q r h d x u i y
+x r q u y i w s d n h
+s q q i y i n u n n r d y s
+y q s w x r y u h s h d s r
+x y h i n i x y x s q n w q
+r x q d x h x s d s y q d w
+y r u x y n h x s w w i r i
+;zoek letters xyqhsnwidur
+u#h   x   s   r   q   u   d   y   i   n
+r#y   i   s   w   q   r   u   n   d   h
+u#r   n   x   s   y   u   d   w   i   h
+n#h   y   i   r   s   n   w   u   x   d
+d#x   s   n   w   i   d   u   r   q   h
+q#i   x   y   s   h   q   n   x   i   w
+d#d   d   s   r   r   d   q   u   d   u
+y#i   u   s   u   x   y   y   w   n   x
+x#i   d   r   y   u   x   s   s   n   h
+h#w   u   r   x   u   h   h   y   q   n
+w#q y w s d i u r h x n
+n#s x n d h y r i w q u
+w#u r w q i s x y n h d
+s#i u s q x h d y n r w
+y#s n y x i q d u w r h
+u#x s h x r h q h n q n h u n
+y#q w q w w u y w s d w i y s
+s#i w u h r d s y q n h u s q
+w#s w x q d x r x x h w d w d
+u#y w h y i h w x u y r i u h
+;lees woorden xyqhsnwidur
+rui   druis   sinds   dun   duur   nu
+uur   sus   druis   uw   wis   sis   hun
+ris   huid   dus   druis   huis   dun
+ruis   nu   urn   huur   iris   in   hun
+dun   ui   induw   uur   dus   ruw   sus
+nis ruw is hun ui sinds dun win dis sus
+dus induw dis uw uur wind nu sus huis in
+win duur huur nis ris huis ruis huid nu
+duur huur sinds induw in uw is dis rui
+in sinds dis huis induw urn dun hun sus
+ris huis sus wind is dis dus huid urn
+uur hun sis hun huid in nu huur dis
+hun dus ruis nis nis ruis duur ui urn
+sinds wind nu ui uur wind sus huis ruw
+dus ui iris nu duur huis induw sis nis
+;zoek woorden xyqhsnwidur
+wind#ruw   nu   wind   rui   hun   ris
+iris#uur   duur   iris   is   rui   wind
+sis#nu   huis   sis   huur   duw   sinds
+wis#hun   huur   wis   uw   sus   inwin
+id#duur   ris   id   sus   induw   ruis
+wis#ruw   is   wis   sus   duin   id
+wind#ui   win   wind   nu   rui   rui
+uur#dun   huid   uur   is   inwin   huid
+uur#huid   ruis   uur   sus   wind   is
+sus#nu   win   sus   huis   ui   dun
+dun#dis duw dun dus id uw duur huis uur
+ruw#hun ruw druis uur ruis duw dus inwin
+wis#nis dis wis wind nu uur ris duw dus
+iris#druis hun dus inwin ruis iris dun
+sis#ui rui sis huis uw is uur urn sinds
+nu#dun nu ruis inwin urn nis sinds sis
+nis#urn wis nis ui sus huis ui uw wind
+iris#wis iris iris dus rui huid dun dun
+induw#dun induw duw huur wis ruw in dun
+in#ruis dus in sis win id dun huid iris
+;type letters xyqhsnwidur
+$w   s   r   q   y   h   n   i   u   x
+$u   n   q   s   d   w   x   r   y   h
+$q   w   x   n   d   u   s   y   r   i
+$n   i   s   q   r   w   d   y   x   u
+$n   r   s   q   d   h   y   i   x   w
+$n s h q d y u r w i x
+$u r h y q w d x i s n
+$x s q n r h w u i d y
+$s n y u i d r h w x q
+$x q w d r i n h y s u
+$q s u q n s s d
+$r r s r r y i y
+$x s s h y s i w
+$q d h i h d w x
+$h q q x n y n n
+;type woorden xyqhsnwidur
+$wis
+$uw
+$ris
+$hun
+$wind
+$dun duw sinds
+$ui urn uur
+$nis induw urn
+$huis wis ui
+$wis ris sus

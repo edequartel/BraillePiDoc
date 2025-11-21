@@ -1,0 +1,102 @@
+abcefgklmopv
+;lees letters efmvabklcgop
+a   b   c   v   g   e   l   m   f   p
+v   a   o   c   f   g   b   k   m   l
+o   b   l   k   g   f   c   a   e   p
+e   a   f   c   l   g   o   p   m   v
+e   p   o   m   g   k   b   c   f   a
+g a e v l f b o c m k p
+c b l v f e p g m o k a
+g v a m b c f o e k p l
+p g a e l k f m b v o c
+k b a f v o c l e g m p
+m a e l c a l p p e g m f o
+p l g b a p c e k k f f a l
+e o k e p o c p e o o c o v
+m m b l b e b e b a k l g o
+a g o l p p l l c a l c e v
+;zoek letters efmvabklcgop
+f#o   c   m   p   l   a   f   g   e   v
+a#m   v   l   g   k   f   a   c   o   b
+c#v   b   g   o   p   k   c   a   f   e
+a#f   e   g   o   v   l   a   p   m   k
+v#b   l   k   o   c   m   v   e   g   p
+b#a   f   b   c   g   g   b   f   v   e
+c#f   a   e   p   e   v   c   f   l   o
+v#c   g   v   m   b   f   v   f   p   b
+o#v   f   l   a   g   e   o   e   v   p
+b#o   k   o   k   m   p   b   e   l   b
+k#o m a v e l p k g b c f
+m#e v b f l p g m a k c o
+l#a m g f v o k l c b e p
+a#e v b f k l m a p c o g
+c#m b e p a f l c v g o k
+f#k o f o e v v l g c e c l c
+e#c v e o e o k m e b o c b m
+o#b a o f b k a l l f a b v e
+c#p p c o c b a k o g v c k o
+b#c m b g b e b c b v k l g l
+;lees woorden efmvabklcgop
+pof   bal   plakboek   elk   gom   kapel
+lel   veelal   me   melk   omgaf   voel
+vlak   ook   plaag   leeg   lege   boel
+collega   oplap   gap   cake   legaal
+kool   gok   koe   lokaal   look   vloog
+mop bloemkool bagage oppak vaag loom fok
+geef oogklep bloem gemak valk bok bek
+galg koe elke opveeg maak koel maag vlag
+geklaag beveel klaag pof eb koek map
+vaal gaaf blaf vele cafe koe vel klomp
+al melkvee opgave volle opvolg begaf mep
+foef cafe omgaf mam vele lomp afkap balg
+bek op pomp lam geval oom gal mek boef
+la gevoel kef pel leemlaag mamma opkoop
+laf afgeef cafe opgaf klaag leegloop laf
+;zoek woorden efmvabklcgop
+bevel#vee   kaal   bevel   legaal   balk
+lamp#lam   goal   lamp   koop   felle
+papa#leek   oploop   papa   cola   kamp
+bepaal#bepaal   meepak   kook   oppak
+gele#opklop   vol   gele   blaam   flap
+valk#maak   opgaaf   valk   lama   opga
+vel#pap   vloog   vel   lamel   laf
+pleeg#pleeg   gevoel   collega   melk
+ook#boeg   lekkage   ook   al   leegloop
+of#keep   blaam   of   poel   lekkage
+palmboom#plof koele palmboom pel bevel
+gap#meel kloof opgaaf gap blaf egaal gal
+maag#mama omkom lege maag leef boel oma
+vlaag#logo ga galop vlaag legaal koe pek
+golf#eb lek appel golf vloog keel kaak
+afvalbak#opgeef afgaf afvalbak logo lege
+voel#leg vak logo kom voel veelal po al
+volle#volle gevel op komaf balk omleg
+vel#vel kaf geloop golf gevel geklaag
+pomp#pomp kef opvolg collega lef ovaal
+;type letters efmvabklcgop
+$f   m   g   l   b   v   o   p   c   a
+$f   g   l   m   k   e   v   o   b   p
+$o   f   m   l   k   p   c   a   b   e
+$p   l   b   m   e   g   v   a   o   c
+$o   v   e   a   p   b   c   f   l   k
+$e o l b a v m f g c p k
+$f a k b o g c l p e m v
+$v o k l b e m a f p c g
+$f e l g a c m v o p b k
+$o m k p a f c g b v l e
+$l m f l e g k c
+$l e m o k m m b
+$v f o o o e b l
+$f p m o m m o a
+$p g k g k a m f
+;type woorden efmvabklcgop
+$koel
+$kopbal
+$kabel
+$boef
+$vel
+$vaag ome kook
+$bloemkool bagage klep
+$vale boog leep
+$kleffe foef pappa
+$plakboek gevoel boom

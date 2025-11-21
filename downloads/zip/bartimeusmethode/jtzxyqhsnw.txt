@@ -1,0 +1,57 @@
+hjnqstwxyz
+;lees letters jtzxyqhsnw
+y   n   x   j   w   h   t   z   s   q
+t   z   q   h   x   w   y   j   s   n
+j   n   z   t   h   x   w   q   s   y
+t   w   h   x   j   s   n   y   z   q
+t   w   n   q   s   z   y   h   j   x
+j h z x n t s q y w
+j t n y q w s x h z
+x q w h j y t s z n
+x j n t h s w y z q
+s t n w q j x y h z
+w s z n y y w w s y j s x z
+y s y q s w t s j z w y n q
+x h j y n z s j x y j w y y
+q h x s j j t h h y q j q w
+q q w h t x h j w h h y z n
+;zoek letters jtzxyqhsnw
+q#z   x   y   t   w   j   h   s   n   q
+z#h   y   x   t   n   w   j   q   s   z
+q#y   x   w   s   j   z   h   t   n   q
+h#z   j   x   t   q   s   w   n   y   h
+z#j   h   t   y   w   n   s   x   q   z
+x#t   q   j   n   t   q   z   w   s   x
+w#x   t   q   z   q   y   t   z   j   w
+t#h   w   y   q   s   w   t   h   h   t
+j#n   z   q   j   z   t   j   w   h   j
+h#j   n   j   y   h   j   j   z   n   h
+x#q s y w t h z n j x
+h#j z t x q n w s y h
+s#y x h w n j z q t s
+y#h q n z x t j w s y
+h#s z q w y j n t x h
+w#x t z y x q w q t w j y x s
+z#t x t s s y n s q z s x q z
+q#j y j j t z s w w q y z n n
+x#y y x s y s w s x x x w z j
+t#n y q x s z t q h t z q s z
+;lees woorden jtzxyqhsnw
+;zoek woorden jtzxyqhsnw
+;type letters jtzxyqhsnw
+$j   h   t   z   q   x   n   w   s   y
+$h   y   j   z   w   x   q   s   t   n
+$h   j   q   y   t   x   w   z   n   s
+$s   y   w   x   n   j   t   h   z   q
+$n   z   y   s   q   t   h   x   j   w
+$s q t n y h j x w z
+$j q y s x t h w z n
+$y j w s h t n q z x
+$z h n y x j s t w q
+$t s w q j h z x n y
+$w q q q s j q t
+$s j z z z x n s
+$j z q x t x z t
+$t x j n s y q q
+$t x q x z q n n
+;type woorden jtzxyqhsnw

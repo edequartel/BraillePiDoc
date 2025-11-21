@@ -1,0 +1,102 @@
+abefklmv
+;lees letters efmvabkl
+k   b   a   m   f   l   e   v
+f   a   l   m   b   k   v   e
+m   v   b   a   k   l   f   e
+b   k   a   l   v   e   f   m
+f   l   v   b   e   k   a   m
+k l v f m b a e
+k f b m v e a l
+m e v k f l a b
+m l v a b f e k
+m a f v k b l e
+e e a e k v b e a l l v k k
+m k f m a b e l f e k v v a
+v f f l b v v v v v v m k v
+b v k f f a b a l l f f e a
+k k k k m f e e f m k l m v
+;zoek letters efmvabkl
+k#k   b   m   v   a   e   l   f
+k#k   b   v   f   l   m   a   e
+k#k   m   f   b   v   a   l   e
+l#l   k   a   f   b   v   m   e
+v#v   k   m   e   l   b   a   f
+a#l   l   m   k   b   k   v   a   b   v
+a#l   k   a   b   f   b   v   a   l   k
+v#b   f   a   v   f   b   v   v   e   b
+m#f   k   e   e   v   k   b   m   m   f
+f#b   v   b   k   b   e   l   f   v   b
+m#m v k e a l b f
+l#l v b k e m f a
+k#k a b f e v l m
+e#e b v m k f a l
+e#e b k m a f v l
+v#m a v a k e e v k m k k v v
+m#a a v e f l b b e m b k m l
+f#k v m b v l v e m f v k f v
+e#e m m m k k e m a f m k e e
+l#f f f l e b k a k f e k l a
+;lees woorden efmvabkl
+kalk   kam   elk   leem   meeval   afval
+blaf   baal   bek   balk   mee   klak
+kalf   bleef   melk   label   la   bevel
+vee   blaam   maf   kam   blaf   bleef
+lam   bak   bleek   mama   melk   valk
+bakmeel lam lel al afvalbak lal kef vele
+keel elke kek klem beval felle bakmeel
+vlak beveel klam elke beek aal bakmeel
+klam alle km melkvee bal lek bakmeel
+kaak beval vla vaal maf meeval elke leef
+bek keek alle kabel vale beval kef vlak
+label vel lal leef elk al mama kek kabel
+vel kef klak vee klem veelal baal mal
+lek bel kam klef la klem kaal bevel kek
+eef elf elk keek lek mak leek label aal
+;zoek woorden efmvabkl
+kaal#kaal   melk   klak   eef   lal
+beveel#beveel   maak   meel   vee   fel
+mamma#mamma   meeval   leek   mama   lek
+kaal#kaal   kleffe   kam   mee   lekke
+vla#vla   lam   effe   lef   afvalbak
+vel#vel   klam   veelal   klam   klak
+elf#val   beek   vlek   laf   elf   mal
+laf#kef   elk   bak   me   laf   lekke
+melkvee#melkvee   aak   kalm   af   lama
+beval#beval   maak   lama   kalm   val
+lel#keek mamma vale aak eef mama lel val
+lak#mam laffe kameel eef kek lak fakkel
+eef#elke kelk keel kef ma fakkel eef aak
+vee#mee kaal klak lef kameel vee fakkel
+lak#fel effe kleffe valk kalm lak fakkel
+lamel#mee veel leef fee bleek lamel alle
+vlam#afval mek effe kaak klef vlam lal
+fabel#kameel felle km maf ma fabel klak
+lal#vlek keel melk kek mek ma lal elke
+vel#bleef bakmeel kaak eb vel allemaal
+;type letters efmvabkl
+$a   b   e   k   l   m   f   v
+$b   l   e   v   k   m   a   f
+$k   v   l   f   e   b   a   m
+$b   l   a   e   m   k   v   f
+$v   b   k   m   e   l   a   f
+$a k b v e l m f
+$v k a m e b f l
+$m f e b l v a k
+$a k l e v f m b
+$v l m a k e f b
+$f l b f k e l k
+$m f l k v k m b
+$f l k f m e b e
+$f m b f l a l b
+$f b a f a e f f
+;type woorden efmvabkl
+$melkvee
+$elf
+$kameel
+$lak
+$mak
+$mama label mam
+$bevel vaak kabel
+$vale af meel
+$elk kaal bleef
+$leef lekke lava

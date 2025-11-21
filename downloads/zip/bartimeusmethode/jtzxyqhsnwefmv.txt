@@ -1,0 +1,26 @@
+efhjmnqstvwxyz
+;lees letters jtzxyqhsnwefmv
+n   v   z   j   h   w   q   f   y   s
+h m f j t q s v n x w z y e
+v f s v n y t h h e x v z y
+;zoek letters jtzxyqhsnwefmv
+y#s   y   h   m   q   t   f   x   z   w
+s#n   s   v   w   x   m   t   h   q   m
+x#j t f z n m e w q y v s h x
+f#z s x x v w e j e w v q e f
+;lees woorden jtzxyqhsnwefmv
+te   ten   hem   stenen   mezen   teen
+weet feesten tevens mens test heeft ex
+meeste eens zeef mezen even men een hees
+;zoek woorden jtzxyqhsnwefmv
+west#ten   west   mens   mest   hees
+meen#set   meen   neefje   tenen   een
+neemt#hees ze vest zes wet neemt mes we
+effe#zeef vette tenen neemt effe net mee
+;type letters jtzxyqhsnwefmv
+$m   j   n   w   h   f   x   v   e   q
+$h m j x s w y e f v z n t q
+$z v e v m s j e
+;type woorden jtzxyqhsnwefmv
+$vee
+$zweef feest smeet

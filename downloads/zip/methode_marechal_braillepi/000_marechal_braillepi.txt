@@ -1,0 +1,287 @@
+//=== abkl ===
+a b k l
+k l a b
+a l b k
+a k b l
+l k b a
+b b b k l
+a a a b k
+l a k k a
+k a k k b
+k a b l k
+b#ba balk ba aal bal
+a#ba lal kaal baal al
+l#bak kaal ba lak lal
+l#kaak al lak lak aal
+b#kaal ba bak la aak
+l#kalk bal klak balk kaal
+l#la bal al bal kaak
+k#lak balk kaal bak balk
+a#aak kaak aal bak balk
+a#aak lak bal kaal kaal
+kaal ba lal aak lak
+al aak aal bal baal
+bak kaak ba aal lak
+kaak aal klak bak bal
+kalk lal klak baal kaak
+ba kaal kalk bal baal
+baal kaal al bak ba
+bak lak kaak lal la
+bal ba lak ba lal
+kaal klak kaak ba aal
+al#al bal aak lal kaal
+ba#ba balk balk lak kaal
+baal#baal kalk lak balk al
+bal#bal kalk bak balk aal
+balk#balk lak klak aal kalk
+kaak#kaak al aal kalk ba
+kaal#kaal bak balk baal klak
+kalk#kalk kaak lak lak bak
+klak#klak klak baal kaak lak
+la#la lal kalk al balk
+//=== abklcgop ===
+a k b g o
+p b k l c
+l a o g c
+c l b g o
+o k c g a
+b l l a b
+k l g p l
+b g c a l
+b c c a a
+a o l b p
+k#klok gap oog kool kop
+k#kool plak aal gal ba
+b#bob lol bok ga bok
+o#oploop klaag gap cacao galg
+k#klok pook logo koop look
+a#aak lag polo oploop bal
+l#lal baal papa goal bol
+b#boog loog gaap log lap
+o#opga boog bol bal loog
+g#gap logo oog opga klap
+galg ba oppak aak plaag
+bak polka gok bob op
+oploop aak pap opklop kop
+kook aak cacao opa log
+blok bob kool ook kolk
+bak oppak pal bok papa
+lol kaap oploop logo polo
+cacao opkoop kaap gap oog
+op gal pap po kok
+goal opga oppak klop kop
+pal#pal galop opga plaag lal
+kolk#kolk pak bal gaap aak
+pop#pop goal logo pap opa
+lak#lak oppak lag kalk oppak
+balg#balg galg balg aak lag
+look#look opkoop aap koop logo
+gala#gala goal pook pook oog
+opkoop#opkoop opga kop logo kok
+kalk#kalk galg kol balk kopbal
+plaag#plaag opkoop klak log lap
+//=== abklcgopefmv ===
+p e v k m
+p o g l a
+m k a p o
+v f p e a
+a g o m b
+g c a m p
+e c v m v
+e v b p c
+p k k g l
+p f c k p
+l#mop lol leep gap ook
+e#omkeek mam lompe mep palm
+k#gemak klepel log lef geel
+f#mom afkap pep kleffe keel
+e#maf leegloop bloem bal gaf
+e#lege baal keel om bob
+e#la lek loom kek aak
+f#kleffe bel plak alle ploeg
+l#laffe lek opgaaf geloof melkkoe
+o#logo appelboom laffe melkkoe
+geloop vlam kelk klap geklaag
+al moe afval pap me
+koepel gevoel gemak mep omleg
+afval po foef bomvol oom
+loof kook cake loog opgeef
+map gom cm map koele
+klep plakboek op mom klak
+meegevoel gom kaf lel bob
+ook opleg gal paal vale
+pekel geklaag boom beveel omkeek
+opleg#opgaf opleg klepel omleg loom
+gok#moe gok mee klep laffe
+pak#maag pak pop balk kef
+goal#om goal ovaal gom cola
+opkoop#oppak opkoop omgaf loep vol
+gal#bek gal geval kok ome
+omgaf#cake omgaf fabel mok leegloop
+fakkel#galop fakkel blok vlak kalk
+mep#kamp mep alfa felle bom
+collega#kol collega veel laag vlaag
+//=== abklcgopefmvidur ===
+f u c b d
+r b f o g
+g u d v m
+a o r g m
+c f b u p
+f r u p i
+o o k g v
+f a e o c
+k r i o a
+e l b p l
+r#overga voorleg map leep rumoer
+a#garagedeur ploeg brem gedeeld
+a#fragiel deegbal drie mar ferm
+u#gebruik verdroog vul leuk blaf
+k#broek deelbaar dakraam meegevoel
+e#accu viool kali mopper vip
+e#bloemperk gom rakker gevoelig
+d#meegaf proloog gaf leurde pomp
+o#kegel opruim eerder vroor deur
+l#buik rol lik fragiel verlofdag
+ideaal gevoel brie overkom breukvlak
+leep odeur dolder vliegveld fraaie
+ivoor gup remblok leuke kamp
+familie kuip emmer dip roer
+bui dop veevoer procedure verveel
+gebrek verloop prooi beval koffer
+bureau duivel ludiek map dom
+voorkom look goor braam volprop
+voorlag beleg fok opkruip roer
+dooi balk klam polka grof
+oppervlak#remblok oppervlak omga doel
+overgeef#ma af mede meervoud overgeef
+memo#alkmaar kogel oud erf memo
+kreupel#moker liga klop ruim kreupel
+gebod#klef geaaid plek gul gebod
+bord#ik overal opbeur rib bord
+verkeek#verkeek buil gemoed ermee
+roep#roep meevoer verliefde brom aar
+modder#modder loof gepiep bar koer
+koorleider#koorleider bodem glim voor
+//=== abklcgopefmvidurhsnw ===
+v m s u e
+a k u r h
+h e r k f
+m i p r c
+a n u v h
+e h d k f
+m p b k w
+h m k e p
+b g k o n
+p e l i o
+a#oplosbaar weergaf dosis schoor ren
+a#snak man kreeg weg badpak
+p#haak dames opkwam vulpen vuurbol
+e#hobo vermaan schoon misdragen
+n#ongeval gleuven gereden poel rol
+e#eiland keukenmeid voorheen
+i#minimaal vloerbedekking wals
+b#blok uniek inbreuk krekel
+a#sappig luimen dassen provincie
+r#sliep moraal koerde coup meervoud
+vuil meppen moskeeen wilde loeien
+wim poos verheug kien havo
+bevolking loopplank slab naspelen oprol
+logos snuf smalle klasse vanaf
+waardebon binnen wanhoop eerbaar visie
+slof dal gebaren wegwerk huik
+vers pas bah idem erop
+brood muis maandags leegloop druis
+mag huilen brassen draden verwarm
+vraag bus reuma waard misgreep
+burgerschap#kopen geroepen burgerschap
+spiegelbeeld#spiegelbeeld duur risk pers
+leuke#bende aankomen heer vlag leuke
+bob#slagslak brink brom leeslamp bob
+serie#serie voorlees droegen der
+kauw#verwerp kauw sluisdeur alcohol
+groene#ferme groene losraak vuren
+wolven#wolven raap opgeef ervoor beschik
+ren#ren circa regels boerenkaas leerling
+keur#keur wagon boffen vakbond beroemd
+//=== abklcgopefmvidurhsnwjtz ===
+h a w b c
+s u r b h
+c n v h z
+s p j h l
+u a s e p
+h j n o n
+o g c j k
+u e m j v
+a t k z r
+f v h a j
+a#dominosteen zwartepiet tiptop
+e#reuma bluffen zweven laag
+s#beurs ree kneedbaar koophuis solist
+e#drummer filmzaal vlieg andijvie
+e#meeste radar werkte dirigent
+o#voorkamer profeten morgens stook
+e#vakwerk eerbied muizen klauwen
+n#provinciaal vaak tragisch lichten
+n#spoot knar operatie opdrinken
+m#draaien spit misschien nam
+stinkbom tijdzones greep berk
+leuning stemvork mouw loer proefstuk
+rauw uitloven walvissen foute vangnet
+speldenknop zere toeren parkeervak ezels
+gloeilamp noteer persoonlijkheid smeren
+binken bij lectuur spiegel onzinnig
+mazelen deurcodes verslaap slee beton
+tem veerman meters instelling overschot
+huismerk roepen tamme combi enkele
+opneem uitlachen bos kwaliteiten
+stipjes#daardoor stipjes laatst tact
+luren#werd luren liedjes doperwten
+vochtig#boeten vochtig kornet ceremonie
+koren#lafaard koren ademnood taartvorm
+vlek#weerzien knars samenval speren vlek
+hazen#hazen troef gracht motorhelm
+aangewezen#hiermee aangewezen warmte
+loeit#loeit talloze generaal vishaak
+vroeg#vroeg zoonlief ontluik schiet
+lachfilm#lachfilm spannend draaien hans
+//=== abklcgopefmvidurhsnwjtzxyq ===
+d q s i v
+z d s m b
+e g k a t
+m s w t b
+t k h d f
+y h z h l
+f a g y b
+o x u s d
+y n p q m
+v k e k y
+n#toehoren om flinke oliekraan
+t#lokt rondvlieg sproet best
+a#aangename korps bruinen hert
+e#matrozenpak volt knol oefenen
+t#kleurt most diertje kasteel
+i#scheidsrechter rover
+e#brandweer kwel geweld
+t#groen verkoop stapelbaar gooit
+r#naderde koorwerk synagoge gil
+a#contacten verjaag slagroom spit
+herstel aanvullen verwerking krijgt
+vogeltje modder aandoen regel dozen
+vet wel leegeten cash kronen
+avondschemer ronder toga orde baas
+normaal hierin meepakken contacten
+kenmerk consult krokus morsen torn
+vinken halmen vergaarbak verpest
+opwinding tegenslag opvissen zuiden
+smoor protest traptrede dansmuziek
+verzot cellen onfris eens schaam
+meevoelt#taalles meevoelt turbo
+offer#gratis zaag vegen roadrider offer
+yoghurt#yoghurt stamppot toeloop baasje
+kabeljauw#warboel kabeljauw rechtbank
+weet#ofwel stronk sukkel weet fout
+quiz#muf kiosk voordoen quiz badplaatsen
+blank#frieten paasdag blank zoet
+pieper#krokant daarachter pieper onderaf
+zeggen#geheimpje zeggen kas klif twinkel
+ondernemer#pin ondernemer ben muisstil

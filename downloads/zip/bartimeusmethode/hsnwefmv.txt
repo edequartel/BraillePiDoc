@@ -1,0 +1,26 @@
+efhmnsvw
+;lees letters hsnwefmv
+s   m   w   f   h   n   v   e
+s f e m h w n v
+n n w s n s s w m s h h e e
+;zoek letters hsnwefmv
+n#m   n   v   h   w   s   f   e
+v#v   n   h   f   n   v   f   h   f   e
+w#s w v n f m h e
+n#m s s n f s n v f n v f n f
+;lees woorden hsnwefmv
+mees   snee   nemen   eveneens   wennen
+even eens nemen een hees veen neen mee
+neem neef nee nemen mens meenemen even
+;zoek woorden hsnwefmv
+we#nemen   nee   we   me   en   men
+mee#fee   wees   mee   hem   neven   mee
+eef#eef even messen mens men effen nee
+en#en eveneens neven men me snee wens
+;type letters hsnwefmv
+$e   h   s   m   v   w   f   n
+$f s h v w m n e
+$e n v e n e h f
+;type woorden hsnwefmv
+$fee
+$messen hen mes

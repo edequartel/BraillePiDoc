@@ -1,0 +1,10 @@
+x y z t q
+t y z q x
+q t j x z
+t q x y z
+x t q z j
+q y t x z
+y z q y x
+j j z x t
+y z q q x
+x j x x x

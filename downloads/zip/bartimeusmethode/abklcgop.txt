@@ -1,0 +1,102 @@
+abcgklop
+;lees letters abklcgop
+o   k   g   p   c   l   b   a
+b   o   l   k   p   g   a   c
+a   o   k   g   c   p   l   b
+c   l   k   g   a   o   p   b
+g   a   b   p   l   c   o   k
+b a o k g c l p
+c o b k l g a p
+b k p o g c l a
+o g a p k b l c
+b p o l c g k a
+b g o p p l l l g k a l g a
+g l l l o b k g b c a g p g
+l c p c p k p b o g p o k p
+p b p o o o a p o l c l o k
+k k o g c a o g g p c c g k
+;zoek letters abklcgop
+c#a   c   o   l   b   k   g   p
+l#k   l   p   b   o   g   c   a
+l#b   l   p   a   k   o   g   c
+p#k   p   g   c   a   o   b   l
+c#o   c   g   l   k   a   p   b
+g#l   l   l   g   g   a   a   g   o   l
+l#l   b   o   l   l   c   b   l   l   g
+p#k   l   a   c   p   b   o   b   p   p
+l#b   g   k   o   l   p   k   o   c   a
+l#a   o   k   o   l   b   a   c   l   k
+p#a p c g l b o k
+c#a c o p b l g k
+o#g o b a p c k l
+c#p c k l b o g a
+k#g k a c b p o l
+k#o g b b p b p c p k a k g c
+c#l l o g o p o g c c b c p k
+o#k k b k a c c g o l a o c b
+a#p a p o p k l o l o b a o p
+k#p a b l k o b g g g b k l g
+;lees woorden abklcgop
+opklap   papa   galg   kol   kalk   kook
+boog   gaap   polka   pap   oppak   kalk
+bol   opklop   kol   bal   klaag   paal
+bol   oplap   bob   gaap   bok   klok
+bob   kaap   lokaal   galop   oog   papa
+polka pap pop lak aal la pak oog kalk
+bob klap oog logo balg op oplap ook balk
+al bak cacao kaak log laag bob klap opga
+ga kaak lap opa koop ba loop gaap kopbal
+kalk balg paal gal al kok aak opkoop
+pak kalk aal kop cola laag oploop bob
+opkoop op gok logo opga look klaag kap
+oppak bak papa op op gap log po log
+pap gal opa gok klop pop cacao look pak
+aal lap lokaal gal la la klop gal bok
+;zoek woorden abklcgop
+aal#balg   klak   klok   gap   bol   aal
+pal#papa   lak   cacao   klak   pal
+kol#cacao   plak   bak   ba   kaap   kol
+bak#pap   logo   lal   ook   gala   bak
+ook#lak   gok   baal   ba   bok   ook
+oplap#al   logo   bob   bal   al   oplap
+balk#kaak   aak   lol   al   galg   balk
+kok#lap   klap   bol   gal   kolk   kok
+oog#bob   kopbal   boog   pal   oog
+plak#al   kopbal   klop   boog   plak
+lak#pappa klak klop boog gaap lak polka
+kap#goal gaap cacao kok kolk kap oploop
+blok#kalk gal lol logo opga blok kopbal
+opklap#al plak kook la balg opklap aal
+klop#baal kol bob kopbal bal klop plaag
+kook#cola plak plaag kaap pak kook lap
+klop#gal cola klop pa bok cola kook klak
+pak#pak kaak kaak aak log kap pop oploop
+bok#bok balg pook kop kok aak loog kok
+oplap#oplap plak plaag kaak oplap kalk
+;type letters abklcgop
+$b   p   g   o   k   a   l   c
+$a   o   l   c   g   b   k   p
+$l   c   o   g   b   a   k   p
+$b   g   p   o   k   c   l   a
+$a   c   k   o   g   p   b   l
+$o l a p c b g k
+$l p c a g k b o
+$l k o g c b a p
+$c k b p l g o a
+$l a o c k g b p
+$o a g b p a k o
+$b l o b k k c o
+$c o p c b b l c
+$o o c b o a l o
+$b b g c g a k c
+;type woorden abklcgop
+$balk
+$logo
+$lol
+$loog
+$loog
+$polka lol cola
+$aal gaap look
+$kap la kopbal
+$aap oplap ook
+$loop al pappa

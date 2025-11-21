@@ -1,0 +1,102 @@
+defhimnqrsuvwxy
+;lees letters xyqhsnwidurefmv
+r   x   h   w   y   s   f   q   e   m
+r   q   s   y   n   f   h   e   w   d
+h   n   i   q   u   s   m   r   y   x
+e   h   i   q   s   n   r   w   u   f
+v   n   s   u   h   i   d   e   y   q
+m u q f r d h n y s v w x e
+w i v x q r d s y f e u h m
+r y e d n u i m v f s w q x
+u s v n d f q r e y h w x m
+h i m s d e f n y v r w x q
+f x u d q i m i y d r x m i
+w e i u w q i e m r q e e e
+v i n r r m y v u f u w d x
+s d y u q m v q v d d n s v
+h i w u y e h w i i h r y d
+;zoek letters xyqhsnwidurefmv
+h#d   v   r   h   y   n   e   f   u   x
+r#i   x   e   r   q   n   h   v   s   m
+e#v   h   m   e   w   f   u   y   r   d
+h#x   s   n   h   f   q   w   m   u   e
+s#x   u   r   s   e   h   f   v   d   w
+e#q   s   d   e   v   q   d   r   q   h
+i#s   d   q   i   x   m   q   v   v   v
+q#w   f   r   q   y   u   r   q   f   u
+i#n   y   v   i   y   d   r   e   u   i
+q#d   n   d   q   q   s   h   x   i   h
+q#h v f e m u s r w y x d q n
+m#d i n v u e w x y s h f m q
+d#e x y u h s w f v q n i d r
+h#d f y s e i v q n w x r h u
+i#h n x f s r q v y m u d i w
+y#s d w v i v u e d i r f y n
+v#d q m y q d d y d f m m v h
+m#e r n h f y i n i h y x m q
+e#x s m n d u w u i d n y e y
+u#d x e w f n x m s r f f u s
+;lees woorden xyqhsnwidurefmv
+sinds   verhuis   nieuws   vin   drummen
+vissers   dus   den   vierde   deed
+verhuis   duin   ren   een   herrie   me
+eveneens   vernis   fee   weer   vee
+druiven   reis   diverse   huif   vuur
+wennen eend deuren vin versus min vis
+effen wie neer huif vissers wind nieuw
+deun wis rees wier mee mixer drummer
+inruim urn en nieuwe meerderheid nieuws
+des ermee nummer nies eieren wis deden
+wind ermee smeren ruimen me einde wens
+mei weeshuis sirene effen ieder drie
+vin ieder deur suf wees drummer vin veen
+verhef meiden einde weduwe huur vreemde
+eend verhef neer meerde eer muis vieren
+;zoek woorden xyqhsnwidurefmv
+effen#wie   snee   sis   effen   sus
+nis#vinvis   sneeuwen   nis   virus
+sufferd#eerder   fris   sufferd   wier
+vernis#hierin   dun   vernis   ieder
+vrede#mei   uur   fier   vrede   wie
+mei#ridders   hens   drie   mei   heen
+iris#mini   huid   herwin   iris   veren
+herwin#ferme   ruis   herwin   rivieren
+duurde#huisdieren   duurde   vrede
+vuur#huisdeuren   ris   der   vuur   her
+dim#een herwin einde mensheid ree dim
+meerderheid#dennen meerderheid veerhuis
+mes#druif iris even verf missie rum mes
+snee#ferm sis eeuw vinvis verhef snee
+weduwe#rivier eed wees neusde de weduwe
+muis#eed hem menu wens sein fier muis
+mie#miniem huiver effe eveneens mes mie
+induw#wie druis minimum meid ieder induw
+fris#missie der smeer mede dies mee fris
+duwen#meermin vinvis meeuw duwen herder
+;type letters xyqhsnwidurefmv
+$e   m   s   h   q   x   n   f   i   u
+$d   y   w   v   n   i   e   s   f   x
+$w   i   h   x   m   e   r   v   f   y
+$i   y   h   e   s   d   u   f   n   w
+$i   d   y   x   e   f   u   r   n   v
+$d e m i r n w y v s x u q h
+$m u x f e n y r v q h i d s
+$r x f s w m u y n i h v q d
+$h r d x s v i q e w u f m n
+$v r u f d s i m n x y e h q
+$m y h q n i e m
+$m y v i e y u n
+$v d d d h h m e
+$u h r u y i v y
+$u e h r d d h i
+;type woorden xyqhsnwidurefmv
+$dreun
+$fusie
+$ferme
+$duurde
+$dieven
+$verdien verse eerder
+$rui meerderheid mus
+$verwees vissers verder
+$rum miniem wuif
+$minimum een eind

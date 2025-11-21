@@ -1,0 +1,26 @@
+abefhklmnsvw
+;lees letters hsnwefmvabkl
+h   w   l   a   s   v   k   f   b   n
+f l s a v n e b h w m k
+a w b s n m h e h w e m l b
+;zoek letters hsnwefmvabkl
+e#b   k   s   l   w   f   h   v   m   e
+h#a   k   w   l   n   m   k   b   s   h
+n#s l f v h m n b w a e k
+e#l e h h e m v e l v w n s m
+;lees woorden hsnwefmvabkl
+aanbellen   afval   maak   valken   maan
+klanken laken valhelm kwel wankel haan
+kaal vals beval keek kelken kanaal kaas
+;zoek woorden hsnwefmvabkl
+kabel#aanhaken   kabel   men   slank
+en#laan   kam   afmaken   veel   en
+lamel#veelal lekke aan afmaken lamel
+kabel#kameel hal lef balen neef kabel na
+;type letters hsnwefmvabkl
+$n   e   b   s   v   a   f   k   l   m
+$f s h m a b k e v l n w
+$k v e m b f f e
+;type woorden hsnwefmvabkl
+$vlak
+$aanbevelen aanhaken heen

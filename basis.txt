@@ -1,0 +1,7 @@
+====== Basis ======
+
+De braillepi start standaard op met een basisbestand. Ben je deze kwijt download ze dan en zet ze op een usb-stick. Door deze in een braillepi te steken wanneer deze aan staat zal de braillepi weer in zijn originele staat komen.
+
+  * [[https://www.tastenbraille.com/data/braillepi/braillepi_basis.zip|braillepi_basis.zip]]
+  * [[https://www.tastenbraille.com/data/braillepi/word.txt|word.txt]]
+

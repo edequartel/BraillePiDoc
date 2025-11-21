@@ -1,0 +1,102 @@
+abcdefghiklmnopqrsuvwxy
+;lees letters xyqhsnwidurefmvabklcgop
+i   u   a   y   o   q   w   x   f   s
+n   a   c   w   u   f   x   b   d   s
+c   e   r   k   m   y   v   q   w   u
+m   i   b   y   v   w   o   d   k   g
+n   i   c   e   k   u   g   r   m   d
+p d w c b f m u r k o x e n
+o n e u d x y l q s f h r a
+a h c d o u i k p w x q v y
+p a u g w h n i s y d c l f
+w f o n i v g b y a k x u p
+e f h g p n k a k b r b v k
+m h i v q a c i n r g s q o
+r r r m l g h f y i i y f e
+w k f e e y r l g s b p p x
+o b v f l y p v y w q n w o
+;zoek letters xyqhsnwidurefmvabklcgop
+a#i   a   n   v   y   b   f   x   o   k
+f#p   f   x   h   w   o   y   d   r   u
+l#i   l   w   o   x   n   d   v   p   g
+m#e   m   f   p   l   s   u   q   k   b
+y#l   y   f   c   x   q   h   n   b   v
+c#a   c   n   f   u   p   o   h   u   r
+x#c   x   o   o   h   r   u   m   x   m
+q#u   q   c   h   y   w   c   x   i   w
+n#o   n   b   d   x   q   n   u   v   p
+d#r   d   m   f   o   o   a   c   o   a
+g#g q y d n c e l a m f x r o
+k#k d u i q n b m y x h s f p
+c#c v w s k p e h f o a l r b
+n#n g u b v c q l p d w x f h
+c#c h y f i b p q g w l r u m
+k#k c x f q b m n i p b x s o
+w#w h w p x f s a y d n a l r
+m#m h e m e h y a s g b k d i
+v#v l a i v m h i a v h s c e
+b#b u c q b x n o q i v a d a
+;lees woorden xyqhsnwidurefmvabklcgop
+lira   lonen   oom   gifslang   roman
+lach   scheermes   bloem   lel   bleven
+vlas   mooi   raad   blanke   praal
+rivier   besef   avonden   knippen
+voordeel   berm   woensdag   binken
+duwbak club schoolgaan doorslaan kreupel
+valkuil laden afdak nummer veranker las
+kwelder omwerken beginnen schaar grappig
+kruip kluis orde luis overhaal inwerken
+wegga kroeg wars ophalen huismerk nieuwe
+bedrag gala galg drankfles oplos sloeg
+bepaling waaier modderbad massaal korf
+lampenkap lik geheel sporen bepaal spaan
+aap konden visboer module aaide delfde
+geld aflopen relax lauw dis waan logos
+;zoek woorden xyqhsnwidurefmvabklcgop
+roe#roe   daarvan   ga   laveer   cacao
+ananas#opgang   ananas   sein   hing
+daarom#builen   daarom   aaide   inruim
+doneer#cavia   doneer   aanbellen   kalm
+dokwerker#dokwerker   hard   bad   vuren
+boekwerk#boekwerk   moreel   eigenaar
+weerklank#weerklank   marsen   frees
+normaal#normaal   kraag   grondig
+groepen#groepen   alcohol   afknappen
+bal#bal   moederliefde   werkgroep   ach
+opa#heb opa monnik sokken planning mus
+weekdier#weekdier soep opvraag halmen
+al#hing al langs lafbek papa waarna werp
+helm#helm verkleur roeibaan geleerd
+indoen#wie indoen nor slaken leraren
+welke#welke vorming samenwerk badhuis
+raden#kwam raden pleegbroer kneus schip
+lelie#uil lelie weleer kassa vergok kink
+ellende#info ellende vliegwiel ei wegkom
+aardbeien#aardbeien royale deelbaar pep
+;type letters xyqhsnwidurefmvabklcgop
+$u   w   e   x   d   b   l   q   n   m
+$c   a   i   v   q   m   l   o   u   n
+$l   c   r   a   o   v   i   d   s   q
+$y   d   b   p   q   f   l   h   e   m
+$i   o   s   b   w   d   f   k   e   r
+$q i e v m c l a h g s d n p
+$c a x k h l w m f u s o q r
+$p f i b x s l a o c k w r u
+$o l a m n v h u e r i q c p
+$s w o d k n g p e i m x r c
+$l r m k c v s s
+$f y n o e m y o
+$o m v k m a f y
+$i q p m v l p s
+$b m d d a g r i
+;type woorden xyqhsnwidurefmvabklcgop
+$noem
+$droegen
+$scheve
+$hiel
+$afkappen
+$willen vroegen oorlel
+$harder woelig landhuis
+$vierde afmaken overga
+$koek woelige huisdeuren
+$wenkbrauw wagon basis

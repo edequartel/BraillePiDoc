@@ -1,0 +1,102 @@
+defimruv
+;lees letters idurefmv
+i   f   d   r   m   u   e   v
+r   u   d   e   m   v   i   f
+v   u   i   e   r   f   m   d
+v   u   d   r   f   e   m   i
+u   m   v   f   i   d   e   r
+v f m r e i d u
+r d u m v i f e
+u d r e v m i f
+r u e v m f i d
+u v f i d e m r
+i f r i d f u m v f m r d v
+u r f v i e u e e f r f e v
+e e u i f m d u m f e m i r
+f f m u u i i v i m e v e v
+m m r r i u v f r v f i i r
+;zoek letters idurefmv
+d#i   m   d   r   f   u   e   v
+u#d   v   u   m   f   e   i   r
+e#m   d   e   f   i   u   v   r
+r#e   f   r   v   d   u   i   m
+v#f   e   v   i   m   r   u   d
+f#d   u   f   r   v   f   i   i   i   m
+u#r   d   u   r   f   m   f   u   f   r
+d#e   v   d   r   m   e   f   d   f   f
+f#f   f   f   u   i   i   v   e   d   u
+f#v   r   f   d   i   m   v   r   i   f
+i#m r i f e d u v
+d#f m d e i u v r
+r#i v r u e d m f
+m#e d m u i v f r
+d#f i d r v e u m
+e#m f m v i f r e u e i m u i
+r#i i r e f r r r e m m f v u
+d#d m f r e u r d d f r i u d
+i#e u u d d i e i r i d v i u
+m#f d d d r d r m u r r f v i
+;lees woorden idurefmv
+medium   ruim   eer   idee   meid   deur
+ermee   dim   duf   druif   emmer   vier
+verduur   riem   die   me   mum   vereer
+erf   eerder   meerde   deur   muf   de
+ruim   reed   eef   vierde   vier   vee
+eed derde deed druif ree deur id medium
+vreemd emmer die ieder dief ree vrede de
+idem duurde rede ver ferm ferme eer ui
+vreemde druif ei duurde rem ver effe mee
+meer vee dier eed rem eer vuur vierde
+me effe ree duurder vee dim duurder er
+red vee mee iedere ferm rivier ferme mum
+ruim medium eef dief eer dim verf vreemd
+idee verduur red vreemde drummer eed fee
+de ermee rui dier fee idee rem ermee
+;zoek woorden idurefmv
+idem#de   uur   idem   id   rivier
+dim#verre   iedere   dim   drum   ferm
+mee#mee   ferm   er   ver   drum   de
+die#der   idee   die   duurde   duurder
+id#id   ermee   mee   eer   fier   ui
+effe#ruim   iedere   effe   rum   vee
+iedere#ree   iedere   verder   ferme
+meerde#emmer   meerde   mier   vierde
+mie#verre   drum   mie   mee   vreemde
+ruim#rui   reed   ruim   rum   ieder
+dim#dim eef rem veer ruim ermee duur die
+ruim#ermee ruim erf ree ui duf verduur
+eer#fee eer riem emmer druif die verre
+vee#vee erf der vierde rum mee mier fier
+er#er eed mum effe drie die mede dier
+ei#ei drum emmer druif meer ruim duf eed
+mede#mede deur eed durf idee die duif er
+rede#rede meer dim id der reed erf me
+ver#erf ver ree vreemd meid dief mede
+vreemde#vreemde rivier duim drie vee erf
+;type letters idurefmv
+$v   e   r   m   d   f   i   u
+$d   u   i   m   f   v   r   e
+$v   m   u   d   i   f   e   r
+$v   i   u   m   r   e   f   d
+$f   i   v   d   e   r   m   u
+$e f r u i v m d
+$r f m v e u i d
+$e v u m i r d f
+$d r u e v f m i
+$e v u i m d r f
+$u u m f f f e m
+$f u v i i f r u
+$v i v m r v m d
+$u r m m r r r m
+$e d m f m f m f
+;type woorden idurefmv
+$die
+$durf
+$durf
+$duif
+$drummer
+$mei vrede deed
+$rivier red idee
+$vierde emmer reed
+$druif vuur vreemd
+$ieder effe duim

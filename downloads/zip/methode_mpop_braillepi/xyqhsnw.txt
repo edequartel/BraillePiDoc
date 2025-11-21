@@ -1,0 +1,10 @@
+h x s n y
+h y x q w
+n x s h w
+w y h q n
+x q y w n
+q q s w s
+y x q x n
+n q q x h
+q h q w q
+n w q y h

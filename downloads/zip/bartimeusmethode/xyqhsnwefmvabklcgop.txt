@@ -1,0 +1,26 @@
+abcefghklmnopqsvwxy
+;lees letters xyqhsnwefmvabklcgop
+p   f   v   k   w   y   e   s   n   x
+s o c e f h q y v w l k a x
+x o k p n l m h o l g n l g
+;zoek letters xyqhsnwefmvabklcgop
+o#a   c   x   f   l   h   o   e   y   k
+q#q   q   h   s   v   b   q   l   o   m
+v#c s q n p b v f x h m k o w
+x#l g b p x n x y b f o w k e
+;lees woorden xyqhsnwefmvabklcgop
+fles   lakschoen   homp   poos   apen
+gangen onmens gebleven waak smaak leo
+omkom haan een man kalf moe smal haven
+;zoek woorden xyqhsnwefmvabklcgop
+wasbak#lachen   kelk   wasbak   wegkom
+bewaak#bewaak   hoop   gang   veel   kan
+afknappen#bessensap vloog afknappen km
+bevolken#losbol klonk bevolken leesplank
+;type letters xyqhsnwefmvabklcgop
+$y   p   x   k   b   s   g   h   o   w
+$y v n l c a s x o p w e b k
+$q g w s o e n x
+;type woorden xyqhsnwefmvabklcgop
+$mop
+$kanalen omkopen speelbal

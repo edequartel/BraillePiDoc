@@ -1,0 +1,10 @@
+x q y
+x y q
+x q y
+q x y
+y x q
+q q q x y
+q q x x y
+q q y y q
+q q x x x
+q q y q x

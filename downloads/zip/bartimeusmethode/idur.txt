@@ -1,0 +1,102 @@
+diru
+;lees letters idur
+u   d   r   i
+r   d   i   u
+r   i   d   u
+u   i   r   d
+r   i   u   d
+d i u r
+r i d u
+i r u d
+d r i u
+i u d r
+i r d r i r r u i u d d u d
+r d r i r i u r u r d i d d
+u d i d u r i i i u r i u i
+i d d d u u d d d i d d i r
+r d u u d d r u r r r d d u
+;zoek letters idur
+d#d   r   u   i
+u#u   i   d   r
+i#i   r   d   u
+u#u   r   d   i
+d#d   r   u   i
+d#i   d   u   d   r   i   r   i   d   i
+i#d   d   d   i   r   i   u   d   i   d
+d#u   d   u   d   d   u   d   r   d   r
+r#u   i   i   r   u   u   i   i   u   i
+d#r   r   r   d   r   u   u   i   r   d
+u#u i d r
+r#r d i u
+u#u i r d
+i#i r u d
+u#u r i d
+i#d u u i r u i i i r u d d i
+d#i i d d u r r d u i u i i i
+u#r d i u r d i i u i i i i i
+r#u i r r i u d u u d d u d r
+r#d d u r d i d d u i i d d r
+;lees woorden idur
+duur   ui   rui   uur   id
+ui   rui   duur   id   uur
+rui   ui   uur   id   duur
+ui   id   uur   rui   duur
+uur   rui   ui   duur   id
+ui id duur uur rui
+duur id rui ui uur
+duur rui uur ui id
+duur rui ui uur id
+id uur duur rui ui
+rui duur uur duur id ui ui ui rui uur
+uur uur rui uur uur rui duur rui id id
+uur rui uur rui duur rui ui id ui uur
+uur uur id duur rui rui rui uur uur id
+uur rui ui ui uur rui id ui id ui
+;zoek woorden idur
+ui#rui   duur   uur   id   ui
+uur#duur   ui   id   rui   uur
+duur#rui   ui   uur   id   duur
+id#duur   ui   uur   rui   id
+rui#duur   ui   uur   id   rui
+uur#rui   rui   duur   ui   rui   uur
+rui#rui   ui   id   uur   rui   ui   rui
+duur#id   rui   duur   duur   rui   duur
+ui#uur   rui   id   rui   ui   uur   ui
+id#duur   rui   ui   rui   id   id   id
+duur#uur id ui rui duur
+rui#duur ui uur id rui
+rui#uur ui duur id rui
+rui#id uur duur ui rui
+ui#rui id duur uur ui
+duur#uur rui ui duur id duur rui rui id
+uur#rui duur id uur ui uur id id duur
+rui#ui uur id rui rui id uur uur id uur
+duur#id ui rui duur ui rui uur ui id ui
+uur#uur duur rui uur duur uur rui id rui
+;type letters idur
+$i   r   d   u
+$d   r   u   i
+$d   i   u   r
+$d   u   i   r
+$r   u   d   i
+$d u r i
+$d i u r
+$d r u i
+$d r i u
+$i u d r
+$d i d u d r u r
+$u i d i u d u d
+$d i d d d u d d
+$u r i d i r i u
+$d r i r u i u u
+;type woorden idur
+$uur
+$rui
+$uur
+$id
+$uur
+$id duur uur
+$id uur duur
+$uur id duur
+$ui id uur
+$rui duur uur

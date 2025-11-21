@@ -1,0 +1,102 @@
+abkl
+;lees letters abkl
+l   k   a   b
+a   l   b   k
+a   l   b   k
+l   k   a   b
+k   l   a   b
+a k b l
+k a b l
+k b a l
+a l b k
+b a l k
+a b a l l a b b l l a a k l
+b l a b a k k b k a a a k k
+a b k l k l a a l a b b b b
+a l b k b a l a a b k k a a
+l b l b l b k l b b l k l l
+;zoek letters abkl
+a#k   l   b   a
+b#a   l   k   b
+a#b   l   k   a
+a#b   l   k   a
+a#k   b   l   a
+a#k   b   a   l   k   a   a   k   a   l
+b#l   k   a   l   l   a   b   k   a   k
+l#a   l   a   a   a   k   l   k   b   b
+k#a   k   l   l   b   l   k   a   l   k
+k#b   a   l   k   l   a   k   b   l   b
+b#a k l b
+b#l a k b
+b#l k a b
+b#k a l b
+a#k l b a
+b#b k a k b k b a k b k b a l
+b#b k b a b l l a l k a l k a
+k#k l l b k b a b k b b l k l
+l#l l b l k k b b k k l b a l
+b#b a a l l a a b b k l l k l
+;lees woorden abkl
+baal   kaak   bal   bak   al   aak   aal
+al   lak   aal   bak   klak   la   kaak
+kaak   klak   bak   bal   baal   lal
+kaal   lak   bal   balk   klak   al   ba
+kaak   ba   balk   kalk   baal   al   la
+lal bak ba klak kalk la baal kaal balk
+lal bal ba aal baal kaal aak al bak kalk
+al bak la kalk kaal lak klak lal bal aak
+aak lak aal baal ba al bal kaak klak
+lak balk baal la aal bak kaak ba bal
+al la lak lal lal lal kaak baal ba lal
+lak kaal la aal la balk aal kaal lak lak
+klak bal aak la kalk balk kaal aal kalk
+kaal balk kalk lal bal balk baal bal la
+aak lal balk bak ba bak ba ba baal bal
+;zoek woorden abkl
+aak#ba   aal   balk   kaak   lak   aak
+baal#bak   ba   balk   kaal   aal   baal
+bal#aal   balk   baal   al   bak   bal
+balk#aak   bal   baal   klak   la   balk
+kaak#kalk   balk   kaal   kaak   lak
+lal#aak   kalk   klak   kaak   bal   lal
+kalk#lak   baal   kaak   ba   bak   kalk
+bak#kaal   kaak   kalk   ba   balk   bak
+aak#bal   balk   aal   aak   aak   aak
+kalk#lal   al   al   ba   la   kalk   al
+kaak#la aak bal aal lal al kaak baal ba
+aak#al kaal kaak ba lak bal aak bak la
+bak#bal bak al aal kaak kalk balk klak
+bal#bak lal ba al klak baal bal aak balk
+lak#kaak ba balk lal la al lak kaal baal
+balk#lal balk al lal balk la kalk klak
+ba#klak aak lak klak kalk baal ba ba lal
+lal#klak lal balk la kalk lal baal kaak
+kalk#klak kalk lak baal ba klak la bak
+bal#balk aal al al ba bak bal baal bal
+;type letters abkl
+$a   k   l   b
+$b   a   k   l
+$k   b   a   l
+$b   k   a   l
+$b   l   a   k
+$b k a l
+$b l k a
+$k a b l
+$k a b l
+$b a k l
+$l a a a k l l k
+$b k l b b l k l
+$a l l l k b l l
+$b a l b b b b l
+$l k a b l l b a
+;type woorden abkl
+$ba
+$bal
+$lal
+$balk
+$aal
+$aal ba kaak
+$bak aal kalk
+$lak la balk
+$klak bak baal
+$lal baal aak

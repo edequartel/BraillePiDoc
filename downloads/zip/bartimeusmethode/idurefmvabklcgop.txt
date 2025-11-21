@@ -1,0 +1,102 @@
+abcdefgiklmopruv
+;lees letters idurefmvabklcgop
+b   u   v   d   k   i   o   c   e   f
+u   o   v   i   p   e   l   k   b   r
+a   v   d   g   u   o   c   b   k   m
+d   v   r   k   p   o   c   b   i   m
+a   l   v   g   m   d   r   e   p   f
+r m b a f o e c i d g k u l
+k b c u i p o l g e a m d v
+a v p o f i b m r k u l g d
+m p l u b g c r e f o k a d
+l p k a f d m v o i g b u r
+l r m l i a o e o b v e f g
+b k d g p m f v u m c u k f
+i o i g r k l e b o a g e b
+r u a c b i i g k c a o a u
+b m m c c e m k d f f b u m
+;zoek letters idurefmvabklcgop
+a#r   m   p   v   b   f   c   i   u   a
+l#o   v   k   d   c   i   b   p   a   l
+m#f   c   r   o   v   g   d   a   l   m
+k#f   u   l   i   v   b   m   o   c   k
+m#o   l   b   i   v   u   c   g   e   m
+k#g   b   i   b   r   f   b   r   m   k
+r#r   v   l   a   b   r   c   a   a   r
+v#b   l   k   l   o   l   a   d   a   v
+f#p   c   p   g   r   o   a   d   b   f
+r#f   c   e   o   b   d   a   i   k   r
+r#i m g e k c d p v f o a r l
+v#a e c i u l b p f m g r v k
+f#c v a l e p i u o b g k f d
+c#v u f e g l p m a o r d c i
+i#e a v m c b g u d p k o i r
+o#g b k r i r f i u d l i o k
+a#p d l m c o c v c b c a a g
+v#b m i m g p u v k c f c v l
+c#m g l a c o b k o b k k c e
+d#e r v k k c i g d m p a d c
+;lees woorden idurefmvabklcgop
+propvol   kiel   vaal   goal   aar   bob
+cafe   bek   voordeel   memo   kil   lek
+lelie   bleef   lamel   omkeek   kramp
+labiel   kolk   aarde   loof   verkool
+eef   overig   kraag   diepe   vaderlief
+logo overdag verbloem oploop koorleider
+balg loer bleef veger durf bord verlam
+kuil durf opa geplaagd ruik mei vergif
+fabel gebod kuip cup cola balg duurde
+barkeeper gum garage vroom kop leger mam
+bleef dooi mier goor kookboek la dagblad
+liggeld kreupel grappig oormerk karige
+kalk logo kameel voorproef daal gier
+collega deed bevel duimbreed verdraai
+rumoer keer klap meerde verpak vreemde
+;zoek woorden idurefmvabklcgop
+volgorde#volgorde   diep   eb   verklaar
+allemaal#allemaal   begaf   bad   pul
+boog#opga   boog   oproep   luid   kreuk
+armoede#armoede   klaar   gap   omruil
+poolkap#poolkap   blaam   cavia   kalf
+bevoel#bevoel   verdik   verover   beek
+modder#dief   modder   lal   vlak   pup
+dek#geleerde   dek   breek   klok   om
+podia#podia   beroer   graag   lepel
+drempel#palmboom   olielamp   drempel
+kade#opa afvalbak lik video voorleg kade
+laffe#blik laffe gebod mor republiek
+grip#vermaal vreemd geur polo broei grip
+drug#pluk camera grip dakraam meer drug
+broodbeleg#broodbeleg palm bumper oog
+kerel#kleur kerel domkop cd bloemkool
+voer#loofboom voer republiek vak voerlui
+kreeg#modder aal bloemblad vla pak kreeg
+aar#opgevoerd armoe gram voeg roek aar
+mopper#bak mopper aardappel leer kalm
+;type letters idurefmvabklcgop
+$i   c   o   a   r   l   g   f   d   k
+$v   g   d   a   i   o   p   f   c   k
+$g   l   m   r   c   f   e   v   k   b
+$f   i   l   u   g   e   r   m   o   k
+$o   p   i   d   a   u   v   e   g   c
+$o d f a b k r u v e g m c l
+$o v k p a g m b f i e u r c
+$a u o b l g m f c i k d v r
+$k d f p o b u a v r m c i g
+$a c p f g k b l d r v e m u
+$o g f b o o o c
+$f c l d v p d f
+$a d v f d k g g
+$l m e b c m k e
+$g c i c v d m l
+;type woorden idurefmvabklcgop
+$loog
+$rappe
+$lak
+$romig
+$prop
+$rumoer kreuk akkoord
+$kade mei codeer
+$gedeeld gek vork
+$guur kip drukproef
+$akelig dove meevoer

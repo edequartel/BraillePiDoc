@@ -1,0 +1,57 @@
+qxy
+;lees letters xyq
+y   q   x
+q   y   x
+q   x   y
+y   q   x
+x   y   q
+q x y
+q x y
+y x q
+x q y
+q y x
+y q q y y q x x y x y q q y
+y q x x q q y y q x x y q q
+x x y x q q x x q x y y q x
+q q y x y y x x y q q x y y
+x q y q q y y q x x y y q y
+;zoek letters xyq
+q#q   y   x
+q#q   x   y
+y#y   q   x
+y#y   q   x
+x#x   q   y
+q#x   y   y   y   y   q   q   y   y   y
+y#y   q   y   x   q   y   y   q   q   y
+x#x   y   y   q   y   x   y   y   x   x
+q#x   x   q   x   y   q   q   q   q   q
+y#y   q   y   y   q   q   x   q   y   y
+q#x y q
+y#x q y
+y#q x y
+q#y x q
+y#x q y
+y#y x q q x q y y y x x x x x
+x#x y y q y y x q x y q q y q
+x#q y q q x x y y x q y q y y
+y#y q x y y q x q y x x x y q
+y#y q y y y q y q y y x x y y
+;lees woorden xyq
+;zoek woorden xyq
+;type letters xyq
+$y   q   x
+$x   y   q
+$x   q   y
+$x   q   y
+$y   q   x
+$x q y
+$q x y
+$y q x
+$y x q
+$q x y
+$y y q y y x y x
+$q x y y q x q y
+$x q x x y q x q
+$q y y x y y x q
+$x y y q x x x x
+;type woorden xyq

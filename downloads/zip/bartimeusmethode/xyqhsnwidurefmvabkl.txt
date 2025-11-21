@@ -1,0 +1,102 @@
+abdefhiklmnqrsuvwxy
+;lees letters xyqhsnwidurefmvabkl
+i   m   u   y   v   b   k   e   r   w
+s   b   k   m   r   d   v   i   e   u
+n   k   y   x   d   a   m   b   v   h
+k   w   n   r   m   e   f   x   y   v
+e   l   q   f   b   x   n   m   y   s
+n x w v s i y r k m h q l b
+b l s a x h y f n r v m q d
+a d f m x h w y n u r b v s
+q l w e d s k h x a m i f r
+w m q x u d h a i f k b n l
+i a e q d b l b u l b f h q
+w y h f k q d i x k e f b x
+y f w i u e q f n v u k r y
+l k n l d n l k b r v a b y
+b h s u i l b q u w y m h y
+;zoek letters xyqhsnwidurefmvabkl
+k#y   u   l   v   k   d   a   n   x   w
+y#a   m   r   n   y   f   h   u   v   x
+u#n   m   s   h   y   u   x   i   r   q
+h#m   x   y   d   f   h   k   u   l   e
+s#r   u   m   d   h   s   n   v   k   w
+r#d   v   s   q   l   r   u   d   a   y
+i#a   y   e   m   d   i   d   v   x   e
+x#r   f   w   l   h   x   n   x   y   v
+e#n   s   x   s   b   e   q   n   q   k
+a#b   h   r   q   l   a   x   r   n   n
+r#q s i u h k r d x b m a e l
+q#i m a h u k q s d y w l f v
+e#i x u r a y e f n b v d q l
+f#v y b h k l f r m n u x s d
+d#n l i k u r d w x h s y v a
+u#h y w m h e u u b m x b d q
+k#x n d m w b k m x s r u b v
+d#q f e s w a d w k v d m y x
+x#s l m v w m x x a s w k w w
+d#v r k h u x d y v w k k s f
+;lees woorden xyqhsnwidurefmvabkl
+haven   daad   inkeer   makelaar   duw
+sik   dassen   afbraken   krans   beide
+aanduwen   man   klauw   win   leeswerk
+delfde   namens   flanellen   verleer
+verblik   maximum   eb   wilde   bewaar
+maar leider landheer breuken ren einde
+die as lariks lever ruil druiven warmen
+wil huisraad afbreken rekenwerk induw
+ham rik deksel lieve lui nee daar iemand
+fuif vieren rivier bal afkeer duur blies
+knar miniem vals aandelen huismus verdik
+rum meel kelk arbeiden eens mum wild
+baken lande vlak elk verbrak ludiek
+landman aanvullen leuker braaf kennis
+arbeider ene huismus dank afkeren afdek
+;zoek woorden xyqhsnwidurefmvabkl
+maximaal#maximaal   vandaal   armband
+wars#snaar   nemen   bruikleen   wars
+dieven#dieven   mensheid   dansles
+hinkel#draaibaar   rauw   vele   hinkel
+leer#luid   kwark   verdenk   leer
+brassen#inwin   drank   meeval   brassen
+braille#reeks   luisde   mis   braille
+bakker#huid   varken   andere   bakker
+wild#mineraal   aandeel   linksaf   wild
+verbras#mauwde   barak   firma   verbras
+bakkebaard#bleven navel smeul bakkebaard
+keuken#leefbaar vulkaan sleuf keuken
+merken#kraan slavin eeuw mams merken
+waren#waan sluik meubilair binken waren
+brief#huisbaas melden wendbaar brief
+nuk#leeswerk evenals verdien waarna nuk
+ren#likken ren smeerkaas kun redden sluw
+reken#buk reken masker vele benieuwd vak
+reed#reuk kleuren buien verdwenen reed
+nam#basis sirene brandblusser arken nam
+;type letters xyqhsnwidurefmvabkl
+$h   u   m   k   x   w   q   f   l   y
+$w   v   y   l   q   h   u   i   k   m
+$r   q   x   a   m   n   y   h   f   l
+$e   w   f   h   u   y   s   b   a   l
+$a   u   n   e   d   k   m   r   l   y
+$k n i x l d r m e a w s b h
+$m e y q f u k a v b n i s l
+$e h w y q i l r u n d s v a
+$b f h r n k a l e m u v q x
+$w b e s m l x h n u y r f q
+$h b f q x f f r
+$k h x m x f s l
+$a q v h f x r x
+$m q u f n d a y
+$e q s q k b q q
+;type woorden xyqhsnwidurefmvabkl
+$keek
+$verdenk
+$afkeren
+$iedere
+$kliek
+$een mende muis
+$badlaken elfde andere
+$versmal vieren kaakbeen
+$verval alle ruisen
+$rauw afdek dreun

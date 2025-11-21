@@ -1,0 +1,10 @@
+t j z
+j t z
+z j t
+z t j
+j z t
+t z z j z
+z z t t t
+z z t j t
+t z z j t
+t t j t j

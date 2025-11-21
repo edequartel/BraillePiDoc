@@ -1,0 +1,17 @@
+[user]
+filename=word.txt
+language=dutch_marie
+theme=basic
+phonetic=child
+sound=1
+speed=7
+speakaloud=1
+letterword=1
+typekey=0
+typesound=0
+instruct=1
+startinstruct=1
+counter=7
+keyboard=1
+volume=4
+analyse=1

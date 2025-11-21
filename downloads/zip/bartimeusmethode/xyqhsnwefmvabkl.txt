@@ -1,0 +1,26 @@
+abefhklmnqsvwxy
+;lees letters xyqhsnwefmvabkl
+m   q   w   y   f   l   n   h   k   s
+b n l w x e q k a f v y s h
+e q k e b e n h y f v x h q
+;zoek letters xyqhsnwefmvabkl
+f#q   f   s   x   k   e   b   m   l   a
+v#a   v   w   v   n   f   a   n   h   y
+k#l y w x b k n f q v m s h e
+s#e a a m y s w s m v s m s x
+;lees woorden xyqhsnwefmvabkl
+kaal   lal   namen   bek   afvallen
+melkvee afwas babbelen naam as wel lam
+bek ma hek vla alles veel hens heel alfa
+;zoek woorden xyqhsnwefmvabkl
+wal#heen   afslaan   kwak   bewees   wal
+kek#label   alleen   maal   lama   kek
+maak#lava valhelm heel maak mensen faxen
+halmen#flank valhelm kans beleven halmen
+;type letters xyqhsnwefmvabkl
+$h   l   v   w   n   x   s   y   a   k
+$q v s f k h x b m a w e y l
+$v l s b w q m k
+;type woorden xyqhsnwefmvabkl
+$waan
+$mek kelk aanhebben

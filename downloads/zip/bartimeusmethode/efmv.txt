@@ -1,0 +1,102 @@
+efmv
+;lees letters efmv
+f   v   m   e
+v   m   e   f
+v   m   f   e
+e   m   v   f
+f   m   e   v
+m f v e
+e f v m
+m f e v
+m e f v
+v e m f
+f f e e v f e f f f m e f v
+f m v e e f m v f f f m f m
+e m f m e e e e e v m e m v
+m v e f e e f f v e v m m f
+f v v v e v m m v m e e v v
+;zoek letters efmv
+v#e   f   v   m
+e#m   f   e   v
+m#e   f   m   v
+v#f   e   v   m
+m#f   e   m   v
+v#e   e   m   v   f   f   f   v   m   v
+f#v   e   v   f   f   f   m   e   f   m
+m#e   e   f   m   m   e   v   m   e   f
+f#m   v   f   f   v   e   v   v   v   m
+v#e   m   m   v   e   e   e   e   f   v
+v#e f v m
+m#v f m e
+m#e f m v
+m#f e m v
+m#f e m v
+f#f f v v f f e f f e e m e m
+m#v m m m f v e e f v f v f m
+m#e m m f v e e m f v v v v v
+v#e v e e e f e f e v v m v v
+e#e e m v m m e e e v m f v v
+;lees woorden efmv
+me   eef   effe   mee   vee   fee
+effe   mee   me   fee   eef   vee
+mee   eef   fee   effe   me   vee
+effe   eef   fee   mee   me   vee
+me   effe   mee   eef   vee   fee
+mee eef me fee vee effe
+fee effe eef mee vee me
+effe me fee mee eef vee
+me vee effe eef fee mee
+me fee eef mee effe vee
+eef effe me vee effe vee me vee fee eef
+effe eef eef vee mee effe effe vee eef
+effe me fee vee mee mee mee mee eef eef
+me eef mee fee mee mee fee effe mee vee
+mee mee eef mee mee mee eef me fee me
+;zoek woorden efmv
+vee#vee   mee   fee   effe   me   eef
+me#me   eef   fee   effe   vee   mee
+effe#effe   fee   eef   mee   me   vee
+vee#vee   mee   me   effe   eef   fee
+fee#fee   eef   vee   effe   mee   me
+eef#eef   mee   eef   vee   vee   vee
+mee#mee   vee   mee   vee   eef   effe
+effe#effe   vee   effe   fee   eef   me
+vee#vee   mee   vee   me   mee   effe
+fee#fee   mee   fee   eef   mee   me
+effe#effe eef vee fee me mee
+mee#mee eef effe fee vee me
+eef#eef mee fee me vee effe
+fee#fee mee vee me eef effe
+mee#mee me vee eef fee effe
+fee#fee eef effe mee mee fee vee effe
+eef#eef effe eef eef vee eef vee effe
+mee#effe me me fee eef eef mee mee me me
+fee#fee effe eef fee eef me vee me vee
+eef#eef vee effe eef mee effe vee fee me
+;type letters efmv
+$v   e   f   m
+$f   m   e   v
+$m   f   e   v
+$v   f   e   m
+$f   e   m   v
+$e v m f
+$f v e m
+$f v e m
+$v m f e
+$f m v e
+$f e f v m e m v
+$m m m f v e e v
+$v v v f e v v f
+$e f e v e e f v
+$e v m f v v e v
+;type woorden efmv
+$vee
+$me
+$vee
+$fee
+$vee
+$effe fee me
+$eef vee mee
+$mee fee vee
+$me mee vee
+$effe mee me

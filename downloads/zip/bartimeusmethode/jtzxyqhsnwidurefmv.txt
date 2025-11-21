@@ -1,0 +1,102 @@
+defhijmnqrstuvwxyz
+;lees letters jtzxyqhsnwidurefmv
+q   m   t   j   i   x   s   z   u   e
+n   m   x   w   y   f   j   h   s   q
+u   y   i   x   f   e   m   v   q   z
+v   t   r   x   e   w   y   j   n   z
+y   v   x   e   t   u   q   r   j   s
+t y x n f j i m e w z h r u
+n u w z t s e v y d j m h q
+x j v s h n m q w i f r t e
+z d h u q f x s m w e r t j
+f x j q r n y h s e v i t m
+v s s r u q q t z m e f x s
+i n n x s r e n m t q j q t
+t m y w d s q q z h i t x u
+w q j m f z f t h i f t t q
+h v i q m s j t n s x z s y
+;zoek letters jtzxyqhsnwidurefmv
+s#m   j   z   d   t   s   x   v   h   e
+d#x   t   r   q   n   d   y   e   s   v
+h#u   f   z   d   t   h   w   j   q   s
+d#u   y   s   t   h   d   w   i   e   n
+q#d   v   t   x   n   q   s   i   r   f
+d#j   j   e   z   h   d   m   m   t   u
+z#y   z   y   q   t   z   u   h   u   t
+d#n   j   i   q   q   d   m   d   q   f
+e#h   h   v   s   h   e   j   j   q   f
+j#y   d   h   n   s   j   t   h   y   f
+v#v x d j r w f h t y s i n u
+w#w e t i q m y r v x j z f d
+m#m f y h u e x i d s w n z v
+n#n x d i m t s w e f v h y r
+n#n t w x q y m z i u s v d j
+n#n m u t h x y n i r u w n j
+z#z v r w t u u m h v x u i u
+r#r j f v e z z q z z u f d q
+s#s z m s n d d r f h z j r v
+j#j x j f x t t z d w d x f i
+;lees woorden jtzxyqhsnwidurefmv
+nest   verwees   dreun   verven   effe
+vriendinnetje   duw   dieven   triest
+tuinfeest   niet   vies   rits   hierin
+stuif   hen   internet   effe   ze   uit
+terneer   verzuim   trui   eens   zitten
+rem meneer drummer frees feesten enter
+frees iedere zwerf zuur steentijd deun
+meneer frietjes ris verdiensten zeedier
+rum werf nemen niets fuseren strijd surf
+uit smeren etsen wij tenminste instem
+stem zes mees mei mende verhit hut een
+witte uw versus witheet uiteenzet vuren
+meenemen wei eieren mieren tent evenmin
+uitdien mens treuren mist wederzijds
+heen reis uitrust trui snuit duurt net
+;zoek woorden jtzxyqhsnwidurefmv
+trix#termiet   terreur   het   trix
+reist#ets   vieren   tint   reist   tuin
+heen#nieten   winst   een   heen   twee
+wie#tv   fijn   verweer   wie   mest
+sterf#dit   witvis   neuzen   sterf
+te#zee   vriend   smeer   te   reden
+drie#stuw   reden   drum   drie   mus
+miniem#meest   duif   tem   miniem
+vee#ruis   verf   tref   vee   id
+duren#fiets   zusters   wijzen   duren
+vreemd#eentje reed uurtje vreemd jut
+tussen#twee wijn muizen tussen uitdiende
+missie#uitwis zwemvest zwemmen missie
+zeer#uiterst te zeer eet fusie wens tuur
+uitvis#mede weeshuis dutje uitvis minder
+verte#nis eed verte minus extreem smet
+frieten#verhef zwermen wijsjes frieten
+nut#justitie mieren feesten nut zwerm
+vieren#turf ruit vieren verste wist quiz
+frees#men reuzen frees je fietst ferme
+;type letters jtzxyqhsnwidurefmv
+$n   j   d   x   s   v   y   z   i   m
+$h   x   q   u   i   v   e   r   w   y
+$t   h   e   w   r   j   i   s   u   v
+$j   t   s   r   q   e   h   y   d   i
+$x   i   d   s   u   w   r   y   v   j
+$x q v w r d m u i z s t j n
+$e j v y t m r x u i h f s q
+$j v i h q r d z n s t y m x
+$h z j q t e w v m n r s y d
+$i r q w u s y v t z x e f d
+$f f f i z t z h
+$z j v y f j f w
+$x z h r q f y d
+$y q r y e u d u
+$q s z r y w j e
+;type woorden jtzxyqhsnwidurefmv
+$meester
+$fietser
+$enerzijds
+$zei
+$versuf
+$ruwe uitdien steun
+$wei tuurt fier
+$zwemmen instrument zie
+$eerste wezen ver
+$hieruit ren runderen

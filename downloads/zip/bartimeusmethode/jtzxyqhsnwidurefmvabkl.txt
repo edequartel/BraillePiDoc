@@ -1,0 +1,102 @@
+abdefhijklmnqrstuvwxyz
+;lees letters jtzxyqhsnwidurefmvabkl
+a   q   m   r   n   s   e   d   x   v
+t   v   w   a   e   l   f   r   m   u
+q   k   n   i   e   u   m   z   s   d
+b   a   v   i   z   r   t   h   y   m
+n   d   b   h   k   i   t   s   z   f
+s x q m j d a t f z y l h n
+t s d m r z x w e j f a n h
+z b x u l s d m w j y t k i
+y t q e z j m u b i w d f k
+u z d w a r x j h l f y i q
+u q s m x q a x n v s l q r
+u d a f q z x f v n u t e v
+j z u d x f w b d r r s s u
+q t e w e k f q t u m j b d
+k h l q k b k x l x m b m t
+;zoek letters jtzxyqhsnwidurefmvabkl
+e#l   t   a   x   e   q   r   m   j   d
+q#w   j   v   b   q   h   k   r   a   z
+j#f   d   x   z   j   n   t   b   q   h
+e#x   s   t   w   e   u   j   a   q   i
+v#a   x   y   t   v   d   l   j   i   u
+q#h   n   m   u   q   y   w   z   v   j
+r#v   e   r   z   r   n   a   f   m   s
+y#b   r   a   j   y   d   n   t   e   r
+k#r   y   w   h   k   r   z   y   i   b
+e#s   v   j   u   e   e   v   s   s   z
+z#r x e v z l d i u j f t s a
+n#r v u k n q t d h b e s z m
+e#f l a d e r n y q j z m w u
+t#s f q n t e m k a y b r x i
+n#a j l q n y b w v d m u h e
+s#t k y n s f i y n a m l t i
+j#a u z n j q a l r t j w h b
+z#a a r s z z x u j e q d f t
+y#a z x h y j i z w y w u z q
+h#a n e q h b v f v v e e i i
+;lees woorden jtzxyqhsnwidurefmvabkl
+mentaal   vreedzaam   witvis   bit
+kat   sjaal   zei   zee   kaaiman   hek
+stuwmeer   draaideuren   huisdieren
+materie   duren   krediet   waarde   ei
+kwijt   kantine   heisa   alsmaar
+verbras balk harde kabeljauw vrij sla
+havens eveneens blanke afbrand verft kas
+tafel daden ei blanken brilletje telex
+leidinkje bieden snavels heks had eitje
+aai bestuur zet afsturen fiets wees risk
+vermaan indruk zusters inwinnen zestal
+stadsdeel zekerheden abuis vakantie teer
+stelsel misbaar straks duiken betreden
+vies buitenhuis artsen matrassen lal
+verkeerde rest kern sandaal mik versier
+;zoek woorden jtzxyqhsnwidurefmvabkl
+tevens#lijm   tevens   ijs   wei   her
+vreselijk#vreselijk   raak   veelal
+term#file   eventueel   lekkere   term
+nier#waarvandaan   sluimer   blaf   nier
+levert#kers   kreun   leen   levert
+taart#zus   winterweer   knel   taart
+kalm#vent   kalm   zulk   teniet   wrede
+zeldzaam#zeldzaam   verdwenen   snaar
+kwijt#mama   kwijt   aaide   fik   huur
+bekendst#bekendst   kameraad   afmeten
+weerzin#verbreek waak kardinaal weerzin
+werkte#reken werkte aflezen snuif bakt
+verband#betekenis uitneem strijd verband
+reed#beleven reed matras masker uitdun
+luisteren#mies luisteren hem meubels lam
+verhef#sint verhef verleden muf haalt
+leeslust#liever vijf alfabet leeslust
+abuis#vermaan abuis vla herlees quark
+nasmaak#afkeer elf restaurant nasmaak
+breedte#kelken breedte ermee vlies buis
+;type letters jtzxyqhsnwidurefmvabkl
+$d   z   s   x   b   e   m   k   a   r
+$a   u   h   t   s   m   x   i   d   l
+$f   n   t   d   k   l   z   m   j   q
+$e   a   b   f   u   w   z   n   y   j
+$u   s   m   z   e   r   x   l   v   b
+$q n t s k b j u d m l x v r
+$l v x j d b m w i f u r e k
+$m b q s l k z a e u d n w y
+$t x y e u l i d q m v z b s
+$k x r y e b t m n z v a u l
+$x k z v t a d d
+$h i i s u v r t
+$q b r d b f l d
+$y h f e q e s j
+$z f a a u r f i
+;type woorden jtzxyqhsnwidurefmvabkl
+$bier
+$verwater
+$kleintjes
+$wijd
+$knikkeren
+$draaideur vin zwemt
+$kasteel uitlezen tezamen
+$verjaar melkvee kademuur
+$hiervan hink zelden
+$beslist aanhebben wederzijds

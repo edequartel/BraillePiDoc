@@ -1,0 +1,26 @@
+abcefghklmnopsvw
+;lees letters hsnwefmvabklcgop
+k   v   g   h   a   w   m   c   o   s
+e f a s m h k o p n g l w c
+o s b s n b g s l c v p e k
+;zoek letters hsnwefmvabklcgop
+b#b   g   o   h   v   c   m   a   p   k
+p#p   s   m   e   m   w   l   w   h   m
+g#h n k m g v e p l b a f o w
+n#p p k c n s b n s c h a o f
+;lees woorden hsnwefmvabklcgop
+memo   nam   kolonel   hal   eens   walm
+samenhang opga bewees knap wals ha loef
+omega bos knaag gebak nagels hees omslag
+;zoek woorden hsnwefmvabklcgop
+op#op   volg   sloeg   nevel   collega
+gaf#gaf   koek   laan   lel   hengel
+gevolg#gevolg eef veelhoek aanhaken loon
+omvallen#omvallen pel schoen opwel haven
+;type letters hsnwefmvabklcgop
+$g   c   a   b   h   v   f   m   s   k
+$w b c s g k m l o h f p n v
+$p m k c w b a l
+;type woorden hsnwefmvabklcgop
+$wegsla
+$lampen bewoon welkom

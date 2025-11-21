@@ -1,0 +1,40 @@
+i d r u
+u d i r
+d i r u
+i r d u
+u r i d
+r u d d u
+u r r i r
+u d r i r
+i u i i u
+i i i i u
+u#duur id ui uur uur
+r#duur rui ui rui uur
+r#duur ui duur ui uur
+u#duur duur rui duur duur
+r#duur uur duur id uur
+i#duur uur rui rui ui
+u#duur rui id ui duur
+u#duur duur duur uur id
+d#duur id uur duur id
+i#duur uur ui id ui
+ui rui uur duur id
+id rui ui duur uur
+id uur duur ui rui
+rui uur duur id ui
+rui ui id uur duur
+duur ui id duur uur
+uur id duur id id
+uur duur duur id uur
+uur duur duur id rui
+ui uur id id duur
+ui#ui duur ui ui duur
+ui#ui ui id uur rui
+ui#ui duur id duur rui
+ui#ui id duur duur rui
+rui#rui rui duur id rui
+rui#rui ui uur id rui
+rui#rui id ui rui ui
+rui#rui rui rui ui ui
+id#id uur rui ui ui
+id#id duur id uur ui

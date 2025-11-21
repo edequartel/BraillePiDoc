@@ -1,0 +1,40 @@
+m v f e
+v e m f
+e v m f
+f v e m
+f e v m
+v e m e e
+m m v f m
+m f v f e
+m e m m f
+m v m v v
+v#vee fee eef eef vee
+e#effe mee mee fee fee
+f#fee fee eef eef me
+v#vee eef effe vee me
+m#me fee me me fee
+f#fee vee mee eef fee
+v#vee me vee eef fee
+m#mee me eef effe fee
+m#me vee effe vee fee
+f#fee vee fee eef effe
+me effe fee vee mee
+fee vee me effe eef
+me effe vee mee eef
+vee mee eef fee effe
+vee eef mee fee effe
+vee fee me fee me
+mee fee mee me me
+mee effe vee vee fee
+mee vee vee mee fee
+me vee eef eef effe
+effe#fee effe effe me effe
+effe#eef me fee effe effe
+effe#vee me me fee effe
+effe#mee vee mee eef effe
+eef#me vee mee effe eef
+eef#fee mee vee me eef
+eef#effe effe eef eef eef
+vee#eef eef effe fee vee
+vee#mee me fee vee vee
+vee#vee eef fee vee vee

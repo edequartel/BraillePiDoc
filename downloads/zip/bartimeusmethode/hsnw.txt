@@ -1,0 +1,57 @@
+hnsw
+;lees letters hsnw
+w   s   h   n
+h   n   w   s
+h   n   s   w
+w   h   s   n
+h   s   n   w
+h n s w
+w h s n
+w s h n
+h s n w
+s n h w
+n n h s w w s w s w h n n n
+h h h w s s w w n w h w w w
+h s w h n w w n n h n h n n
+n w w s w h h n n n w h s s
+h s s w h s w w n w w h s n
+;zoek letters hsnw
+w#w   s   h   n
+h#h   w   s   n
+w#w   n   h   s
+w#w   n   h   s
+w#w   s   h   n
+h#n   s   n   n   n   h   h   h   n   n
+w#h   h   w   h   h   w   n   s   n   h
+w#s   n   n   s   n   w   w   s   s   h
+w#n   h   h   n   w   w   h   s   h   s
+n#w   n   w   w   h   n   h   s   w   n
+s#s n h w
+n#n h w s
+s#s w h n
+s#s h n w
+s#s w h n
+w#s n w s n s w n w s w w h s
+s#h w w s s h s h n s w s h s
+h#w w s h w n n s n h s h s h
+n#h h n h h w s h n w h n w n
+w#s h n s s s s h n h n w n s
+;lees woorden hsnw
+;zoek woorden hsnw
+;type letters hsnw
+$n   s   h   w
+$n   w   s   h
+$n   w   h   s
+$n   s   w   h
+$n   w   s   h
+$n w h s
+$w s n h
+$w n s h
+$n s h w
+$n h s w
+$s h h w n n w n
+$h n s h s n h s
+$n w w n s w s n
+$n w s s h w n h
+$s h s s h n n n
+;type woorden hsnw

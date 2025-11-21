@@ -1,0 +1,26 @@
+abcefghjklmnopqstvwxyz
+;lees letters jtzxyqhsnwefmvabklcgop
+y   a   s   f   m   k   c   x   l   t
+q o b z s a h t e v p k y f
+q s h b x s j y z w s h x b
+;zoek letters jtzxyqhsnwefmvabklcgop
+o#y   h   j   b   f   x   m   l   p   o
+p#q   f   t   w   c   m   a   w   c   p
+a#x o c p m l e t n b a g h y
+q#v z e l w m t f y g q h s a
+;lees woorden jtzxyqhsnwefmvabklcgop
+opeens   choke   mogen   klachten   vals
+bleef lepel besta sloten heen tegenspel
+bent totale toenam voetveeg best toeneem
+;zoek woorden jtzxyqhsnwefmvabklcgop
+toekomst#slaap   toekomst   polo   kam
+symptoom#symptoom   koepel   veelal
+helaas#geweest tellen stapel helaas aal
+gaf#aanknopen bellen pakezel polka gaf
+;type letters jtzxyqhsnwefmvabklcgop
+$q   f   j   v   x   k   b   l   e   p
+$m b q l v n k x p s y o f j
+$p x n x y t f p
+;type woorden jtzxyqhsnwefmvabklcgop
+$pakken
+$pop zal getallen

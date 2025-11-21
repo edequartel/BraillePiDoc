@@ -1,0 +1,40 @@
+a b k l
+k l a b
+a l b k
+a k b l
+l k b a
+b b b k l
+a a a b k
+l a k k a
+k a k k b
+k a b l k
+b#ba balk ba aal bal
+a#ba lal kaal baal al
+l#bak kaal ba lak lal
+l#kaak al lak lak aal
+b#kaal ba bak la aak
+l#kalk bal klak balk kaal
+l#la bal al bal kaak
+k#lak balk kaal bak balk
+a#aak kaak aal bak balk
+a#aak lak bal kaal kaal
+kaal ba lal aak lak
+al aak aal bal baal
+bak kaak ba aal lak
+kaak aal klak bak bal
+kalk lal klak baal kaak
+ba kaal kalk bal baal
+baal kaal al bak ba
+bak lak kaak lal la
+bal ba lak ba lal
+kaal klak kaak ba aal
+al#al bal aak lal kaal
+ba#ba balk balk lak kaal
+baal#baal kalk lak balk al
+bal#bal kalk bak balk aal
+balk#balk lak klak aal kalk
+kaak#kaak al aal kalk ba
+kaal#kaal bak balk baal klak
+kalk#kalk kaak lak lak bak
+klak#klak klak baal kaak lak
+la#la lal kalk al balk

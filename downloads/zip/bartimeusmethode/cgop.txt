@@ -1,0 +1,102 @@
+cgop
+;lees letters cgop
+p   c   g   o
+c   o   g   p
+p   g   c   o
+p   g   c   o
+p   g   c   o
+o c p g
+o c g p
+p c g o
+g p c o
+g p o c
+c o p o p c p c c o c p o o
+p c g o o p o c g p p g c g
+g g g g o c c o o o p o o c
+o o g c o g o p o c c c g o
+c p g p g o c c p p c o c g
+;zoek letters cgop
+c#o   c   g   p
+g#p   g   c   o
+g#c   g   o   p
+c#g   c   p   o
+c#o   c   g   p
+p#o   o   o   g   o   p   c   c   g   p
+o#g   c   g   o   o   o   g   c   c   o
+p#g   c   p   o   g   p   p   o   p   p
+g#p   p   c   p   g   g   c   c   o   c
+o#c   p   o   c   c   o   p   g   c   g
+g#p g o c
+g#c g p o
+g#c g p o
+c#o c p g
+p#c p g o
+p#c o c p p g o p c c o p p o
+c#c g g p c g g g g c o o g g
+g#g c p o g o g c o g c p o p
+o#o p g o o o c o p g p p c o
+p#p g p o p p g g p o g p c g
+;lees woorden cgop
+oog   po   op   pop
+op   po   oog   pop
+op   oog   pop   po
+op   po   pop   oog
+op   pop   oog   po
+oog pop op po
+oog op po pop
+oog pop op po
+oog pop po op
+pop op po oog
+op pop pop oog pop oog op op op oog
+oog po oog op oog pop po op oog po
+po op pop op pop oog op op pop po
+oog pop oog pop oog po op pop po po
+pop op po po op oog op oog op po
+;zoek woorden cgop
+po#po   pop   oog   op
+pop#pop   oog   op   po
+pop#pop   po   op   oog
+po#po   pop   oog   op
+po#po   pop   op   oog
+pop#po   pop   pop   op   oog   oog   op
+po#po   oog   po   op   pop   oog   po
+oog#po   op   oog   po   po   op   po
+pop#po   pop   pop   oog   oog   po   po
+op#op   po   op   pop   pop   pop   oog
+oog#oog pop po op
+op#op oog po pop
+oog#oog op po pop
+oog#oog pop po op
+pop#pop po oog op
+op#op pop po oog po op po po op op
+pop#pop po po op po oog oog op op pop
+po#po oog po op pop pop op op oog po
+op#op pop op op po oog pop po pop op
+pop#pop po oog op op oog po po po op
+;type letters cgop
+$p   g   o   c
+$p   o   g   c
+$p   o   g   c
+$p   g   o   c
+$o   g   c   p
+$g c p o
+$g p c o
+$c p g o
+$c p g o
+$c p o g
+$p g c p c p o g
+$g g c c g o c o
+$p g c o p p c c
+$p c p p g p g p
+$g p p c c c g g
+;type woorden cgop
+$pop
+$pop
+$op
+$pop
+$op
+$po pop oog
+$op po pop
+$oog po pop
+$pop po oog
+$po oog op

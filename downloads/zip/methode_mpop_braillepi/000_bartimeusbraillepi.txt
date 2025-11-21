@@ -1,0 +1,968 @@
+//=== abkl ===
+l a b k
+k a b l
+l k a b
+l b a k
+k b l a
+l b k l b
+k a l k a
+b a l l a
+b k l k a
+b k k l b
+k#kaak kaal kalk kaak lal
+l#bak al kalk kaak kaal
+b#lal bak bal ba bal
+a#balk balk baal balk klak
+a#lal kaak baal balk kalk
+b#bal kalk bak bal kalk
+k#la klak kaak aak ba
+k#baal la kaal lal al
+l#kaal lak la kaal klak
+a#aak lal aak ba baal
+ba kaak balk baal aal
+lak aak balk bak lal
+bal al bak kaal baal
+aal bak lak kaal balk
+kaal balk klak lak la
+la lak lal kaal al
+ba lal al ba klak
+kaak aak balk balk lak
+lal aal kalk aal bal
+baal aal aal bak kaal
+ba#klak ba al bak kaak
+baal#al baal al baal balk
+bal#kaal bal ba ba balk
+balk#aak balk bal lak aak
+kaak#bal kaak kaal balk kaak
+kaal#la kaal la aal al
+kalk#ba kalk aak kalk kalk
+klak#kaal klak baal baal ba
+la#aak la balk lak la
+lak#bak lak kalk kaak bak
+//=== cgop ===
+c g o p
+p c o g
+o p c g
+o p g c
+p o g c
+g o c c g
+c g p p g
+p g p c g
+p g p o o
+p g o o o
+g#oog op pop op op
+p#pop oog oog op pop
+p#pop po op op oog
+p#pop op po pop po
+p#pop oog pop pop pop
+p#pop oog pop pop oog
+p#pop pop pop po op
+p#po po oog oog oog
+p#po po op oog op
+o#po op op oog po
+oog op po pop
+op oog pop po
+oog pop po op
+oog op pop po
+oog op pop po
+oog po oog oog po
+oog op op oog pop
+oog op op po po
+oog po op oog po
+pop po op pop po
+pop#pop po op op op
+pop#pop po po op po
+po#po op po op pop
+po#po oog pop po po
+po#po oog pop po pop
+po#po oog oog oog po
+op#op oog oog oog pop
+op#op oog oog po pop
+op#op pop op po oog
+oog#oog oog op oog pop
+//=== abklcgop ===
+b p a c k
+a k c g l
+k a b p l
+l a o k g
+l p o b a
+l c o p a
+p a c c g
+c p g g c
+g k g c g
+p k b l o
+p#pappa pa pook kalk al
+o#ook blok koop lag log
+l#pop opklop gap gok logo
+l#galop klop baal baal logo
+o#bok bal oploop klak kol
+p#kok lap papa oplap gok
+o#la log polka poolkap baal
+l#aal kol kaap gala pak
+a#pappa balk bak lal loop
+l#klak polka kook pa kook
+opkoop kopbal kolk gap gal
+gok balk kaap pap logo
+klaag gap balg klok laag
+pal galop ga aap koop
+polka klop pook lak klok
+klok pal cola gal paal
+goal la po lak loog
+lal pap gok logo kalk
+pap gal loop loog ba
+polo gala opa pak oppak
+lal#ba galg oplap al lal
+klaag#laag bal cacao gok klaag
+cola#klop opklop plak lokaal cola
+poolkap#plaag log kaak pappa poolkap
+opkoop#klap kol op bok opkoop
+laag#kool kolk opklop kaap laag
+galop#boog lokaal kool kolk galop
+aak#pal oppak cola lal aak
+opklop#polo pa galg opklop opklop
+lag#kol look lol aap lag
+//=== efmv ===
+m v f e
+v e m f
+e v m f
+f v e m
+f e v m
+v e m e e
+m m v f m
+m f v f e
+m e m m f
+m v m v v
+v#vee fee eef eef vee
+e#effe mee mee fee fee
+f#fee fee eef eef me
+v#vee eef effe vee me
+m#me fee me me fee
+f#fee vee mee eef fee
+v#vee me vee eef fee
+m#mee me eef effe fee
+m#me vee effe vee fee
+f#fee vee fee eef effe
+me effe fee vee mee
+fee vee me effe eef
+me effe vee mee eef
+vee mee eef fee effe
+vee eef mee fee effe
+vee fee me fee me
+mee fee mee me me
+mee effe vee vee fee
+mee vee vee mee fee
+me vee eef eef effe
+effe#fee effe effe me effe
+effe#eef me fee effe effe
+effe#vee me me fee effe
+effe#mee vee mee eef effe
+eef#me vee mee effe eef
+eef#fee mee vee me eef
+eef#effe effe eef eef eef
+vee#eef eef effe fee vee
+vee#mee me fee vee vee
+vee#vee eef fee vee vee
+//=== efmvabkl ===
+b e f v k
+a v k e f
+b e v f l
+k b m v e
+k m f b e
+b b v v e
+l l f f l
+l k v m l
+k l m m v
+b k a v v
+a#maal kalk beveel faam baal
+a#aak fabel kalm leek ma
+b#bleek bleek bevel km blaam
+a#kaf mal beek kaf kaak
+a#fakkel allemaal lam beek klak
+e#fee meel vale veel vel
+m#bevel maf klem leek maal
+l#alfa lef bek kaf kleffe
+a#veel lal mamma bak fabel
+k#mee km kam mek ba
+lak leef melk vla fakkel
+ba laffe veelal vlak bel
+eb lekke val meeval fakkel
+fakkel meel aal leef bal
+fee la fabel keek lal
+afvalbak effe val la kelk
+valk bevel klem elf effe
+lel maak fee vele lel
+klef eef bal leek beek
+bleek kalf baal fakkel eef
+bak#eb bakmeel kalf bak maak
+vaak#beveel keel melkvee vaak melk
+lak#al kabel klak lak lamel
+fakkel#vee fabel bakmeel fakkel kalm
+alle#melkvee lava laffe alle km
+me#maak laf blaam me fee
+klem#lal klam mek klem bak
+eef#kek kameel kek eef val
+aak#kalk mak veel aak aal
+lel#blaam elke maal lel kef
+//=== efmvabklcgop ===
+l g m k b
+f b a m k
+v k l f o
+l k c e f
+o l g e b
+b l k c o
+k v v c p
+v v k m p
+o a p b k
+l a m e b
+k#flop klam lek kok meegaf
+o#maag om vlek leeg galop
+k#klaag eb elke kap pomp
+a#pep leeg plak aal meeval
+p#la opgeef poolkap vale geel
+l#klomp keep val lam omgaf
+v#kaak kook omkeek volk volk
+l#vaak fakkel melkkoe leem bagage
+o#mag koe leo palmboom koele
+p#galm melkkoe loom op allemaal
+keel melkvee bloem aal plak
+of lel pal pof gevolg
+volk voel vak lal cafe
+vak lekkage veel bepaal loop
+pep bol vlag mee bek
+poema melk ovaal look gok
+bok loofboom mok boef vlo
+bakmeel moe lama loog foef
+maag vlak gal balg bevoel
+plek poef boef lepel omloop
+bevel#boef opmaak aal bevel klepel
+mag#oma lekkage vele mag kool
+bomvol#bomvol pak bob label vlo
+vale#vale afvalbak gala memo omkom
+legaal#legaal plak klaag omval oploop
+balk#balk omlaag appelboom meeval bal
+loep#loep ma moe lomp gevolg
+bevoel#bevoel lage kap lava lek
+loog#loog kek afgeef kok oppak
+afgeef#afgeef voeg bloemkool gaf klomp
+//=== idur ===
+i d r u
+u d i r
+d i r u
+i r d u
+u r i d
+r u d d u
+u r r i r
+u d r i r
+i u i i u
+i i i i u
+u#duur id ui uur uur
+r#duur rui ui rui uur
+r#duur ui duur ui uur
+u#duur duur rui duur duur
+r#duur uur duur id uur
+i#duur uur rui rui ui
+u#duur rui id ui duur
+u#duur duur duur uur id
+d#duur id uur duur id
+i#duur uur ui id ui
+ui rui uur duur id
+id rui ui duur uur
+id uur duur ui rui
+rui uur duur id ui
+rui ui id uur duur
+duur ui id duur uur
+uur id duur id id
+uur duur duur id uur
+uur duur duur id rui
+ui uur id id duur
+ui#ui duur ui ui duur
+ui#ui ui id uur rui
+ui#ui duur id duur rui
+ui#ui id duur duur rui
+rui#rui rui duur id rui
+rui#rui ui uur id rui
+rui#rui id ui rui ui
+rui#rui rui rui ui ui
+id#id uur rui ui ui
+id#id duur id uur ui
+//=== idurefmv ===
+m e f r v
+u m i e f
+d v i r m
+d r f m v
+e m d i v
+i v i r u
+d f u d u
+v v d f e
+v v d f d
+m i i v d
+e#iedere mum deed rivier reed
+m#meid ermee mie idee mei
+d#eerder verf ferme eed der
+r#vier muf mee verre rum
+r#iedere meerde derde fuif verder
+r#die me mede vrede vierde
+e#muf id de idem deed
+d#durf fee ieder vreemde dim
+e#riem verre drum fuif veer
+r#effe ver mier vrede verre
+duur duif duurde duurder riem
+dim vreemde deed idee duurde
+riem veer drummer drie vuur
+ermee meerde eerder ruim rivier
+de effe id fuif me
+verre mier deur rem er
+ieder meer medium duurder fier
+vuur ree erf mie uur
+iedere veer duif vuur durf
+der fee veer fuif vrede
+meid#meid ei ei vrede der
+duf#duf eed ui idem dim
+riem#riem duim eerder vuur duif
+eer#eer rem vierde fuif verre
+uur#uur eef meid verduur mum
+erf#erf ui duurder emmer fee
+vereer#vereer er verf ruim drie
+fuif#fuif verduur meer duur ver
+vreemd#vreemd fier durf red mei
+medium#medium erf ree duif muur
+//=== idurefmvabkl ===
+a l f b d
+d u m l v
+v u k d f
+k i m l r
+l i a b r
+i f m i k
+m i d i e
+r v l b r
+l v a k e
+v r m a e
+l#verduur malaria felle la
+u#kuil liever bureau ferm deel
+f#fee afkeurde brief vlier au
+a#muur verf klef kaai kiem
+m#ree meeval mum klem arbeider
+a#verdraai vreemd adel kaf alarm
+f#beleefd krik dief rumba kreuk
+e#verdeel die berm dim vader
+e#liefde vla rare derde raar
+l#ei dal daar lalde blaam
+dame vakblad kerel rubriek deurbel
+maalde deel fuif flik felle
+meubilair duf adem de klef
+dakraam braam rumba krul kaf
+verdraai verbaal erf berk viel
+bad verdraai eraf red vale
+vakblad leek dal daarmee buur
+duimbreed vuurbal vierde elk verkeerd
+deur leider ieder aardbei kalk
+eik braak imker breukvlak riem
+meel#kever luim beval lever meel
+aarde#ruiker ba bereid kever aarde
+braai#ui beveel klief aar braai
+kim#verduur brie duikbril via kim
+verduur#aar maf drama bevaar verduur
+lade#draai maakbaar effe krekel lade
+verder#effe meeval beker kleffe verder
+kever#milieu lam lurk verre kever
+vaal#vaal duikbril allemaal klimrek
+bever#verbaal luilak dik vader bever
+//=== idurefmvabklcgop ===
+f m c e r
+b d v g a
+o m r i v
+c k l u m
+k p c e u
+g k v k r
+m a f p a
+c b b e l
+f b a a v
+o b v c r
+e#look veegde bullebak kei beide
+a#gevaar collega buur beval opdoe
+l#lieve erdoor aardbei remblok balk
+g#loofboom vork rare maag vurig
+k#lukraak dikke opkoop vergif klem
+l#keurig vlaai berk circulaire
+m#adder roer probleem filmdoek
+e#valreep vermom kaai over mooie
+o#lekke grol laffe cup lepra
+e#bakmeel codeer rimboe verleg griek
+voorlag lepelaar brie lamel rik
+gemoed fel droge greep april
+brulaap iel cafe krui vroeger
+vervolg krimi beloofd melig vla
+oma pilaar maai kapel vakblad
+boeg gelige bloei mal bomvol
+melkfabriek braak kid glip vervolg
+beleid bergmeer gemiddeld po pa
+larf alfa ei deel lel
+appel red luur viool grap
+drama#melkvee kleed galg baar drama
+dolk#verlof rik pop palm dolk
+oorlel#vooral brug prooi oorlel
+luid#koerde kever vergok lui luid
+kelk#vooral dik drom geluk kelk
+druif#krimp vork lila bloembak druif
+aardig#vaal bood bevaar daalde aardig
+poema#drummer droogrek mee drummer poema
+look#demo leger look opdiep oer
+mikado#koel mikado perk roerbak brulboei
+//=== hsnw ===
+n h w s
+h w s n
+n h w s
+w h n s
+w n s h
+s w n s n
+n w h h n
+s w h s n
+s h h w h
+h h h h h
+//=== hsnwidur ===
+n h r u d
+d w i s r
+w n s i u
+u d h w i
+h n r i d
+n u u i s
+r n n h s
+i i i r h
+u r s i w
+r d u s s
+r#ruis sinds huis uw huis
+d#druis wind druis huid sus
+i#induw urn nu nu induw
+u#ui sis duin uur dis
+u#uw huis duin sinds nis
+r#ruw duw wind huid sis
+u#ui huur sus dis urn
+r#ruw rui dis hun urn
+h#huid dus is huis in
+i#induw duw induw dis win
+ruis in dus hun ruw
+uw huid nu wind dun
+inwin duw duur huid ui
+ruw huur dus sis huid
+rui huis duur wind ui
+duw sinds sis uw urn
+huis dis dus urn duur
+dus sinds nu dus ris
+dis induw wis inwin wis
+win dun in sis induw
+uw#hun dis uw druis druis
+hun#id huur hun dis in
+uw#duw induw uw in huid
+wind#wind sis wind uw uur
+induw#ruw urn induw nis id
+urn#nu nis urn urn sus
+duw#rui urn duw ui dun
+id#druis wind id dis uw
+sus#win ruis sus huur huur
+is#dun id is druis inwin
+//=== hsnwidurefmv ===
+d n u m s
+u n i w d
+d h s u e
+i r v d m
+n f h r v
+f m d w h
+d s u h r
+m e r w n
+h h u h f
+i n r i h
+d#defensie riemen vrede eenden werd
+i#vrienden hun ruim heen neef
+w#rees huur ruw men nis
+e#weduwe riem ineen idem reus
+i#minimum nu weeshuis durf sier
+n#durf mus meren vies uur
+e#sinds mie die ree verneem
+e#heus mees neus iedereen vinden
+r#muur huif duif herrie missie
+e#verf ene nummer erin einde
+vuren huur sfeer hei druif
+drum heer duur fuseren hens
+in neer vers eenheden huisdier
+deed sneeuwen meneer inwin nieuw
+hei verhuur drum verhef mees
+eind mie dief ruis des
+vuur eveneens inwinnen duurde riem
+meneer wis huur eieren fris
+dieven neem iedere rende ei
+nieuw hiermee hinder sein veer
+eerder#eerder visum huisdier eend sirene
+sis#sis ridders hen eren heus
+eveneens#eveneens nemen eer vies muur
+vrede#ineens minderheden rennen vrede
+mede#mede uw effe hees neen
+weduwe#weduwe deunen versier een messen
+mensen#mensen redden vissen duin fier
+dis#dis muren hun durf verre
+rees#rees menu verf duw iris
+drummer#drummer dim rivieren vind ruim
+//=== hsnwidurefmvabkl ===
+h d r s v
+d i k u w
+k v f b s
+s m u v f
+n u w k m
+e w i h b
+b d h l i
+f i h w b
+u w h r u
+e r s a a
+n#sinds binnenlands lever durven
+b#neef nies val ba allerlei
+u#buurkind kwark kneedbaar eeuw
+s#ruiker dek walvis wal huiswerk
+a#dam buk vulkaan dreun lik
+s#man blauwe vis laken smal
+d#eef afmeren de nam hand
+n#visum walm kraaien verhalen vers
+a#lande veen snak ader kalf
+n#filmen is minderheden
+induw bal buur haalde bink
+markies dwars larve bewees bleef
+baai diverse label kalender handel
+krakeel dame kruim radar lal
+hans daden veen behaal lelie
+ruw klaas dranken bel bad
+inbreuk herwin lade duwbak maaien
+druis deelnemers brandweer elkaar knul
+vervul weekblad rem bedanken verwen
+ras sluik hem besef sirene
+mama#mama mensbeeld blaffen werkende
+klaas#invul klaas lieren bras landen
+fik#duin fik deelnemers bukken kan
+bundel#kneed bundel brink duwbak bluf
+wild#wal wild keer denk danken
+sluik#brik sluik duikel nevel huifkar
+hemel#dreun hemel versier blaffen lied
+half#riek half armband werkverkeer
+wel#warm wel km dranken klaar
+kieuw#binnen kieuw suiker daarin linker
+//=== hsnwidurefmvabklcgop ===
+d o n s a
+i w e k h
+c u p f s
+u m b n f
+k a u g v
+r a k o v
+l e p h b
+c u p r p
+c w p k d
+b n u f v
+r#eerbied verbrak welp oerbron
+g#slaan vliegen melkpoeder elk
+e#bovenrand speelgoed aandoening
+r#manege perk kiel klassiek
+e#aangaf huigen bovenloop omwaai
+e#waarmerk kiem kameel darmen kon
+i#branden allebei vlieger olieboer
+n#geheel pension kennen bende hups
+u#chef vergeleken inclusief
+l#wandelschoen leeuw afkloppen
+helling overgang werkkamp vaderdag pal
+kriskras draag nuk raai wekken
+kussen spiegel kraai beren gebaren
+luider fraai veewagen beveel veranker
+boenwas allen sociale muildier krik
+roman haal bus daarom drieklanken
+waarmee drempel spreekkoor huifkar heup
+inworp kom aanleunen held proef
+ervaringen dame loeien vergeef vuil
+plank band speelde beelden hierin
+overgaf#lompen aanbreken gewoel overgaf
+aangenaam#uurwerk nagaan aangenaam
+opening#opening baron flauwekul verklaar
+visa#visa deurbel dalen brand
+vakwerk#slap lariks punk vakwerk weken
+varen#varen bed leraressen volgens
+verschil#hos verschil kleren das hou
+slis#wegval slis oorsprong verdun
+proces#saldo proces verdiep houding
+luider#arriveren luider verkeerd vaak
+//=== xyq ===
+x q y
+x y q
+x q y
+q x y
+y x q
+q q q x y
+q q x x y
+q q y y q
+q q x x x
+q q y q x
+//=== xyqhsnw ===
+h x s n y
+h y x q w
+n x s h w
+w y h q n
+x q y w n
+q q s w s
+y x q x n
+n q q x h
+q h q w q
+n w q y h
+//=== xyqhsnwidur ===
+s y i r w
+w u d i h
+n d y r x
+y s h w d
+i h s r y
+y u h n s
+q u y u d
+w y n r d
+h r d d y
+r h u n y
+r#duur duur is sis uur
+r#druis ruw ris hun uur
+s#duin sus dun urn huis
+i#dun uur ris in rui
+s#sus uw hun is wis
+s#sus sus hun uur huis
+s#dus sinds dus ris ris
+w#iris ruw wis id uw
+d#ui rui urn dun huid
+s#ui nis urn inwin is
+wind iris huur sus huis
+druis duw hun uw win
+duin hun sus inwin huur
+dun in hun wis ruw
+dus iris ui nis duin
+nu huis ris duin sus
+win huid inwin urn duin
+huid wind ui in huur
+huid uur ui sinds ris
+huid sis urn duin uw
+duur#huid rui uur induw duur
+nis#win ruis nis nu nis
+urn#huis ris in huur urn
+dus#hun iris in ruis dus
+induw#hun in induw dis induw
+sis#rui huur huis sis sis
+dis#rui duw huis dun dis
+hun#rui duin hun inwin hun
+ris#rui wis hun ui ris
+uur#rui uur huur dus uur
+//=== xyqhsnwidurefmv ===
+v y x u n
+r q u h y
+h i u n d
+d e v y f
+m v s f n
+d y f r w
+y e h h q
+f n i h y
+h x r h r
+n w x h v
+u#sier mum verven veen suf
+e#duw huif eeuw frees duiven
+d#wuif me neus minimum sinds
+n#rende her mieren veen eveneens
+e#mies die uw huiver ruimen
+e#ieder uur dief vriend duurder
+e#verre meer men duwen muren
+i#her duinen visum ieder win
+u#eend versier eer wees medium
+i#erheen meer uur verhuur verfris
+verwens deun wuif mes rem
+hierheen individu sis duurder immers
+ieder huisdier meneer smeren vuren
+ree eed nee reeds inwinnen
+meren wens ridders muf virus
+mis missie vind erf sirene
+induw hees duwen veer eerder
+meevieren vieren suf ris museum
+mini men hun muren weide
+neus dreun wens meer huisdeuren
+verder#dennen erheen verder verdwenen
+er#vrede men rennen ex er
+riem#urn ene vriend verdwenen riem
+drummen#deuren huiver drummen vies
+mende#hens men wens vriend mende
+verwen#huur drie mus verdwenen verwen
+heimwee#verhef sneeuw de deuren heimwee
+ruwe#heimwee ineens medium frisse ruwe
+duf#huisdieren deden deuren duwde duf
+mies#vereer riemen meiden idem mies
+//=== xyqhsnwidurefmvabkl ===
+q l n i k
+d w m x a
+u f y q v
+d k m r a
+h y w d r
+a b s x v
+q b l u a
+u y r r d
+a d m e m
+s f s f w
+a#smaak arena bek herhaalde nadien
+r#duiken kelder meubilair fuif
+a#mier melkbus akker fladderen
+n#lekkere kerker dies snak waarna
+a#snik reden manier bliksems
+e#melk aanduiden buur kleffe smeren
+i#nier muskus muren kliek kaneel
+b#vanaf alarmnummer hars buk verfris
+k#vale badlaken nieuwe kneed naam
+u#veer vuilnisbak linkerbeen
+helaas drukke melden wars braaf
+menu leraar ram misluk wenk
+sus riks kid nieuws smaak
+wennen waarnemer busreis rende malen
+arbeid kiem ruil been melk
+kwaak waarna daarna lamel klauwen
+maaide kid sambal vervulbaar kraambed
+leuke melkbus baas verlam wals
+leraar muildier kenbaar dankbaar sas
+lekke qua sul kuiken lurk
+melkvee#verkeerde iedereen melkvee druif
+rennen#rennen rul wier des middelbaar
+rel#rel sluwe heisa lakens krans
+rees#rees vakblad raadsel verhalen hans
+rundvlees#kweek brul rundvlees muis
+ruim#ruim quaker lak verbranden inmaak
+urn#urn invul alles verdun al
+sul#kade daad kennen sul vermaan
+imker#leeswerk dim neem imker kennissen
+baas#kaai kef hemel baas museum
+//=== xyqhsnwidurefmvabklcgop ===
+c a m i q
+f a h u q
+s d y q l
+m g r p q
+p d s y l
+u f r w v
+w c k p a
+p r d h r
+s y k n p
+y d w d d
+n#programma koffiehuis dieren
+r#maal voorproef geen ploeg
+s#paashaas daarvoor leeslamp
+i#deskundig kiel gapen wegmaak
+n#agenda de gehoord wegbrak ober
+r#kampioen badkamers kneden
+v#luxe vink overvloed vandaal
+v#nieuwsgierig wegvoer logo lepels
+a#veeg indien legio nonnen nare
+i#eens kabel verhalen mans rivier
+deuk graven aanduiden voorheen schande
+verscheidenheid bus krees leerde rondes
+mal aanhef bedragen roer afspringen
+ramen besluip puik remweg idee
+indien boekwerk hars rel combi
+vrouwen eraf hoofd verblik personeel
+aanvuren vervolgens weerklank krees
+logos klam oer kleren omvang
+fase baken werkweek deed moer
+qua geweer madam voordoen vervelend
+hos#cheque mango hos doop verbrak
+laveer#peper verwees laveer sensor kamer
+kuil#kuil bies even heb avondklok
+kalender#kalender smalle leugen kerel
+ex#affaire neer ex aardbollen daarna
+logo#brons dikke logo manlief wegdek
+lussen#plensbui buur lussen dagen plens
+boekvorm#bergpas moedig rees boekvorm
+verdieping#kaaiman pas room verdieping
+wereldoorlog#dampen orgaan wereldoorlog
+//=== jtz ===
+t j z
+j t z
+z j t
+z t j
+j z t
+t z z j z
+z z t t t
+z z t j t
+t z z j t
+t t j t j
+//=== jtzxyq ===
+x y z t q
+t y z q x
+q t j x z
+t q x y z
+x t q z j
+q y t x z
+y z q y x
+j j z x t
+y z q q x
+x j x x x
+//=== jtzxyqhsnw ===
+n s y q t
+n t q w x
+j s t q x
+t s z j x
+x z y t s
+y n h q w
+h x h h s
+q t t w s
+q n s t n
+y h z y n
+//=== jtzxyqhsnwidur ===
+q z i w x
+q y i h z
+w q x j z
+u d q z j
+j w q z n
+r j h z r
+n z x u n
+u s q z n
+z t t t n
+s y w i w
+r#tijd dit ui rit duurt
+s#nis ris duw rust rijst
+u#jij stuur stuit urn duw
+i#id rit hun duw ruis
+u#zus wijs rust duwt hun
+n#uitdun nu tuurt hij wind
+s#stunt uitzit dj hit sust
+u#nut is jut huid nu
+u#hut dut ruit induw ruw
+j#zin stuit tuurt instituut ijs
+jij uur hit ruit tuinhuis
+rui rijst huis tut tuinhuis
+nu rui tut tin wint
+inzit juni zij ruis ris
+huur id hun in wind
+duurt rijst duur jij uitwis
+rui huid dit twist wist
+ui winst zit in druis
+dut tint wint trui hut
+rits rits wijd hij juni
+ijs#hit ijs wijn rui uit
+dit#iris dit wit strijd stuur
+wij#ris wij dis trix rijst
+stuw#tut stuw zijn hij sis
+rijst#rust rijst zin rits zus
+hut#huur hut zit tuit ruit
+wit#sis wit wis hut stuur
+tut#instituut tut wist rusthuis dj
+strijd#quiz strijd zwijn stuurhut wijd
+quiz#sinds quiz dut tuinhuis tint
+//=== jtzxyqhsnwidurefmv ===
+y r w n t
+x n z i m
+z y q e i
+n e x v m
+f q j t x
+e n y y h
+r s n e s
+u n s y w
+f f u i w
+s j q v d
+s#visje zuidwest rijst hun mensheid
+e#zet de uren termiet neefjes
+d#idem zeventien vinden fuif mier
+i#fietst munt eieren sein ruisen
+u#stuurhut fusie huisdier deunen
+u#ruiten zwermen even tenzij dit
+e#mei teer tuindeur stuit hiermee
+i#ris inzien stuif stuif huisje
+d#tenen duw drummer definitie
+u#vuren west teniet turen verhuist
+jij eenden wijs vier tijd
+riet winnende id runderen mens
+fitter eten meute verwens reizen
+vinden uitmunten meeuw vette zeven
+rits universiteit smeet verft visnet
+hut fruit derde treden eettent
+stijve diertje westen stift steeds
+zweet windje steunt wind mest
+medium verdriet neven visite vind
+neuzen reuzen visie smet hun
+duwde#visje duwde eveneens uitzien
+sufferd#huisdieren sufferd duwt instem
+uiterst#herder uiterst huizen zeer
+vette#meerderheid vette dut inzit tijd
+tuinhuis#einde tuinhuis zweven rende
+rende#huisdeur rende verdun dij riemen
+ruimen#ver ruimen rit westen vijf
+huisdeur#tuurt huisdeur rusthuis duifje
+weten#meen weten muf wie meisjesstem
+zeedier#sijs zeedier feiten zeef uiteen
+//=== jtzxyqhsnwidurefmvabkl ===
+j a t z u
+b e l t x
+u d k z f
+f h u m n
+b j x n t
+r t k t v
+k l r u y
+n z f s w
+l a e y q
+d h x m y
+r#tezamen derhalve rivieren tabel
+e#binnenhaven bliksems eed ziet
+s#leermeester straf kruist leren
+e#verfris inbreuk reus leerde
+e#medewerkster draden bestaan dim vijf
+s#krees weerstaan zus maken bestuur
+h#uitziek nasi vaar heks vla
+k#heuvel stinkt krui frietjes
+n#beeld kabinet wankel mensheid
+k#labiel drie muurkrant blauwe
+ezels man minuut arriveren leerzaam
+welke zweef fabriek wandelen herleef
+sandaal kar uil deuk metra
+kurk liedjes tralie laatst au
+beste larve sterker ja inflatie
+mannelijk dis kenmerken neef traliewerk
+duidelijk eitje buil haken zweer
+hem harsen kurk kus kennissen
+terras alsmaar zwembad hiernaar lava
+erna zebra dansles barak tuindeur
+leert#neus kleuter leert brem krat
+nadien#zulke krijs nadien buks steekt
+herlees#uitmunten herlees blussen sein
+niets#weide niets luider bewaak vijl
+werkmeester#buitenlandse werkmeester
+anderszins#zeil anderszins zuilen kruik
+daarna#telkens daarna varen knal maatje
+instem#sierlijk instem hijskraan hart
+steunt#zweer steunt uitbraak klus beuk
+waarvandaan#betrekkelijk waarvandaan
+//=== jtzxyqhsnwidurefmvabklcgop ===
+v u l x a
+h k n p a
+k y l d w
+k u l n y
+s c i a d
+l d u f d
+b y x w n
+a s y n k
+n c e f z
+r k m r j
+n#vrijwel drankje baan huilende
+r#betreur codeer woonkamer teen
+e#eigen morsen geenszins wegkoop
+f#geeuw kraal reeks toeleg afwerken
+b#daarentegen toverbal
+r#verdoof afdaling kleurplaat
+g#weerwil teren era witregel wars
+e#platvis bloemperk buksen etsen gom
+d#frees poging drumband dooier
+o#toestellen boom keurig stortbak
+brand gebeten charmant gastheer striem
+stuur gewone tikfout adresboek weerslag
+opmeet lager regels heerlijk zuiver
+woordkeus struik doorgangen tegenover
+belasting sandaal zerk paus
+typen kenteken kiel bollen vruchtbaar
+toestem veertien muskus komaf uitdruipen
+centrifuge nemen springt voldoende
+struiken beren doorzien centreren
+woonkeuken zangles saaie beschikbaar
+boen#boen tongriem veilig knol knie
+ziekte#ziekte weglaat ouderdom wesp valk
+verhoor#verhoor beton houten noteer held
+snaar#kerkmuur darmen snaar soos gezwel
+ontkom#ontkom bruikleen breken leerjaar
+os#verniel poema fietser os stabiel
+dagen#stil jas tandarts dagen asperges
+zwel#zwel besmeer buisje daarentegen
+bakt#weghalen sluw bakt rechterhand
+afgelopen#speeldoos verklappen afgelopen
